@@ -1,0 +1,15606 @@
+get_all_movies: FAILURE
+add_movie: INVALID_INPUT
+add_movie: SUCCESS
+remove_group: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+rate_movie: SUCCESS
+get_all_movies_count: SUCCESS, 1
+user_watch: SUCCESS
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 1
+rate_movie: FAILURE
+rate_movie: SUCCESS
+remove_movie: FAILURE
+user_watch: SUCCESS
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 0
+add_user: SUCCESS
+remove_movie: SUCCESS
+get_all_movies_count: SUCCESS, 0
+add_group: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+user_watch: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+7863
+1332
+get_all_movies: FAILURE
+rate_movie: SUCCESS
+remove_user: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 6
+group_watch: FAILURE
+add_group: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+remove_user: SUCCESS
+get_all_movies_count: SUCCESS, 2
+remove_movie: SUCCESS
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+remove_group: SUCCESS
+remove_user: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 1
+add_user: SUCCESS
+remove_group: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+add_group: SUCCESS
+rate_movie: SUCCESS
+get_all_movies: SUCCESS
+6722
+remove_movie: SUCCESS
+remove_movie: SUCCESS
+group_watch: FAILURE
+remove_group: FAILURE
+remove_group: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+add_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+2681
+3971
+get_all_movies: SUCCESS
+2681
+3971
+rate_movie: FAILURE
+add_user: SUCCESS
+user_watch: FAILURE
+add_movie: INVALID_INPUT
+rate_movie: FAILURE
+rate_movie: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+get_num_views: SUCCESS, 0
+rate_movie: SUCCESS
+remove_user: SUCCESS
+group_watch: SUCCESS
+get_all_movies: SUCCESS
+7863
+1332
+get_all_movies_count: SUCCESS, 2
+remove_group: SUCCESS
+rate_movie: SUCCESS
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+add_user: FAILURE
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+7863
+1332
+group_watch: FAILURE
+add_movie: INVALID_INPUT
+remove_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_user: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+group_watch: FAILURE
+remove_user: SUCCESS
+user_watch: SUCCESS
+add_user: SUCCESS
+add_movie: FAILURE
+get_num_views: SUCCESS, 0
+add_movie: FAILURE
+get_all_movies: FAILURE
+add_movie: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+get_group_recommendation: SUCCESS, 7863
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+5698
+9056
+548
+4848
+920
+4740
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+remove_group: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+user_watch: SUCCESS
+remove_movie: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+2681
+5698
+9056
+7863
+4084
+548
+8486
+4848
+920
+944
+4740
+1332
+add_movie: SUCCESS
+remove_group: FAILURE
+add_movie: SUCCESS
+add_group: FAILURE
+add_group: SUCCESS
+add_movie: SUCCESS
+group_watch: FAILURE
+remove_user: SUCCESS
+remove_movie: SUCCESS
+get_num_views: SUCCESS, 0
+remove_group: SUCCESS
+group_watch: FAILURE
+add_movie: SUCCESS
+add_movie: INVALID_INPUT
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+5698
+548
+4848
+920
+4740
+9409
+3112
+add_movie: SUCCESS
+remove_user: SUCCESS
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 1
+user_watch: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 1
+rate_movie: INVALID_INPUT
+remove_group: SUCCESS
+add_movie: SUCCESS
+get_num_views: SUCCESS, 1
+add_user_to_group: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+5698
+991
+548
+4848
+920
+4740
+9409
+3112
+4241
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+group_watch: FAILURE
+add_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+8486
+4351
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 3
+add_user_to_group: FAILURE
+remove_group: SUCCESS
+add_user_to_group: FAILURE
+group_watch: FAILURE
+get_all_movies: SUCCESS
+2681
+5698
+7863
+991
+4084
+548
+5411
+8486
+4351
+4848
+920
+944
+860
+4740
+2278
+9409
+3112
+4241
+1332
+remove_group: FAILURE
+add_user: SUCCESS
+group_watch: FAILURE
+remove_user: SUCCESS
+user_watch: SUCCESS
+add_movie: INVALID_INPUT
+get_all_movies_count: SUCCESS, 3
+remove_movie: SUCCESS
+add_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+remove_group: FAILURE
+user_watch: SUCCESS
+remove_user: SUCCESS
+group_watch: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+2681
+944
+add_movie: SUCCESS
+remove_group: FAILURE
+group_watch: FAILURE
+get_all_movies: SUCCESS
+2681
+5698
+7863
+991
+4084
+548
+8486
+4351
+6906
+4848
+920
+944
+860
+4740
+9409
+3112
+4241
+1332
+remove_group: FAILURE
+user_watch: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+2681
+5698
+7863
+991
+4084
+548
+8486
+4351
+6906
+4848
+920
+944
+860
+4740
+9409
+3112
+4241
+1332
+remove_movie: SUCCESS
+remove_movie: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+2681
+5698
+7863
+991
+4084
+548
+8486
+4351
+6906
+4848
+920
+944
+860
+4740
+9409
+4241
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+add_user: SUCCESS
+remove_group: SUCCESS
+group_watch: FAILURE
+get_all_movies: SUCCESS
+8486
+4351
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 2
+remove_movie: SUCCESS
+rate_movie: FAILURE
+add_group: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+2681
+5698
+7863
+991
+4084
+548
+4351
+6906
+4848
+920
+944
+860
+4740
+9409
+4241
+add_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+add_user: FAILURE
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+4351
+1296
+remove_movie: FAILURE
+add_user_to_group: SUCCESS
+group_watch: SUCCESS
+get_group_recommendation: SUCCESS, 4351
+remove_user: SUCCESS
+group_watch: SUCCESS
+remove_user: SUCCESS
+remove_movie: FAILURE
+add_movie: SUCCESS
+remove_movie: SUCCESS
+group_watch: FAILURE
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+7863
+4084
+860
+add_user: SUCCESS
+remove_movie: SUCCESS
+remove_movie: FAILURE
+get_all_movies_count: SUCCESS, 16
+remove_group: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+rate_movie: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 19
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+5272
+4351
+6195
+1296
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 4
+add_user: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+7863
+860
+user_watch: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+remove_user: SUCCESS
+remove_movie: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+548
+5698
+991
+4848
+8002
+920
+4740
+add_group: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+2681
+6906
+944
+4838
+2603
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+548
+2681
+5698
+6309
+7863
+991
+5272
+6906
+4848
+8002
+920
+944
+860
+4740
+6195
+4838
+2603
+1296
+add_movie: SUCCESS
+get_num_views: SUCCESS, 0
+get_group_recommendation: SUCCESS, 6309
+get_all_movies: SUCCESS
+6309
+4181
+5272
+6195
+1296
+add_user: SUCCESS
+get_all_movies: SUCCESS
+2681
+6906
+944
+4838
+2603
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+remove_user: SUCCESS
+remove_user: SUCCESS
+add_group: SUCCESS
+get_num_views: FAILURE
+remove_user: SUCCESS
+get_num_views: FAILURE
+add_user: SUCCESS
+remove_user: SUCCESS
+get_num_views: FAILURE
+add_user_to_group: FAILURE
+add_group: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+4181
+5272
+6195
+1296
+get_group_recommendation: FAILURE
+user_watch: FAILURE
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 7
+remove_movie: FAILURE
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+rate_movie: SUCCESS
+add_user_to_group: SUCCESS
+remove_movie: SUCCESS
+remove_movie: FAILURE
+remove_group: SUCCESS
+remove_movie: FAILURE
+get_group_recommendation: FAILURE
+group_watch: FAILURE
+remove_user: SUCCESS
+add_movie: SUCCESS
+get_num_views: SUCCESS, 1
+group_watch: SUCCESS
+get_num_views: SUCCESS, 0
+remove_movie: SUCCESS
+rate_movie: FAILURE
+add_user: SUCCESS
+add_group: SUCCESS
+remove_movie: SUCCESS
+add_user: SUCCESS
+user_watch: FAILURE
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+7863
+860
+6890
+get_all_movies: SUCCESS
+2681
+6906
+2677
+944
+4838
+2603
+get_all_movies_count: SUCCESS, 5
+user_watch: SUCCESS
+user_watch: FAILURE
+group_watch: FAILURE
+remove_user: SUCCESS
+add_group: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+remove_group: SUCCESS
+group_watch: SUCCESS
+user_watch: SUCCESS
+group_watch: SUCCESS
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 6
+add_user_to_group: FAILURE
+add_user_to_group: SUCCESS
+remove_group: SUCCESS
+remove_movie: SUCCESS
+group_watch: SUCCESS
+user_watch: SUCCESS
+remove_user: FAILURE
+add_user: SUCCESS
+get_all_movies: SUCCESS
+7863
+860
+6890
+rate_movie: SUCCESS
+get_all_movies: SUCCESS
+2681
+6906
+2677
+944
+4838
+2603
+remove_group: SUCCESS
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+remove_movie: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+group_watch: FAILURE
+add_movie: INVALID_INPUT
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+add_user_to_group: SUCCESS
+remove_group: SUCCESS
+remove_group: FAILURE
+get_all_movies: SUCCESS
+2681
+2677
+944
+4838
+2603
+add_user: SUCCESS
+group_watch: FAILURE
+get_num_views: FAILURE
+group_watch: FAILURE
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 5
+group_watch: FAILURE
+get_all_movies: SUCCESS
+548
+991
+8002
+920
+user_watch: FAILURE
+remove_user: SUCCESS
+add_movie: SUCCESS
+get_num_views: FAILURE
+add_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: INVALID_INPUT
+remove_movie: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+user_watch: SUCCESS
+rate_movie: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+remove_user: FAILURE
+get_num_views: SUCCESS, 0
+add_group: FAILURE
+remove_user: SUCCESS
+rate_movie: FAILURE
+get_all_movies_count: SUCCESS, 18
+add_user: SUCCESS
+rate_movie: FAILURE
+add_movie: INVALID_INPUT
+rate_movie: INVALID_INPUT
+add_user: FAILURE
+remove_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+2681
+2677
+944
+6132
+4838
+add_movie: SUCCESS
+remove_group: SUCCESS
+remove_movie: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+add_user_to_group: FAILURE
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: FAILURE
+get_all_movies_count: SUCCESS, 5
+get_all_movies: SUCCESS
+2681
+8151
+2677
+944
+6132
+4838
+get_group_recommendation: FAILURE
+group_watch: FAILURE
+add_movie: SUCCESS
+rate_movie: FAILURE
+remove_group: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+user_watch: FAILURE
+add_user: SUCCESS
+remove_group: FAILURE
+add_user: SUCCESS
+user_watch: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: FAILURE
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+4181
+5272
+4725
+88
+1296
+group_watch: FAILURE
+add_user: SUCCESS
+get_all_movies: SUCCESS
+548
+991
+1733
+8002
+920
+5158
+2051
+get_num_views: SUCCESS, 0
+remove_movie: SUCCESS
+get_all_movies_count: SUCCESS, 26
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 7
+group_watch: FAILURE
+add_user: SUCCESS
+get_group_recommendation: SUCCESS, 7863
+get_group_recommendation: SUCCESS, 7863
+add_user: SUCCESS
+add_group: SUCCESS
+user_watch: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+548
+2681
+7863
+991
+1733
+8151
+4181
+888
+5272
+4075
+8002
+2677
+920
+944
+6132
+860
+4725
+88
+5158
+4838
+2051
+1296
+1980
+8418
+get_all_movies: SUCCESS
+7863
+888
+860
+8418
+user_watch: SUCCESS
+group_watch: FAILURE
+get_all_movies: SUCCESS
+6309
+6195
+4181
+5272
+4725
+88
+1296
+add_user: SUCCESS
+add_user: SUCCESS
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+7863
+888
+860
+8418
+rate_movie: FAILURE
+get_all_movies: SUCCESS
+548
+991
+1733
+8002
+920
+5158
+2051
+remove_movie: SUCCESS
+remove_user: SUCCESS
+add_group: FAILURE
+remove_group: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+group_watch: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 3
+rate_movie: INVALID_INPUT
+add_movie: INVALID_INPUT
+add_movie: SUCCESS
+remove_movie: FAILURE
+add_movie: SUCCESS
+get_num_views: FAILURE
+add_user: SUCCESS
+remove_user: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+rate_movie: FAILURE
+get_all_movies: SUCCESS
+6309
+6195
+4181
+5272
+4725
+88
+1296
+remove_group: FAILURE
+add_group: SUCCESS
+add_user: SUCCESS
+remove_user: SUCCESS
+get_num_views: FAILURE
+user_watch: FAILURE
+add_movie: SUCCESS
+remove_user: SUCCESS
+get_num_views: FAILURE
+remove_user: SUCCESS
+remove_movie: SUCCESS
+add_user_to_group: FAILURE
+add_group: SUCCESS
+add_movie: INVALID_INPUT
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+548
+2681
+7863
+991
+1733
+2734
+8151
+4181
+888
+4075
+8002
+2677
+920
+944
+6132
+860
+4725
+88
+5158
+4838
+2051
+9086
+1296
+1980
+3828
+add_movie: INVALID_INPUT
+rate_movie: FAILURE
+rate_movie: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+548
+991
+1733
+8002
+920
+5158
+2051
+3828
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 8
+rate_movie: INVALID_INPUT
+get_all_movies_count: SUCCESS, 4
+group_watch: FAILURE
+user_watch: SUCCESS
+get_all_movies_count: SUCCESS, 6
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+user_watch: FAILURE
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 30
+get_num_views: SUCCESS, 0
+get_all_movies_count: SUCCESS, 8
+add_user: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+548
+991
+1733
+8002
+920
+5158
+2051
+3828
+group_watch: FAILURE
+get_all_movies: SUCCESS
+6309
+6195
+548
+2681
+7863
+991
+1733
+2734
+8151
+4181
+888
+5163
+4075
+8002
+2677
+920
+8958
+944
+6132
+860
+4725
+88
+5158
+4838
+2051
+9086
+1296
+1980
+2593
+3828
+get_all_movies: SUCCESS
+548
+991
+1733
+8002
+920
+5158
+2051
+3828
+rate_movie: FAILURE
+remove_movie: FAILURE
+add_user_to_group: FAILURE
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+548
+991
+1733
+8002
+920
+5158
+2051
+3828
+get_all_movies: SUCCESS
+6309
+6195
+4181
+4725
+88
+1296
+2593
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies_count: SUCCESS, 30
+get_group_recommendation: FAILURE
+remove_group: SUCCESS
+add_user: SUCCESS
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: FAILURE
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+548
+991
+1733
+8002
+920
+5158
+2051
+3828
+get_num_views: SUCCESS, 0
+user_watch: FAILURE
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+548
+991
+1733
+8002
+920
+5158
+2051
+3828
+get_all_movies_count: SUCCESS, 5
+add_movie: SUCCESS
+remove_user: SUCCESS
+remove_movie: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+548
+991
+8002
+920
+5158
+2051
+3828
+rate_movie: INVALID_INPUT
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+2681
+8151
+5163
+4075
+2677
+944
+6132
+737
+4838
+9086
+1980
+add_user: SUCCESS
+user_watch: FAILURE
+group_watch: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+548
+991
+8002
+920
+5158
+2051
+3828
+rate_movie: SUCCESS
+add_user: SUCCESS
+remove_user: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: FAILURE
+remove_movie: SUCCESS
+add_user_to_group: SUCCESS
+add_user_to_group: FAILURE
+user_watch: SUCCESS
+get_all_movies_count: SUCCESS, 31
+remove_group: SUCCESS
+add_group: SUCCESS
+remove_movie: SUCCESS
+user_watch: SUCCESS
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+get_all_movies_count: SUCCESS, 8
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: FAILURE
+user_watch: SUCCESS
+add_movie: SUCCESS
+user_watch: SUCCESS
+add_group: SUCCESS
+group_watch: SUCCESS
+add_group: SUCCESS
+rate_movie: INVALID_INPUT
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+remove_movie: FAILURE
+get_num_views: SUCCESS, 0
+group_watch: SUCCESS
+remove_group: SUCCESS
+user_watch: FAILURE
+add_user_to_group: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+4181
+4725
+1296
+2593
+remove_user: SUCCESS
+add_group: SUCCESS
+user_watch: SUCCESS
+get_all_movies_count: SUCCESS, 32
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 9
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+group_watch: SUCCESS
+user_watch: FAILURE
+get_all_movies: SUCCESS
+2681
+8151
+5163
+4075
+2677
+944
+6132
+737
+4838
+1980
+9363
+add_user: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+2681
+7863
+991
+2734
+8151
+4181
+888
+1303
+5163
+4075
+8002
+2677
+920
+8958
+944
+6132
+860
+4725
+8113
+5158
+737
+4838
+9162
+2051
+1296
+2593
+1980
+4337
+9363
+3828
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+user_watch: SUCCESS
+user_watch: FAILURE
+add_movie: FAILURE
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_user_to_group: FAILURE
+get_num_views: FAILURE
+add_movie: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+6309
+6195
+4181
+4725
+1296
+2593
+1399
+add_group: SUCCESS
+remove_user: FAILURE
+remove_group: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+group_watch: FAILURE
+add_user: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+2681
+7863
+991
+2734
+8151
+4181
+888
+1303
+5163
+4075
+9982
+8002
+2677
+920
+8958
+944
+6132
+860
+4725
+8113
+5158
+737
+4838
+9162
+2051
+1296
+2593
+1980
+1399
+4337
+9363
+3828
+get_num_views: SUCCESS, 1
+add_user: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 9
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+7863
+2734
+888
+9982
+8958
+860
+4337
+add_movie: FAILURE
+get_all_movies: SUCCESS
+2681
+8151
+5163
+4075
+2677
+944
+6132
+737
+4838
+1980
+9363
+add_user: SUCCESS
+add_user_to_group: FAILURE
+get_all_movies: SUCCESS
+991
+1303
+8002
+920
+8113
+5158
+9162
+2051
+3828
+add_user: SUCCESS
+user_watch: FAILURE
+add_movie: SUCCESS
+user_watch: FAILURE
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+2681
+8151
+5163
+4075
+2677
+944
+6132
+737
+4838
+1980
+9363
+get_all_movies_count: SUCCESS, 7
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+7863
+2734
+888
+9982
+8958
+860
+4337
+add_user: SUCCESS
+get_all_movies: SUCCESS
+2681
+8151
+5163
+4075
+2677
+944
+6132
+737
+4838
+1980
+9363
+get_all_movies: SUCCESS
+6309
+6195
+2681
+7863
+991
+1868
+2734
+8151
+4181
+888
+1303
+5163
+4075
+9982
+8002
+2677
+920
+8958
+944
+6132
+860
+4725
+8113
+5158
+737
+4838
+9162
+2051
+1296
+2593
+1980
+1399
+4337
+9363
+3828
+user_watch: SUCCESS
+remove_user: SUCCESS
+rate_movie: FAILURE
+add_user: SUCCESS
+remove_movie: SUCCESS
+remove_user: SUCCESS
+remove_group: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+add_user: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+991
+1303
+8002
+920
+8113
+5158
+9162
+2051
+3828
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+remove_user: SUCCESS
+get_all_movies_count: SUCCESS, 10
+add_user_to_group: SUCCESS
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+get_all_movies: SUCCESS
+6309
+6195
+1868
+4181
+4725
+1296
+2593
+1399
+get_group_recommendation: FAILURE
+remove_user: FAILURE
+remove_user: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 7
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+1868
+4181
+4725
+1296
+2593
+1399
+add_group: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+get_num_views: SUCCESS, 0
+remove_movie: FAILURE
+get_all_movies: SUCCESS
+6309
+6195
+2681
+641
+7863
+991
+1868
+2734
+8151
+4181
+888
+1303
+5163
+4075
+9982
+8002
+2677
+920
+8958
+944
+6132
+860
+4725
+8113
+2580
+5158
+737
+4838
+9162
+2051
+1296
+2593
+1980
+1399
+4337
+3828
+remove_movie: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+1868
+4181
+4725
+1296
+2593
+1399
+remove_user: FAILURE
+get_all_movies: SUCCESS
+991
+1303
+8002
+920
+8113
+2580
+5158
+9162
+2051
+795
+3828
+get_all_movies: SUCCESS
+991
+1303
+8002
+920
+8113
+2580
+5158
+9162
+2051
+795
+3828
+add_group: SUCCESS
+add_group: SUCCESS
+user_watch: INVALID_INPUT
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 7
+get_all_movies: SUCCESS
+991
+1303
+8002
+920
+8113
+2580
+5158
+9162
+2051
+795
+3828
+rate_movie: INVALID_INPUT
+add_user_to_group: FAILURE
+remove_movie: SUCCESS
+rate_movie: FAILURE
+add_movie: SUCCESS
+rate_movie: SUCCESS
+add_movie: INVALID_INPUT
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+get_num_views: SUCCESS, 0
+add_user_to_group: FAILURE
+add_movie: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+remove_user: SUCCESS
+remove_movie: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+add_movie: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+rate_movie: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+2681
+888
+7863
+641
+991
+1868
+6170
+8151
+4181
+1303
+5163
+4075
+9258
+9982
+8002
+2677
+920
+8958
+944
+6132
+860
+4725
+8113
+2580
+5158
+737
+4838
+9162
+2051
+2593
+1980
+6655
+2202
+1399
+795
+4337
+3828
+5971
+get_all_movies_count: SUCCESS, 40
+add_movie: SUCCESS
+user_watch: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+2681
+641
+8151
+5163
+4075
+2677
+944
+6132
+737
+4838
+1980
+remove_movie: SUCCESS
+rate_movie: SUCCESS
+user_watch: FAILURE
+group_watch: FAILURE
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 12
+add_group: SUCCESS
+add_movie: INVALID_INPUT
+add_group: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+remove_movie: SUCCESS
+remove_user: SUCCESS
+add_user: SUCCESS
+remove_group: SUCCESS
+remove_movie: FAILURE
+get_group_recommendation: FAILURE
+rate_movie: SUCCESS
+remove_group: SUCCESS
+remove_movie: SUCCESS
+add_user_to_group: FAILURE
+group_watch: FAILURE
+remove_user: SUCCESS
+remove_movie: SUCCESS
+rate_movie: SUCCESS
+remove_user: SUCCESS
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 38
+group_watch: SUCCESS
+remove_group: FAILURE
+get_group_recommendation: FAILURE
+user_watch: SUCCESS
+remove_movie: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: FAILURE
+user_watch: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_user_to_group: SUCCESS
+remove_movie: FAILURE
+user_watch: SUCCESS
+remove_user: SUCCESS
+get_group_recommendation: FAILURE
+get_group_recommendation: SUCCESS, 737
+add_group: SUCCESS
+remove_movie: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+888
+7863
+9982
+8958
+860
+4337
+add_user: SUCCESS
+get_all_movies: SUCCESS
+737
+2681
+641
+8151
+5163
+2677
+944
+6132
+2382
+4838
+add_movie: INVALID_INPUT
+remove_user: SUCCESS
+rate_movie: INVALID_INPUT
+group_watch: FAILURE
+add_user: SUCCESS
+remove_group: SUCCESS
+add_movie: INVALID_INPUT
+group_watch: FAILURE
+add_user_to_group: SUCCESS
+group_watch: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+737
+6309
+2580
+6195
+2681
+888
+7863
+641
+991
+1868
+8151
+4181
+1303
+5163
+9258
+9982
+8002
+2677
+8958
+944
+6132
+2382
+860
+4725
+8113
+5158
+1981
+4838
+9162
+2051
+2593
+6655
+2202
+795
+1399
+4337
+3828
+add_user_to_group: SUCCESS
+user_watch: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+888
+7863
+9982
+8958
+860
+4906
+4337
+user_watch: FAILURE
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+user_watch: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 11
+get_num_views: SUCCESS, 0
+remove_user: SUCCESS
+get_num_views: SUCCESS, 0
+get_num_views: SUCCESS, 0
+remove_user: SUCCESS
+remove_movie: SUCCESS
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 11
+rate_movie: FAILURE
+add_group: SUCCESS
+group_watch: FAILURE
+remove_group: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 11
+get_num_views: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+737
+2681
+641
+8151
+5163
+159
+2677
+944
+6132
+2382
+4838
+8955
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: INVALID_INPUT
+get_all_movies: SUCCESS
+737
+6309
+2580
+6195
+2681
+888
+7863
+8483
+641
+991
+1868
+8151
+4181
+1303
+5163
+9258
+9982
+8002
+159
+2677
+2902
+8958
+944
+6132
+2382
+860
+4725
+8113
+5158
+1981
+4838
+9162
+2051
+2593
+4906
+6655
+2202
+795
+1399
+8955
+3828
+add_movie: SUCCESS
+remove_user: SUCCESS
+add_user_to_group: FAILURE
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 13
+add_group: SUCCESS
+group_watch: FAILURE
+remove_movie: SUCCESS
+remove_user: FAILURE
+add_movie: SUCCESS
+add_user: SUCCESS
+rate_movie: SUCCESS
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+1868
+4181
+9258
+2902
+4725
+1981
+2593
+1399
+get_all_movies: SUCCESS
+737
+2681
+641
+8151
+5163
+8129
+159
+2677
+944
+6132
+2382
+5171
+4838
+8955
+add_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+1868
+4181
+9258
+2902
+4725
+1981
+2593
+1399
+rate_movie: FAILURE
+add_user: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_user: FAILURE
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 11
+get_all_movies: SUCCESS
+888
+7863
+8483
+9982
+8958
+860
+4906
+add_group: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+1868
+4181
+9258
+2902
+4725
+1981
+2593
+1399
+get_num_views: SUCCESS, 0
+add_movie: INVALID_INPUT
+get_group_recommendation: SUCCESS, 6309
+add_group: SUCCESS
+add_user: SUCCESS
+add_group: FAILURE
+rate_movie: INVALID_INPUT
+add_movie: SUCCESS
+group_watch: FAILURE
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+add_movie: SUCCESS
+user_watch: FAILURE
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 11
+group_watch: FAILURE
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+remove_group: SUCCESS
+add_movie: INVALID_INPUT
+add_group: SUCCESS
+remove_movie: FAILURE
+get_num_views: FAILURE
+user_watch: FAILURE
+remove_group: FAILURE
+remove_group: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+737
+2681
+641
+8151
+5163
+353
+8129
+159
+2677
+944
+6132
+2382
+5171
+4838
+8955
+get_num_views: SUCCESS, 0
+get_num_views: SUCCESS, 0
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 11
+get_all_movies: SUCCESS
+737
+2681
+641
+8151
+5163
+353
+8129
+159
+2677
+944
+6132
+2382
+5171
+4838
+8955
+get_all_movies_count: SUCCESS, 15
+get_all_movies_count: SUCCESS, 45
+remove_movie: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+get_group_recommendation: FAILURE
+group_watch: FAILURE
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+737
+2681
+641
+8151
+5163
+353
+8129
+159
+2677
+944
+6132
+2382
+5171
+4838
+8955
+add_user: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+user_watch: SUCCESS
+user_watch: SUCCESS
+rate_movie: FAILURE
+remove_group: SUCCESS
+user_watch: FAILURE
+get_num_views: SUCCESS, 0
+user_watch: SUCCESS
+add_movie: SUCCESS
+group_watch: FAILURE
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+888
+7863
+8483
+9982
+8958
+860
+4906
+3124
+get_all_movies_count: SUCCESS, 11
+add_user: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+group_watch: FAILURE
+get_num_views: SUCCESS, 0
+add_user_to_group: FAILURE
+add_user_to_group: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+737
+3828
+6309
+2580
+6195
+2681
+888
+7863
+8483
+641
+8003
+991
+1868
+8151
+4181
+1303
+5163
+353
+9258
+8129
+9982
+8002
+159
+2677
+2902
+8958
+944
+6132
+2382
+860
+5171
+4725
+8113
+5158
+1981
+4838
+9162
+2051
+2834
+2593
+4906
+2202
+1399
+8955
+3124
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+add_movie: SUCCESS
+user_watch: FAILURE
+add_user: SUCCESS
+remove_group: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+8003
+1868
+4181
+9258
+2902
+4725
+1981
+2593
+1399
+get_all_movies: SUCCESS
+888
+7863
+8483
+9982
+8958
+860
+4906
+3124
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+2580
+991
+1303
+8002
+8113
+5158
+9162
+2051
+2834
+2202
+6261
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+737
+3828
+6309
+2580
+6195
+2681
+888
+7863
+8483
+641
+8003
+991
+1868
+8151
+4181
+1303
+5163
+353
+9258
+8129
+9982
+8002
+159
+2677
+2902
+8958
+944
+6132
+2382
+860
+5171
+4725
+8113
+5158
+1981
+4838
+9162
+2051
+2834
+2593
+4906
+2202
+1399
+8955
+6261
+3124
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+get_group_recommendation: SUCCESS, 3828
+add_group: SUCCESS
+add_movie: INVALID_INPUT
+add_user_to_group: FAILURE
+add_user_to_group: FAILURE
+get_group_recommendation: SUCCESS, 6309
+group_watch: FAILURE
+add_movie: FAILURE
+rate_movie: SUCCESS
+get_group_recommendation: FAILURE
+user_watch: SUCCESS
+user_watch: FAILURE
+group_watch: FAILURE
+add_user: FAILURE
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+8003
+1868
+4181
+9258
+2902
+4725
+1981
+2593
+1399
+add_movie: SUCCESS
+remove_user: SUCCESS
+add_movie: SUCCESS
+group_watch: FAILURE
+user_watch: SUCCESS
+add_user_to_group: SUCCESS
+get_group_recommendation: SUCCESS, 888
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+user_watch: SUCCESS
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+8003
+1868
+4181
+9258
+2902
+2140
+4725
+1981
+2593
+1399
+remove_user: SUCCESS
+group_watch: FAILURE
+get_num_views: SUCCESS, 0
+remove_movie: SUCCESS
+remove_movie: FAILURE
+get_all_movies_count: SUCCESS, 12
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+888
+7863
+8483
+9982
+8958
+860
+4906
+3124
+remove_group: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies_count: SUCCESS, 15
+remove_user: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+737
+2681
+641
+8151
+5163
+353
+8129
+2677
+944
+6132
+2382
+5171
+4838
+8955
+7248
+get_group_recommendation: SUCCESS, 6309
+remove_user: SUCCESS
+remove_user: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies_count: SUCCESS, 12
+add_movie: INVALID_INPUT
+add_group: SUCCESS
+user_watch: INVALID_INPUT
+get_num_views: SUCCESS, 0
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 12
+get_num_views: SUCCESS, 1
+add_movie: INVALID_INPUT
+rate_movie: SUCCESS
+user_watch: FAILURE
+add_user: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+737
+2681
+641
+8151
+5163
+353
+8129
+2677
+944
+6132
+2382
+5171
+4838
+8955
+7248
+add_user: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+6309
+6195
+4725
+8003
+1868
+4181
+9258
+2902
+2140
+1981
+2593
+1399
+remove_user: SUCCESS
+get_all_movies_count: SUCCESS, 47
+group_watch: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+remove_movie: FAILURE
+get_all_movies: SUCCESS
+3828
+2580
+991
+1303
+8002
+8113
+5158
+9162
+2051
+2834
+2202
+6261
+add_movie: INVALID_INPUT
+rate_movie: INVALID_INPUT
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 48
+add_movie: INVALID_INPUT
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+4725
+8003
+1868
+4181
+9258
+2902
+2140
+1981
+2593
+1399
+user_watch: SUCCESS
+add_movie: INVALID_INPUT
+remove_movie: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 11
+remove_group: FAILURE
+get_group_recommendation: FAILURE
+get_group_recommendation: FAILURE
+remove_group: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+user_watch: FAILURE
+remove_group: SUCCESS
+add_movie: SUCCESS
+remove_user: SUCCESS
+group_watch: FAILURE
+rate_movie: FAILURE
+add_group: SUCCESS
+group_watch: FAILURE
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+737
+3828
+6309
+2580
+6195
+2681
+888
+4725
+7863
+641
+8483
+8003
+9892
+991
+1868
+8151
+4181
+1303
+5163
+353
+9258
+8129
+9982
+8002
+2677
+2902
+8958
+944
+6132
+2382
+2140
+860
+5171
+8113
+6544
+5158
+1981
+4838
+9162
+2051
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+7248
+get_all_movies: SUCCESS
+3828
+2580
+991
+1303
+8002
+8113
+5158
+9162
+2051
+2834
+2202
+6261
+add_movie: SUCCESS
+remove_user: FAILURE
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+remove_movie: SUCCESS
+user_watch: FAILURE
+add_movie: INVALID_INPUT
+remove_user: FAILURE
+add_user_to_group: SUCCESS
+rate_movie: SUCCESS
+group_watch: SUCCESS
+get_group_recommendation: FAILURE
+group_watch: SUCCESS
+group_watch: FAILURE
+rate_movie: FAILURE
+add_group: SUCCESS
+add_user_to_group: FAILURE
+add_user: SUCCESS
+group_watch: FAILURE
+add_movie: INVALID_INPUT
+user_watch: SUCCESS
+user_watch: SUCCESS
+rate_movie: SUCCESS
+group_watch: FAILURE
+get_group_recommendation: FAILURE
+add_movie: INVALID_INPUT
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+737
+6544
+2681
+8129
+641
+8151
+5163
+353
+2677
+944
+6132
+2382
+5171
+4838
+8955
+7248
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+8003
+1868
+4181
+9258
+2902
+2140
+1981
+1399
+get_all_movies: SUCCESS
+737
+3828
+6309
+6544
+2580
+6195
+2681
+888
+7863
+8129
+641
+8483
+8003
+9892
+991
+1868
+8151
+4181
+1303
+5163
+353
+9258
+9982
+8002
+2677
+2902
+8958
+944
+6132
+2140
+2382
+860
+5171
+8113
+5765
+5158
+4838
+1981
+9162
+2051
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+7248
+add_user: SUCCESS
+remove_movie: SUCCESS
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 11
+group_watch: FAILURE
+add_group: SUCCESS
+add_user: SUCCESS
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+get_group_recommendation: FAILURE
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+3828
+2580
+991
+1303
+8002
+8113
+5765
+5158
+9162
+2051
+2834
+2202
+6261
+add_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+737
+6544
+2681
+8129
+641
+8151
+353
+2677
+944
+6132
+2382
+5171
+4838
+8955
+7248
+remove_movie: SUCCESS
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+group_watch: FAILURE
+remove_movie: SUCCESS
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+add_group: SUCCESS
+group_watch: FAILURE
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+add_group: SUCCESS
+add_movie: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+add_group: SUCCESS
+remove_group: FAILURE
+user_watch: FAILURE
+remove_movie: FAILURE
+add_user: SUCCESS
+get_all_movies: SUCCESS
+888
+7863
+8483
+9892
+9982
+8958
+860
+4906
+3124
+get_all_movies_count: SUCCESS, 15
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+group_watch: FAILURE
+remove_movie: FAILURE
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+888
+7863
+8483
+9892
+9982
+8958
+860
+4906
+3124
+get_num_views: SUCCESS, 0
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+add_movie: SUCCESS
+add_user_to_group: FAILURE
+add_user_to_group: SUCCESS
+user_watch: FAILURE
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+group_watch: FAILURE
+add_movie: SUCCESS
+rate_movie: SUCCESS
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+group_watch: FAILURE
+remove_group: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+add_movie: INVALID_INPUT
+remove_movie: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 13
+get_group_recommendation: FAILURE
+remove_user: SUCCESS
+add_group: SUCCESS
+user_watch: SUCCESS
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+remove_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+737
+3828
+6309
+6544
+2580
+6195
+2681
+2902
+888
+7863
+8129
+641
+5529
+8483
+8003
+9892
+1868
+8151
+487
+4181
+3658
+1303
+353
+418
+9258
+9982
+8002
+8958
+944
+6132
+2140
+2382
+860
+5171
+8113
+6025
+8891
+5765
+5158
+4838
+1981
+474
+3219
+9162
+2051
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+get_all_movies: SUCCESS
+888
+7863
+8483
+9892
+9982
+8958
+860
+4906
+3124
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+remove_group: SUCCESS
+add_movie: SUCCESS
+user_watch: FAILURE
+get_all_movies_count: SUCCESS, 53
+get_all_movies_count: SUCCESS, 13
+remove_group: FAILURE
+get_all_movies: SUCCESS
+737
+3828
+6309
+6544
+2580
+6195
+2681
+2902
+888
+7863
+8129
+641
+5529
+8483
+8003
+9892
+1868
+8151
+487
+4181
+3658
+1303
+353
+418
+9258
+9982
+8002
+8958
+944
+6132
+2140
+2382
+860
+5171
+8113
+6025
+8891
+5765
+5158
+4838
+1981
+474
+3219
+9162
+322
+2051
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+remove_movie: FAILURE
+remove_group: FAILURE
+get_num_views: SUCCESS, 0
+get_all_movies_count: SUCCESS, 13
+get_all_movies: SUCCESS
+3828
+2580
+5529
+1303
+8002
+8113
+5765
+5158
+9162
+2051
+2834
+2202
+6261
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+888
+7863
+8483
+9892
+9982
+8958
+860
+4906
+3124
+get_all_movies: SUCCESS
+6309
+6195
+2902
+8003
+1868
+4181
+9258
+2140
+6025
+8891
+1981
+3219
+1399
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 13
+remove_group: SUCCESS
+get_group_recommendation: FAILURE
+rate_movie: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+6309
+6195
+2902
+8003
+1868
+4181
+9258
+2140
+6025
+8891
+1981
+3219
+1399
+group_watch: FAILURE
+add_user: SUCCESS
+user_watch: SUCCESS
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 13
+add_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 13
+add_user: SUCCESS
+remove_group: SUCCESS
+get_group_recommendation: SUCCESS, 6309
+get_group_recommendation: SUCCESS, 888
+add_user: SUCCESS
+user_watch: SUCCESS
+add_movie: INVALID_INPUT
+group_watch: SUCCESS
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 10
+add_user_to_group: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+737
+6544
+2681
+8129
+641
+8151
+487
+3658
+353
+418
+944
+6132
+2382
+5171
+4838
+474
+322
+8955
+remove_movie: SUCCESS
+remove_movie: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+737
+3828
+6309
+6544
+2580
+6195
+2681
+2902
+888
+7863
+8129
+5529
+8483
+8003
+9892
+1868
+8151
+487
+4181
+3658
+1303
+353
+418
+9258
+9982
+8002
+8958
+944
+996
+6132
+2140
+2382
+860
+5171
+8113
+6025
+8891
+5765
+5158
+4838
+3219
+474
+9162
+322
+2051
+9554
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+get_all_movies_count: SUCCESS, 13
+add_user: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+remove_user: SUCCESS
+get_all_movies_count: SUCCESS, 13
+get_all_movies_count: SUCCESS, 10
+add_user_to_group: SUCCESS
+get_all_movies_count: SUCCESS, 17
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 10
+add_user_to_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+737
+6544
+2681
+8129
+8151
+487
+3658
+353
+418
+944
+6132
+2382
+5171
+3531
+4838
+474
+322
+8955
+remove_group: SUCCESS
+remove_movie: FAILURE
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+2902
+8003
+1868
+4181
+807
+9258
+996
+2140
+6025
+8891
+3219
+1399
+add_group: SUCCESS
+rate_movie: FAILURE
+remove_movie: SUCCESS
+get_group_recommendation: FAILURE
+add_user_to_group: FAILURE
+add_user: SUCCESS
+remove_group: FAILURE
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+737
+3828
+6309
+6544
+2580
+6195
+2681
+2902
+888
+7863
+8129
+5529
+8483
+8003
+9892
+1868
+8151
+487
+4181
+3658
+807
+1303
+353
+418
+9258
+9982
+8002
+8958
+944
+996
+6132
+2140
+2382
+860
+5171
+8113
+6025
+8891
+5765
+5158
+3531
+4838
+3219
+474
+9162
+2051
+9554
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+get_all_movies: SUCCESS
+888
+7863
+8483
+9892
+9982
+8958
+860
+9554
+4906
+3124
+add_movie: SUCCESS
+rate_movie: INVALID_INPUT
+remove_group: FAILURE
+remove_user: SUCCESS
+add_user: SUCCESS
+group_watch: FAILURE
+add_movie: INVALID_INPUT
+add_movie: SUCCESS
+add_user: FAILURE
+add_group: SUCCESS
+remove_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+737
+6544
+2681
+8129
+8151
+487
+3658
+353
+418
+944
+6132
+2382
+5171
+3531
+4838
+474
+8955
+remove_group: SUCCESS
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+737
+6544
+2681
+8129
+8151
+487
+3658
+5483
+353
+418
+944
+6132
+2382
+5171
+3531
+4838
+474
+8955
+remove_user: SUCCESS
+rate_movie: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+737
+6544
+2681
+8129
+8151
+487
+3658
+5483
+353
+418
+944
+6132
+2382
+5171
+3531
+4838
+474
+8955
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 18
+get_all_movies: SUCCESS
+3828
+2580
+5529
+5156
+1303
+8002
+8113
+5765
+5158
+9162
+2051
+2834
+2202
+6261
+get_num_views: SUCCESS, 0
+remove_movie: FAILURE
+get_all_movies_count: SUCCESS, 13
+add_user_to_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+2902
+8003
+1868
+8968
+4181
+807
+9258
+996
+2140
+6025
+8891
+3219
+1399
+add_group: SUCCESS
+group_watch: FAILURE
+add_user_to_group: FAILURE
+get_all_movies: SUCCESS
+6309
+6195
+2902
+8003
+1868
+8968
+4181
+807
+9258
+996
+2140
+6025
+8891
+3219
+1399
+add_user: SUCCESS
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+6309
+6195
+2902
+8003
+1868
+8968
+4181
+807
+9258
+996
+2140
+6025
+8891
+3219
+1399
+add_group: SUCCESS
+user_watch: FAILURE
+add_user: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+remove_group: FAILURE
+add_group: SUCCESS
+user_watch: FAILURE
+get_all_movies: SUCCESS
+888
+7863
+8483
+9892
+9982
+8958
+1803
+860
+5454
+2588
+9554
+4906
+3124
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+remove_movie: SUCCESS
+group_watch: FAILURE
+remove_user: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+737
+3828
+6309
+6544
+2580
+6195
+2681
+2902
+888
+7863
+8129
+5529
+5156
+8483
+8003
+9892
+1868
+8151
+487
+8968
+4181
+3658
+5483
+807
+1303
+353
+418
+9258
+9982
+8958
+944
+996
+1803
+6132
+2140
+2382
+860
+5171
+8113
+6025
+8891
+5765
+5158
+3531
+4838
+3219
+474
+9162
+5454
+2588
+2051
+9554
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+add_movie: INVALID_INPUT
+get_group_recommendation: FAILURE
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+737
+6544
+2681
+8129
+8151
+487
+3658
+5483
+353
+418
+944
+6132
+2382
+5171
+3531
+4838
+474
+8955
+add_user: SUCCESS
+group_watch: FAILURE
+user_watch: SUCCESS
+group_watch: FAILURE
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+remove_user: SUCCESS
+add_user_to_group: FAILURE
+get_group_recommendation: FAILURE
+rate_movie: FAILURE
+add_group: SUCCESS
+remove_user: SUCCESS
+get_num_views: SUCCESS, 1
+get_all_movies: SUCCESS
+737
+3828
+6309
+6544
+2580
+6195
+2681
+2902
+888
+7863
+8129
+5529
+5156
+8483
+8003
+9892
+1868
+8151
+487
+8968
+4181
+3658
+5483
+807
+1303
+353
+418
+9258
+9982
+8958
+944
+996
+1803
+6132
+2140
+2382
+860
+5171
+8113
+6025
+8891
+5765
+5158
+3531
+4838
+474
+3219
+9162
+5454
+2588
+2051
+9554
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+rate_movie: FAILURE
+remove_user: SUCCESS
+add_movie: INVALID_INPUT
+rate_movie: SUCCESS
+add_user: SUCCESS
+group_watch: FAILURE
+rate_movie: SUCCESS
+remove_group: SUCCESS
+add_user: SUCCESS
+remove_group: FAILURE
+add_movie: INVALID_INPUT
+rate_movie: FAILURE
+add_movie: SUCCESS
+group_watch: FAILURE
+add_user: SUCCESS
+remove_group: SUCCESS
+get_num_views: SUCCESS, 1
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+737
+3828
+6309
+6544
+2580
+6195
+2681
+2902
+996
+888
+7863
+8129
+5529
+5156
+8483
+8003
+9892
+1868
+8151
+487
+8968
+4181
+3658
+5483
+807
+1303
+353
+418
+9258
+9982
+8958
+944
+1803
+6132
+2140
+2382
+860
+5171
+8113
+1286
+6025
+8891
+5765
+5158
+3531
+4838
+474
+3219
+9162
+5454
+2588
+2051
+9554
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+remove_movie: FAILURE
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+737
+3828
+6309
+6544
+2580
+6195
+2681
+2902
+996
+888
+7863
+8129
+5529
+5156
+8483
+8003
+9892
+1868
+2404
+8151
+487
+8968
+4181
+3658
+5483
+807
+1303
+353
+418
+9258
+9982
+8958
+944
+1803
+6132
+2140
+2382
+860
+5171
+8113
+1286
+6025
+8891
+5765
+5158
+3531
+4838
+474
+3219
+9162
+5454
+2588
+2051
+9554
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+add_user: SUCCESS
+add_group: SUCCESS
+group_watch: FAILURE
+user_watch: FAILURE
+add_movie: SUCCESS
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+737
+3828
+6309
+6544
+2580
+6195
+2681
+2902
+996
+888
+7863
+8129
+5529
+5156
+8483
+8003
+6344
+9892
+1868
+2404
+8151
+487
+8968
+4181
+3658
+5483
+807
+1303
+353
+418
+9258
+9982
+8958
+944
+1803
+6132
+2140
+2382
+860
+5171
+8113
+1286
+6025
+8891
+5765
+5158
+3531
+4838
+474
+3219
+9162
+5454
+2588
+2051
+9554
+2834
+4906
+2202
+1399
+8955
+6261
+3124
+add_user_to_group: FAILURE
+get_num_views: SUCCESS, 0
+remove_user: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+rate_movie: SUCCESS
+remove_movie: SUCCESS
+rate_movie: SUCCESS
+remove_movie: FAILURE
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+2902
+996
+8003
+1868
+2404
+8968
+4181
+807
+9258
+2140
+6025
+8891
+3219
+1399
+get_num_views: SUCCESS, 0
+remove_user: SUCCESS
+rate_movie: SUCCESS
+remove_user: FAILURE
+get_num_views: SUCCESS, 0
+add_user_to_group: SUCCESS
+remove_movie: FAILURE
+remove_movie: FAILURE
+remove_group: SUCCESS
+group_watch: SUCCESS
+add_user_to_group: FAILURE
+get_all_movies_count: SUCCESS, 14
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 14
+add_user: SUCCESS
+user_watch: FAILURE
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+remove_group: SUCCESS
+user_watch: FAILURE
+get_all_movies_count: SUCCESS, 61
+group_watch: FAILURE
+group_watch: FAILURE
+get_group_recommendation: FAILURE
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 61
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+4020
+9892
+9982
+8958
+1803
+860
+5454
+9554
+4906
+3124
+rate_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+3828
+6309
+6544
+8955
+2580
+6195
+2902
+2588
+2681
+996
+888
+7863
+8129
+5529
+5156
+8483
+8003
+4020
+6344
+9892
+1868
+2404
+8151
+487
+8968
+4181
+3658
+5483
+807
+1303
+353
+418
+9258
+9982
+8958
+944
+1803
+6132
+2140
+2382
+6025
+860
+5171
+8113
+1286
+8891
+5158
+3531
+4838
+474
+3219
+9162
+5454
+2051
+9554
+2834
+4906
+2202
+1399
+6261
+3124
+remove_movie: SUCCESS
+add_movie: SUCCESS
+add_user: FAILURE
+get_num_views: SUCCESS, 1
+rate_movie: SUCCESS
+remove_movie: SUCCESS
+user_watch: FAILURE
+add_group: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+add_user_to_group: FAILURE
+add_user: SUCCESS
+group_watch: FAILURE
+add_movie: INVALID_INPUT
+get_group_recommendation: SUCCESS, 6309
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+get_num_views: FAILURE
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+remove_user: SUCCESS
+add_user: SUCCESS
+remove_user: SUCCESS
+remove_user: SUCCESS
+remove_movie: SUCCESS
+remove_user: SUCCESS
+get_all_movies_count: SUCCESS, 60
+rate_movie: FAILURE
+remove_user: SUCCESS
+add_group: SUCCESS
+rate_movie: INVALID_INPUT
+add_group: SUCCESS
+group_watch: SUCCESS
+get_group_recommendation: FAILURE
+rate_movie: INVALID_INPUT
+user_watch: FAILURE
+add_movie: INVALID_INPUT
+get_num_views: FAILURE
+get_all_movies: SUCCESS
+3828
+6344
+2580
+5529
+5156
+1303
+8113
+1286
+5158
+9162
+2051
+2834
+2202
+get_all_movies_count: SUCCESS, 60
+add_group: SUCCESS
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 14
+add_movie: SUCCESS
+remove_user: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+6309
+6195
+2902
+996
+8003
+1868
+2404
+8968
+4181
+807
+9258
+2140
+8891
+3219
+1399
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+8664
+4020
+9892
+8958
+1803
+860
+5454
+9554
+4906
+3124
+user_watch: FAILURE
+remove_movie: SUCCESS
+remove_user: SUCCESS
+remove_user: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: SUCCESS
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 18
+group_watch: FAILURE
+add_user_to_group: FAILURE
+add_group: SUCCESS
+user_watch: SUCCESS
+rate_movie: FAILURE
+remove_group: SUCCESS
+rate_movie: INVALID_INPUT
+remove_movie: FAILURE
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+8664
+4020
+9892
+8958
+860
+5454
+9554
+4906
+3124
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+8664
+4020
+9892
+8958
+860
+5454
+9554
+4906
+3124
+get_group_recommendation: SUCCESS, 2588
+get_all_movies_count: SUCCESS, 15
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 14
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+8664
+4020
+9892
+9782
+8958
+860
+5454
+9554
+4906
+3124
+add_user_to_group: SUCCESS
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+user_watch: FAILURE
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+add_user: SUCCESS
+user_watch: SUCCESS
+user_watch: FAILURE
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+group_watch: FAILURE
+remove_group: SUCCESS
+add_user_to_group: FAILURE
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+3828
+6309
+6544
+8955
+6344
+2580
+6195
+2902
+2588
+2681
+996
+888
+7863
+8129
+5156
+5529
+8483
+8664
+8003
+4020
+9892
+1868
+2404
+8151
+487
+8968
+4181
+3658
+5483
+807
+1303
+353
+418
+9258
+9782
+8958
+944
+6132
+2140
+2382
+860
+5171
+8113
+1286
+8891
+5158
+3531
+4838
+2649
+474
+3219
+9162
+5454
+5257
+2051
+9554
+8493
+2834
+4906
+2202
+1399
+3124
+remove_group: FAILURE
+remove_group: SUCCESS
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+remove_group: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+rate_movie: FAILURE
+remove_user: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 16
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+6544
+8955
+2681
+8129
+8151
+487
+3658
+5483
+353
+418
+944
+6132
+2382
+5171
+3531
+4838
+474
+5257
+9939
+get_num_views: SUCCESS, 0
+remove_user: FAILURE
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+8664
+4020
+9892
+9782
+8958
+860
+5454
+9554
+4906
+3124
+add_group: SUCCESS
+remove_movie: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+6544
+8955
+2681
+8129
+8151
+487
+3658
+5483
+353
+418
+944
+6132
+5171
+3531
+4838
+474
+5257
+5280
+9939
+add_group: FAILURE
+get_all_movies: SUCCESS
+3828
+6309
+6544
+8955
+6344
+2580
+6195
+2902
+2588
+2681
+996
+888
+7863
+8129
+5156
+5529
+8483
+8664
+8003
+4020
+9892
+1868
+2404
+8151
+487
+8968
+4181
+3658
+5483
+807
+1303
+353
+418
+9258
+9782
+8958
+944
+6132
+2140
+860
+5171
+8113
+1286
+8891
+5158
+3531
+4838
+2649
+474
+3219
+9162
+5454
+7576
+5257
+2051
+9554
+8493
+2834
+5280
+4906
+2202
+1399
+3124
+9939
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+group_watch: FAILURE
+remove_user: SUCCESS
+remove_user: SUCCESS
+rate_movie: FAILURE
+add_group: SUCCESS
+add_group: SUCCESS
+user_watch: SUCCESS
+rate_movie: SUCCESS
+rate_movie: INVALID_INPUT
+remove_group: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+group_watch: FAILURE
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+add_user: SUCCESS
+add_movie: FAILURE
+rate_movie: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+6544
+8955
+2681
+8129
+8151
+487
+3658
+5483
+353
+418
+944
+6132
+5171
+3531
+4838
+474
+5257
+5280
+9939
+get_all_movies: SUCCESS
+3828
+6544
+8955
+6344
+2580
+6195
+2902
+2588
+2681
+6309
+996
+888
+7863
+8129
+5156
+5529
+8483
+8664
+8003
+4020
+9892
+1868
+1130
+2404
+8151
+487
+8968
+4181
+3658
+5483
+807
+1303
+353
+7265
+418
+9258
+9782
+8958
+944
+6132
+2140
+860
+5171
+8113
+1286
+8891
+5158
+3531
+4838
+2649
+474
+3219
+9162
+5454
+7576
+5257
+2051
+9554
+8493
+2834
+5280
+4906
+2202
+1399
+3124
+9939
+get_all_movies: SUCCESS
+6195
+2902
+6309
+996
+8003
+1868
+1130
+2404
+8968
+4181
+807
+9258
+2140
+8891
+2649
+3219
+7576
+1399
+add_movie: SUCCESS
+remove_group: SUCCESS
+remove_movie: FAILURE
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+remove_movie: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+user_watch: FAILURE
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+3828
+6344
+2580
+5156
+5529
+1303
+8113
+1286
+5158
+9162
+2051
+8493
+2834
+2202
+add_user: SUCCESS
+rate_movie: SUCCESS
+get_all_movies_count: SUCCESS, 19
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 15
+user_watch: SUCCESS
+remove_user: SUCCESS
+add_movie: INVALID_INPUT
+remove_group: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 15
+add_movie: SUCCESS
+remove_movie: FAILURE
+get_all_movies_count: SUCCESS, 19
+add_group: SUCCESS
+get_all_movies: SUCCESS
+6195
+2902
+6309
+996
+8003
+1868
+1130
+2404
+8968
+4181
+807
+9258
+2140
+592
+8891
+2649
+3219
+7576
+1399
+get_num_views: SUCCESS, 0
+add_movie: INVALID_INPUT
+remove_movie: FAILURE
+get_all_movies: SUCCESS
+6195
+2902
+6309
+996
+8003
+1868
+1130
+2404
+8968
+4181
+807
+9258
+2140
+592
+8891
+2649
+3219
+7576
+1399
+add_movie: SUCCESS
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+add_movie: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: SUCCESS
+add_movie: INVALID_INPUT
+get_all_movies_count: SUCCESS, 19
+add_user: FAILURE
+add_movie: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+6195
+2902
+6309
+996
+8003
+1868
+1130
+2404
+8968
+4181
+2480
+807
+9258
+7811
+2140
+592
+8891
+2649
+3219
+7576
+1399
+get_all_movies: SUCCESS
+3828
+9162
+6344
+2580
+5156
+5529
+1303
+8113
+1286
+5158
+2051
+8493
+2834
+2202
+add_movie: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 14
+add_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+get_num_views: SUCCESS, 0
+add_user_to_group: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+get_all_movies_count: SUCCESS, 21
+add_group: SUCCESS
+add_group: SUCCESS
+group_watch: FAILURE
+group_watch: FAILURE
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 21
+add_movie: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+get_num_views: FAILURE
+user_watch: FAILURE
+get_group_recommendation: SUCCESS, 2588
+get_num_views: FAILURE
+remove_group: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+remove_group: FAILURE
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+get_num_views: SUCCESS, 1
+add_movie: INVALID_INPUT
+user_watch: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+4020
+9892
+5119
+7265
+964
+9782
+8958
+860
+4229
+1222
+5454
+9554
+4906
+3124
+5500
+add_user: SUCCESS
+remove_group: SUCCESS
+user_watch: SUCCESS
+rate_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+remove_movie: SUCCESS
+remove_group: SUCCESS
+add_user: SUCCESS
+user_watch: FAILURE
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: SUCCESS
+remove_group: SUCCESS
+add_user_to_group: FAILURE
+remove_movie: SUCCESS
+add_group: SUCCESS
+remove_user: FAILURE
+add_movie: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+6544
+8955
+2681
+8129
+2159
+8151
+487
+3658
+5483
+353
+418
+944
+6132
+5171
+3531
+4838
+474
+5257
+5280
+1282
+2894
+user_watch: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+get_num_views: FAILURE
+group_watch: FAILURE
+add_group: SUCCESS
+add_user_to_group: FAILURE
+add_user_to_group: SUCCESS
+remove_user: SUCCESS
+remove_group: SUCCESS
+user_watch: FAILURE
+add_movie: INVALID_INPUT
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+6195
+2902
+6309
+996
+8003
+1868
+1130
+2404
+8968
+4181
+2480
+807
+2716
+9258
+2140
+592
+8891
+2649
+3219
+7576
+1399
+add_group: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+get_group_recommendation: SUCCESS, 2588
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+6195
+2902
+6309
+996
+8003
+1868
+1130
+2404
+8968
+4181
+2480
+807
+2716
+9258
+2140
+592
+8891
+2649
+3219
+7576
+1399
+get_group_recommendation: FAILURE
+get_group_recommendation: FAILURE
+remove_movie: SUCCESS
+add_movie: INVALID_INPUT
+add_movie: SUCCESS
+rate_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+6544
+8955
+2681
+8129
+2159
+923
+8151
+487
+3321
+3658
+5483
+353
+418
+944
+6132
+5171
+3531
+4838
+474
+5257
+5280
+1282
+2894
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+3828
+9162
+6544
+8955
+6344
+2580
+6195
+2902
+2588
+2681
+6309
+996
+888
+7863
+8129
+5156
+5529
+8483
+2159
+8003
+4020
+9892
+1868
+923
+1130
+2404
+8151
+487
+8968
+3321
+4181
+5119
+3658
+5483
+9768
+2480
+807
+1303
+2730
+353
+7265
+418
+2716
+9258
+964
+9782
+8958
+944
+6132
+2140
+860
+5171
+8113
+1286
+592
+8891
+4229
+5158
+3531
+4838
+1222
+2649
+474
+3219
+5454
+7576
+5257
+9554
+2051
+8493
+2834
+5280
+4906
+1282
+2202
+1399
+3124
+2894
+add_user_to_group: FAILURE
+add_group: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+add_movie: INVALID_INPUT
+user_watch: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+get_num_views: FAILURE
+add_user_to_group: SUCCESS
+get_num_views: SUCCESS, 0
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+3828
+9162
+6544
+8955
+6344
+2580
+6195
+2902
+2588
+2681
+6309
+996
+888
+7863
+8129
+5156
+5529
+8483
+2159
+8003
+4020
+9892
+1868
+923
+1130
+2404
+8151
+487
+8968
+3321
+4181
+5119
+3658
+5483
+9768
+2480
+7096
+807
+1303
+2730
+353
+7265
+418
+2716
+9258
+964
+9782
+8958
+944
+6132
+2099
+2140
+860
+5171
+8113
+1286
+592
+8891
+4229
+5158
+3531
+4838
+1222
+2649
+474
+3219
+7576
+5454
+5257
+9554
+2051
+8493
+2834
+5280
+4906
+1228
+1282
+2202
+1399
+3124
+2894
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 25
+add_user: SUCCESS
+remove_group: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+4020
+9892
+5119
+7265
+964
+9782
+8958
+860
+4229
+1222
+5454
+9554
+4906
+1228
+555
+3124
+add_movie: SUCCESS
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+add_group: SUCCESS
+add_group: FAILURE
+remove_group: FAILURE
+get_num_views: SUCCESS, 0
+remove_user: SUCCESS
+get_group_recommendation: FAILURE
+remove_user: SUCCESS
+get_group_recommendation: FAILURE
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 83
+add_user_to_group: FAILURE
+remove_user: SUCCESS
+get_all_movies_count: SUCCESS, 21
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: INVALID_INPUT
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: INVALID_INPUT
+remove_movie: SUCCESS
+rate_movie: FAILURE
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+remove_user: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+group_watch: FAILURE
+remove_movie: SUCCESS
+add_user_to_group: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+add_movie: INVALID_INPUT
+remove_movie: FAILURE
+add_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+get_num_views: SUCCESS, 0
+get_all_movies_count: SUCCESS, 19
+add_movie: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+6544
+8955
+6344
+2580
+6195
+2902
+2588
+2681
+6309
+996
+888
+7863
+8129
+5156
+5529
+8483
+2159
+8003
+4020
+9892
+1868
+923
+1130
+2404
+8151
+487
+8968
+3321
+4181
+5119
+3658
+5483
+9768
+2480
+7096
+807
+1303
+2730
+353
+7265
+418
+2716
+9258
+964
+9782
+8958
+944
+6132
+2099
+2140
+2575
+5171
+8113
+1286
+3478
+592
+8891
+4229
+5158
+3531
+4838
+1222
+2649
+474
+3219
+7576
+5454
+5257
+9554
+2051
+8493
+2834
+5280
+4906
+1228
+1282
+2202
+1399
+555
+3124
+2894
+remove_movie: SUCCESS
+remove_user: FAILURE
+get_all_movies: SUCCESS
+6195
+2902
+6309
+996
+8003
+1868
+1130
+2404
+4181
+2480
+807
+2716
+9258
+2140
+2575
+3478
+592
+8891
+2649
+3219
+7576
+1399
+group_watch: FAILURE
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+4020
+9892
+5119
+7265
+964
+9782
+8958
+4229
+1222
+5454
+9554
+4906
+1228
+555
+3124
+get_all_movies: SUCCESS
+6195
+2902
+6309
+996
+8003
+1868
+1130
+2404
+4181
+2480
+807
+2716
+9258
+2140
+2575
+3478
+592
+8891
+2649
+3219
+7576
+1399
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 16
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 19
+rate_movie: INVALID_INPUT
+add_movie: SUCCESS
+remove_group: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+add_movie: SUCCESS
+remove_movie: FAILURE
+group_watch: FAILURE
+add_user: SUCCESS
+rate_movie: SUCCESS
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: INVALID_INPUT
+remove_movie: SUCCESS
+get_num_views: SUCCESS, 0
+add_user_to_group: SUCCESS
+add_user_to_group: SUCCESS
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 83
+get_num_views: SUCCESS, 0
+remove_movie: SUCCESS
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+4020
+9892
+5119
+7265
+4173
+964
+9782
+8958
+4229
+1222
+5454
+9554
+4906
+1228
+555
+3124
+add_user_to_group: FAILURE
+remove_movie: SUCCESS
+group_watch: FAILURE
+get_all_movies: SUCCESS
+3828
+9162
+6344
+2580
+5156
+5529
+5179
+9768
+1303
+2730
+8113
+1286
+5158
+2051
+8493
+2834
+2202
+add_group: SUCCESS
+get_all_movies: SUCCESS
+6195
+2902
+6309
+996
+8003
+1868
+1130
+2404
+4181
+2480
+807
+2716
+9258
+2140
+2575
+3478
+8891
+2649
+3219
+7576
+1399
+remove_group: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: FAILURE
+group_watch: FAILURE
+get_num_views: FAILURE
+get_all_movies_count: SUCCESS, 17
+get_all_movies: SUCCESS
+3828
+9162
+6344
+2580
+5156
+5529
+5179
+9768
+1303
+2730
+8113
+1286
+5158
+2051
+8493
+2834
+2202
+remove_group: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+2588
+888
+7863
+8483
+4020
+9892
+5119
+7265
+4173
+964
+9782
+4229
+1222
+5454
+9554
+4906
+1228
+555
+3124
+add_group: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+get_num_views: FAILURE
+add_group: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+rate_movie: SUCCESS
+user_watch: FAILURE
+get_all_movies: SUCCESS
+2588
+4906
+888
+7863
+8483
+4020
+9892
+5119
+7265
+4173
+964
+9782
+4229
+1222
+5454
+9554
+1228
+555
+3124
+remove_movie: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+6544
+8955
+2681
+2894
+8129
+2159
+923
+8151
+487
+3321
+3658
+5483
+7096
+353
+418
+944
+6132
+2099
+5171
+3531
+4838
+474
+5280
+1282
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+add_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+remove_movie: SUCCESS
+get_all_movies_count: SUCCESS, 17
+user_watch: FAILURE
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 19
+user_watch: FAILURE
+add_group: FAILURE
+user_watch: FAILURE
+add_user_to_group: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+6544
+8955
+2681
+2894
+8129
+923
+8151
+487
+3321
+3658
+5483
+7096
+353
+418
+944
+6132
+2099
+5171
+3531
+4838
+474
+5280
+1282
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+6195
+2902
+6309
+996
+8003
+1868
+1130
+2404
+4181
+2480
+807
+2716
+9258
+2140
+2575
+3478
+2649
+3219
+7576
+1399
+get_num_views: SUCCESS, 0
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+2588
+4906
+888
+7863
+8483
+4020
+9892
+5119
+7265
+4173
+964
+9782
+4229
+1222
+5454
+9554
+1228
+555
+3124
+add_movie: SUCCESS
+remove_group: FAILURE
+remove_user: SUCCESS
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+get_group_recommendation: SUCCESS, 2588
+add_movie: SUCCESS
+remove_user: FAILURE
+get_num_views: SUCCESS, 0
+remove_movie: FAILURE
+remove_group: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: SUCCESS
+add_user: FAILURE
+group_watch: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+2588
+4906
+888
+7863
+8483
+4020
+9892
+5119
+7265
+4173
+964
+4229
+9271
+1222
+5454
+9554
+1228
+555
+3124
+group_watch: FAILURE
+add_movie: SUCCESS
+remove_movie: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+user_watch: SUCCESS
+add_group: SUCCESS
+user_watch: FAILURE
+user_watch: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+rate_movie: INVALID_INPUT
+add_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+6344
+2580
+5156
+5529
+5179
+9768
+1303
+2730
+636
+8113
+1286
+5158
+2051
+8493
+2834
+2202
+get_all_movies: SUCCESS
+6195
+996
+2902
+6309
+8003
+1868
+1130
+2404
+4181
+2480
+807
+5655
+2716
+9258
+2140
+2575
+3478
+2649
+3219
+7576
+1399
+add_user_to_group: FAILURE
+add_user: SUCCESS
+get_all_movies: SUCCESS
+2588
+4906
+888
+7863
+5342
+8483
+4020
+9892
+5119
+7265
+4173
+964
+4229
+9271
+1222
+5454
+9554
+1228
+555
+3124
+get_all_movies: SUCCESS
+2588
+4906
+888
+7863
+5342
+8483
+4020
+9892
+5119
+7265
+4173
+964
+4229
+9271
+1222
+5454
+9554
+1228
+555
+3124
+add_group: SUCCESS
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+remove_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+6195
+996
+2902
+6309
+8003
+1868
+1130
+2404
+4181
+2480
+807
+5655
+2716
+9258
+2140
+2575
+3478
+2649
+3219
+7576
+1399
+group_watch: FAILURE
+add_movie: INVALID_INPUT
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+6195
+996
+2902
+6309
+8003
+1868
+1130
+2404
+4181
+2480
+807
+5655
+2716
+9258
+2140
+2575
+3478
+2649
+3219
+7576
+1399
+get_num_views: SUCCESS, 0
+remove_group: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+user_watch: FAILURE
+get_all_movies: SUCCESS
+3828
+9162
+6544
+8955
+6344
+2580
+6195
+996
+2902
+2588
+2681
+6309
+4906
+888
+2894
+7863
+8129
+5156
+5529
+8483
+5342
+8003
+4020
+9892
+1868
+923
+1130
+2404
+8151
+487
+3321
+4181
+5179
+4582
+5119
+3658
+5483
+9768
+2480
+7096
+807
+1303
+2730
+353
+7265
+5655
+418
+2716
+9258
+7580
+4173
+964
+944
+6132
+636
+2099
+2140
+2575
+7808
+1254
+5171
+8113
+1286
+3478
+4229
+5158
+9271
+3531
+4838
+1222
+2649
+474
+3219
+7576
+5454
+9554
+2051
+8493
+2834
+5280
+1228
+1282
+2202
+1399
+555
+3124
+get_all_movies_count: SUCCESS, 19
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 25
+remove_movie: SUCCESS
+add_group: SUCCESS
+rate_movie: INVALID_INPUT
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+6544
+8955
+6344
+2580
+6195
+996
+2902
+2588
+2681
+6309
+4906
+888
+2894
+7863
+8129
+5156
+5529
+8483
+5342
+8003
+4020
+9892
+1868
+923
+1130
+2404
+8151
+487
+3321
+4181
+5179
+4582
+5119
+3658
+5483
+9768
+2480
+807
+1303
+2730
+353
+7265
+5655
+418
+2716
+9258
+7580
+4173
+964
+944
+6132
+636
+2099
+2140
+2575
+7808
+1881
+1254
+5171
+8113
+1286
+3478
+4229
+5158
+9271
+3531
+4838
+1222
+2649
+474
+3219
+7576
+5454
+9554
+2051
+8493
+2834
+5280
+1228
+1282
+2202
+1399
+555
+3124
+5989
+add_movie: INVALID_INPUT
+remove_group: SUCCESS
+add_group: SUCCESS
+add_movie: FAILURE
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+remove_movie: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+6544
+8955
+6344
+2580
+6195
+996
+2902
+2588
+2681
+6309
+888
+2894
+7863
+8129
+5156
+5529
+8483
+5342
+8003
+4020
+9892
+1868
+923
+1130
+2404
+8151
+487
+3321
+4181
+5179
+4582
+5119
+3658
+5483
+9768
+2480
+807
+1303
+2730
+353
+7265
+5655
+418
+2716
+9258
+7580
+4173
+964
+944
+6132
+636
+2099
+2140
+2575
+7808
+1881
+1254
+5171
+8113
+1286
+3478
+4229
+5158
+9271
+3531
+4838
+1222
+2649
+474
+3219
+7576
+5454
+9554
+2051
+8493
+2834
+5280
+1228
+1282
+2202
+1399
+555
+3124
+5989
+get_all_movies: SUCCESS
+3828
+9162
+6344
+2580
+5156
+5529
+5179
+9768
+1303
+2730
+636
+1254
+8113
+1286
+5158
+2051
+8493
+2834
+2202
+5989
+get_all_movies: SUCCESS
+3828
+9162
+6344
+2580
+5156
+5529
+5179
+9768
+1303
+2730
+636
+1254
+8113
+1286
+5158
+2051
+8493
+2834
+2202
+5989
+add_user_to_group: FAILURE
+add_group: SUCCESS
+rate_movie: FAILURE
+add_movie: SUCCESS
+remove_group: SUCCESS
+group_watch: FAILURE
+get_group_recommendation: SUCCESS, 2588
+get_group_recommendation: FAILURE
+get_group_recommendation: SUCCESS, 2588
+add_user: SUCCESS
+remove_movie: SUCCESS
+user_watch: FAILURE
+remove_user: SUCCESS
+group_watch: FAILURE
+get_all_movies: SUCCESS
+6544
+8955
+2681
+2894
+8129
+923
+8151
+487
+3321
+4582
+3658
+5483
+353
+418
+7580
+944
+6132
+2099
+5171
+3531
+4838
+474
+5280
+1282
+add_user: SUCCESS
+add_group: SUCCESS
+user_watch: FAILURE
+remove_movie: SUCCESS
+group_watch: SUCCESS
+get_all_movies_count: SUCCESS, 24
+remove_group: SUCCESS
+group_watch: FAILURE
+add_movie: SUCCESS
+user_watch: FAILURE
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+6344
+2580
+1828
+5156
+5529
+5179
+9768
+1303
+2730
+636
+1254
+8113
+1286
+2051
+8493
+2834
+2202
+5989
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+6195
+996
+2902
+6309
+8003
+1938
+1868
+1130
+2404
+4181
+2480
+807
+5655
+2716
+9258
+2140
+2575
+7808
+3478
+3219
+7576
+1399
+user_watch: FAILURE
+get_all_movies_count: SUCCESS, 20
+add_group: SUCCESS
+add_movie: INVALID_INPUT
+add_user_to_group: FAILURE
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 20
+remove_group: SUCCESS
+add_movie: INVALID_INPUT
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+user_watch: FAILURE
+user_watch: FAILURE
+get_all_movies_count: SUCCESS, 20
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+remove_user: SUCCESS
+add_user: SUCCESS
+remove_user: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 24
+add_user_to_group: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+remove_movie: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: FAILURE
+remove_movie: SUCCESS
+group_watch: FAILURE
+remove_user: SUCCESS
+get_all_movies_count: SUCCESS, 89
+remove_movie: FAILURE
+remove_movie: FAILURE
+get_group_recommendation: SUCCESS, 2588
+add_user: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+6344
+1828
+5156
+5179
+9768
+8364
+1303
+7488
+2730
+636
+1254
+8113
+1286
+2051
+8493
+388
+2834
+2202
+5989
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 24
+add_user: SUCCESS
+add_user: SUCCESS
+remove_user: SUCCESS
+rate_movie: FAILURE
+get_all_movies_count: SUCCESS, 24
+get_all_movies_count: SUCCESS, 90
+user_watch: FAILURE
+user_watch: FAILURE
+rate_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+6195
+996
+2902
+6309
+8003
+1938
+1868
+1130
+2404
+4181
+2480
+807
+5655
+2716
+9258
+2140
+2575
+7808
+3478
+3219
+7576
+1399
+137
+7264
+remove_group: SUCCESS
+add_group: SUCCESS
+group_watch: FAILURE
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+6344
+1828
+5156
+5179
+9768
+8364
+1303
+7488
+2730
+636
+1254
+8113
+1286
+2051
+8493
+388
+2834
+2202
+5989
+remove_group: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+remove_movie: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+5119
+7265
+4173
+964
+1881
+4229
+9271
+1222
+5454
+9554
+1228
+555
+3124
+get_all_movies_count: SUCCESS, 21
+remove_movie: FAILURE
+remove_user: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+add_movie: SUCCESS
+remove_user: SUCCESS
+get_all_movies_count: SUCCESS, 23
+add_user: SUCCESS
+add_user: SUCCESS
+add_user_to_group: FAILURE
+get_all_movies: SUCCESS
+6544
+8955
+2681
+2894
+8129
+923
+8151
+487
+3321
+4582
+5483
+3658
+353
+418
+7580
+944
+6132
+2099
+5171
+3531
+4838
+474
+5280
+1282
+get_all_movies: SUCCESS
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+5119
+7265
+4173
+964
+1881
+4229
+9271
+1222
+5454
+9554
+1228
+555
+3124
+remove_user: SUCCESS
+group_watch: FAILURE
+add_user: SUCCESS
+remove_movie: FAILURE
+add_movie: SUCCESS
+user_watch: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+5119
+7265
+4173
+964
+1881
+4229
+9271
+1222
+5454
+9554
+1228
+555
+3124
+rate_movie: SUCCESS
+rate_movie: SUCCESS
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 21
+group_watch: FAILURE
+add_user: SUCCESS
+group_watch: SUCCESS
+rate_movie: SUCCESS
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+group_watch: SUCCESS
+get_group_recommendation: FAILURE
+remove_user: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+remove_group: FAILURE
+group_watch: FAILURE
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+rate_movie: FAILURE
+add_group: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+6344
+636
+1828
+5156
+6719
+5179
+9768
+1303
+8364
+7488
+2730
+1254
+8113
+2051
+8493
+388
+2834
+2202
+5989
+remove_movie: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 21
+add_user: SUCCESS
+remove_user: SUCCESS
+add_movie: SUCCESS
+group_watch: FAILURE
+remove_user: FAILURE
+user_watch: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+add_user_to_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+7137
+5119
+7265
+4173
+964
+1881
+4229
+9271
+1222
+1065
+5454
+9554
+1228
+555
+3124
+user_watch: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+user_watch: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies_count: SUCCESS, 25
+user_watch: SUCCESS
+user_watch: FAILURE
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+6544
+8955
+6344
+6195
+996
+2902
+2588
+2681
+6309
+636
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+8483
+5342
+4572
+8003
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+5179
+4582
+5119
+5483
+3658
+9768
+1303
+2480
+807
+8364
+7488
+2730
+1769
+7265
+5655
+418
+2716
+9258
+7580
+4173
+964
+944
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+8113
+3478
+3666
+4229
+9271
+1222
+3531
+4838
+474
+3219
+7576
+1065
+5454
+9554
+2051
+8493
+388
+2834
+5280
+1228
+1282
+2202
+137
+555
+3124
+7264
+5989
+9387
+get_all_movies_count: SUCCESS, 25
+add_group: SUCCESS
+remove_user: SUCCESS
+rate_movie: SUCCESS
+add_user_to_group: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+6195
+996
+2902
+6309
+1130
+4572
+8003
+1938
+1868
+2404
+4181
+2480
+807
+5655
+2716
+9258
+2140
+2575
+7808
+3478
+3666
+3219
+7576
+137
+7264
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+4582
+6544
+8955
+2681
+353
+2894
+8129
+923
+487
+3321
+5483
+3658
+1769
+418
+7580
+944
+6132
+2099
+6027
+5171
+3531
+4838
+474
+5280
+1282
+add_group: SUCCESS
+get_all_movies: SUCCESS
+4582
+6544
+8955
+2681
+353
+2894
+8129
+923
+487
+3321
+5483
+3658
+1769
+418
+7580
+944
+6132
+2099
+6027
+5171
+3531
+4838
+474
+5280
+1282
+remove_movie: SUCCESS
+group_watch: FAILURE
+rate_movie: FAILURE
+get_num_views: SUCCESS, 0
+user_watch: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+add_user_to_group: FAILURE
+get_group_recommendation: FAILURE
+rate_movie: SUCCESS
+user_watch: FAILURE
+add_group: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+add_user_to_group: SUCCESS
+add_movie: INVALID_INPUT
+get_group_recommendation: FAILURE
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 25
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+add_group: SUCCESS
+remove_user: SUCCESS
+add_user_to_group: SUCCESS
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+group_watch: FAILURE
+get_all_movies: SUCCESS
+3828
+9162
+636
+1828
+5156
+6719
+5179
+9768
+1303
+8364
+7488
+2730
+7939
+1254
+8113
+2051
+8493
+388
+2834
+2202
+5989
+9387
+add_movie: SUCCESS
+user_watch: INVALID_INPUT
+get_all_movies_count: SUCCESS, 97
+add_movie: SUCCESS
+rate_movie: FAILURE
+add_user: SUCCESS
+remove_movie: SUCCESS
+group_watch: FAILURE
+get_all_movies: SUCCESS
+4582
+6544
+8955
+2681
+353
+2894
+8129
+923
+487
+3321
+5483
+3658
+1769
+418
+7580
+944
+6132
+2099
+6027
+5171
+3531
+4838
+474
+5280
+1282
+add_user: SUCCESS
+add_group: SUCCESS
+rate_movie: INVALID_INPUT
+group_watch: FAILURE
+add_user_to_group: SUCCESS
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+get_num_views: FAILURE
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+4582
+3828
+9162
+6544
+8955
+6195
+996
+2588
+2681
+6309
+2902
+636
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+8483
+5342
+4572
+8003
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+1852
+5179
+5119
+5483
+3658
+9768
+1303
+2480
+807
+8364
+7488
+2730
+1769
+7265
+5655
+418
+2716
+9258
+7939
+7580
+4173
+964
+944
+6132
+4164
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+8113
+3478
+3666
+4229
+9271
+1222
+3531
+4764
+4838
+474
+7576
+1065
+5454
+9554
+2051
+8493
+388
+2834
+5280
+1228
+1282
+2202
+137
+555
+3124
+7264
+5989
+9387
+add_user_to_group: FAILURE
+add_user: SUCCESS
+remove_user: SUCCESS
+user_watch: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+remove_group: FAILURE
+remove_user: SUCCESS
+add_user_to_group: SUCCESS
+user_watch: FAILURE
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 97
+add_user_to_group: FAILURE
+add_user: SUCCESS
+user_watch: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+4582
+6544
+8955
+2681
+353
+2894
+8129
+923
+487
+3321
+5483
+3658
+1769
+418
+7580
+944
+6132
+2099
+6027
+5171
+3531
+4838
+474
+5280
+1282
+remove_group: SUCCESS
+rate_movie: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+rate_movie: FAILURE
+add_movie: SUCCESS
+remove_user: SUCCESS
+add_movie: SUCCESS
+add_user: FAILURE
+get_all_movies: SUCCESS
+3828
+9162
+636
+1828
+5156
+6719
+7930
+5179
+9768
+1303
+8364
+7488
+2730
+7939
+1254
+8113
+2051
+8493
+388
+2834
+2202
+5989
+9387
+add_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 1
+add_movie: INVALID_INPUT
+user_watch: SUCCESS
+remove_group: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7265
+4173
+964
+1881
+4229
+9271
+1222
+1065
+5454
+9554
+3499
+5640
+1228
+555
+3124
+group_watch: FAILURE
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+remove_movie: SUCCESS
+remove_user: SUCCESS
+add_group: FAILURE
+add_user: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+add_user: SUCCESS
+user_watch: SUCCESS
+rate_movie: FAILURE
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+group_watch: SUCCESS
+add_user: SUCCESS
+remove_user: SUCCESS
+user_watch: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+group_watch: FAILURE
+rate_movie: FAILURE
+get_all_movies_count: SUCCESS, 27
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 28
+group_watch: FAILURE
+remove_user: FAILURE
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies_count: SUCCESS, 27
+add_user: SUCCESS
+add_movie: SUCCESS
+remove_movie: SUCCESS
+rate_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7265
+964
+1881
+4229
+1222
+9271
+1065
+5454
+9554
+3499
+5640
+1228
+555
+3124
+add_user: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+4582
+6544
+8955
+2681
+353
+2894
+8129
+923
+487
+3321
+5483
+3658
+1769
+418
+7580
+944
+6132
+2099
+6027
+5171
+5337
+3531
+4838
+474
+6761
+5280
+1282
+add_user: SUCCESS
+remove_user: SUCCESS
+add_movie: INVALID_INPUT
+add_user: SUCCESS
+add_user: SUCCESS
+remove_movie: FAILURE
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+4582
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+2902
+636
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+8483
+5342
+4572
+8003
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+5179
+5119
+5483
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+807
+7488
+2730
+1769
+7265
+510
+5655
+418
+2716
+9258
+7939
+7580
+964
+944
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3478
+3666
+3898
+5337
+4229
+1222
+9271
+3531
+4764
+4838
+474
+7576
+1065
+5454
+9554
+2051
+8493
+3499
+388
+2834
+6761
+5280
+5640
+1228
+1282
+2202
+137
+3124
+7264
+5989
+9387
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+3828
+9162
+636
+1828
+5156
+6719
+7930
+5179
+9768
+1303
+7488
+2730
+510
+7939
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+2202
+5989
+9387
+add_user: SUCCESS
+add_user: SUCCESS
+remove_user: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+636
+1828
+5156
+6719
+7930
+5179
+9768
+1303
+7488
+2730
+510
+7939
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+2202
+5989
+9387
+add_user: SUCCESS
+rate_movie: SUCCESS
+remove_group: SUCCESS
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+rate_movie: SUCCESS
+get_all_movies_count: SUCCESS, 106
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+remove_user: SUCCESS
+get_all_movies_count: SUCCESS, 27
+get_all_movies_count: SUCCESS, 27
+get_all_movies: SUCCESS
+4173
+4582
+9554
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+636
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+5179
+5119
+5483
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+7488
+2730
+1769
+7265
+510
+5655
+418
+2716
+9258
+7939
+7580
+964
+944
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3478
+3666
+3898
+5337
+4229
+1222
+9271
+3531
+4764
+4838
+474
+7576
+1065
+5454
+2051
+8493
+3499
+388
+2834
+6761
+5280
+5640
+1228
+1282
+2202
+137
+3124
+7264
+5989
+9387
+add_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+636
+1828
+5156
+5925
+6719
+7930
+5179
+9768
+1303
+7488
+2730
+510
+7939
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+2202
+5989
+9387
+get_all_movies: SUCCESS
+3828
+9162
+636
+1828
+5156
+5925
+6719
+7930
+5179
+9768
+1303
+7488
+2730
+510
+7939
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+2202
+5989
+9387
+rate_movie: SUCCESS
+add_user_to_group: FAILURE
+group_watch: FAILURE
+add_movie: SUCCESS
+add_group: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+add_movie: SUCCESS
+remove_user: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+4173
+9554
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7265
+964
+1881
+4229
+1222
+9271
+1065
+5454
+3499
+5640
+1228
+3124
+add_group: SUCCESS
+user_watch: FAILURE
+add_movie: SUCCESS
+group_watch: FAILURE
+remove_movie: SUCCESS
+get_all_movies_count: SUCCESS, 25
+get_all_movies: SUCCESS
+6195
+996
+6309
+807
+2902
+1130
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+2480
+5655
+2716
+9258
+5045
+2140
+2575
+7808
+3478
+3666
+4764
+7576
+2451
+137
+7264
+add_user: SUCCESS
+remove_movie: FAILURE
+user_watch: FAILURE
+get_all_movies_count: SUCCESS, 30
+add_group: SUCCESS
+user_watch: SUCCESS
+remove_user: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+add_user_to_group: FAILURE
+user_watch: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+636
+1828
+5156
+5925
+6719
+7930
+5179
+9768
+1303
+7488
+2730
+510
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+2202
+5989
+9387
+add_group: SUCCESS
+user_watch: FAILURE
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 25
+add_group: SUCCESS
+add_user_to_group: FAILURE
+add_user: SUCCESS
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+4173
+5337
+4582
+9554
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+636
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+5179
+2992
+5119
+5483
+7039
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+7488
+2730
+1769
+7265
+7568
+510
+5655
+418
+2716
+9258
+7580
+964
+5045
+944
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3478
+3666
+3898
+4229
+1222
+9271
+3531
+4764
+4838
+474
+7576
+1065
+5454
+2051
+8493
+3499
+388
+2834
+2451
+6761
+5280
+5640
+1228
+1282
+2202
+137
+3124
+7264
+5989
+9387
+add_movie: SUCCESS
+user_watch: INVALID_INPUT
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+5337
+4582
+9554
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+636
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+5179
+2992
+5119
+5483
+7039
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+7488
+2730
+1769
+7568
+510
+5655
+418
+2716
+9258
+7580
+964
+5045
+944
+2706
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3478
+3666
+3898
+4229
+1222
+9271
+3531
+4764
+4838
+474
+7576
+1065
+5454
+2051
+8493
+3499
+388
+2834
+2451
+6761
+5280
+5640
+1228
+1282
+2202
+137
+3124
+7264
+5989
+9387
+user_watch: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+rate_movie: INVALID_INPUT
+rate_movie: FAILURE
+user_watch: FAILURE
+group_watch: FAILURE
+remove_group: SUCCESS
+remove_movie: SUCCESS
+add_group: SUCCESS
+add_movie: INVALID_INPUT
+rate_movie: SUCCESS
+add_movie: SUCCESS
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+group_watch: FAILURE
+user_watch: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+636
+1828
+5156
+5925
+6719
+7930
+5179
+9768
+1303
+7488
+2730
+9664
+510
+2706
+5431
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+2202
+5989
+9387
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+9554
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+964
+1881
+4229
+1222
+9271
+1065
+5454
+3499
+5640
+1650
+1228
+3124
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+add_user: SUCCESS
+add_user: SUCCESS
+group_watch: FAILURE
+add_user_to_group: SUCCESS
+remove_group: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+remove_movie: FAILURE
+add_user_to_group: SUCCESS
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+remove_user: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+user_watch: FAILURE
+add_movie: INVALID_INPUT
+add_user: SUCCESS
+add_movie: SUCCESS
+remove_user: SUCCESS
+group_watch: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+rate_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+add_group: FAILURE
+add_user_to_group: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+4173
+5337
+4582
+9554
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+636
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+5179
+2992
+5119
+5483
+7039
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+7488
+2730
+7568
+9664
+510
+6826
+5655
+2716
+418
+9258
+7580
+964
+5045
+8555
+8793
+944
+2706
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3478
+3666
+3898
+4229
+1222
+9271
+3531
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+388
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+137
+3124
+7264
+5989
+9387
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 32
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+4173
+9554
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+964
+1881
+4229
+1222
+9271
+1065
+5454
+3499
+5640
+1650
+1228
+3124
+remove_movie: FAILURE
+get_all_movies: SUCCESS
+4173
+9554
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+964
+1881
+4229
+1222
+9271
+1065
+5454
+3499
+5640
+1650
+1228
+3124
+remove_user: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+636
+1828
+5156
+5925
+6719
+7930
+5179
+9768
+1303
+7488
+2730
+9664
+510
+6826
+8555
+2706
+5431
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 119
+add_user_to_group: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+636
+1828
+5156
+5925
+6719
+7930
+5179
+9768
+1303
+7488
+2730
+9664
+510
+6826
+8555
+2706
+5431
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+user_watch: FAILURE
+user_watch: SUCCESS
+get_num_views: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+6195
+996
+6309
+807
+2902
+1130
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7039
+7830
+8625
+2480
+5655
+2716
+9258
+5045
+8793
+508
+2140
+2575
+7808
+3478
+3666
+4764
+7576
+2451
+137
+7264
+add_user: SUCCESS
+add_user: SUCCESS
+rate_movie: SUCCESS
+get_all_movies_count: SUCCESS, 33
+rate_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+remove_user: FAILURE
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+remove_user: FAILURE
+get_all_movies: SUCCESS
+4173
+9554
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+964
+1881
+4229
+1222
+9271
+1065
+5454
+3499
+5640
+1650
+1228
+3124
+get_all_movies_count: SUCCESS, 121
+get_all_movies: SUCCESS
+4173
+5337
+4582
+9554
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+7039
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+5179
+2992
+5119
+5483
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+7488
+2730
+7568
+9664
+510
+6826
+5655
+2716
+418
+9258
+678
+7580
+964
+5045
+8555
+8793
+508
+944
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3478
+3666
+3898
+4229
+1222
+9271
+3531
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+388
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+137
+3124
+7264
+5989
+9387
+add_movie: INVALID_INPUT
+add_user: SUCCESS
+remove_user: SUCCESS
+remove_movie: FAILURE
+add_group: SUCCESS
+add_user: SUCCESS
+remove_group: SUCCESS
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 28
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+5337
+4582
+9554
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+7039
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+5179
+2992
+5119
+5483
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+7488
+2730
+7568
+9664
+510
+6826
+5655
+2716
+418
+9258
+678
+7580
+964
+5045
+8555
+8793
+508
+944
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3666
+3898
+4229
+1222
+9271
+3531
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+388
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+137
+3124
+7264
+5989
+9387
+add_movie: SUCCESS
+add_user: FAILURE
+remove_user: SUCCESS
+add_group: SUCCESS
+get_num_views: FAILURE
+group_watch: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+add_group: FAILURE
+get_all_movies_count: SUCCESS, 27
+get_all_movies: SUCCESS
+3828
+9162
+636
+2706
+1828
+5156
+5925
+6719
+7930
+5179
+9768
+1303
+7488
+2730
+9664
+510
+6826
+3434
+8555
+5431
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+remove_movie: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+remove_user: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+353
+2894
+8129
+5113
+923
+487
+3321
+5483
+3658
+418
+678
+7580
+944
+6132
+2099
+6027
+5171
+2907
+3531
+4838
+6761
+5280
+1282
+add_group: SUCCESS
+get_num_views: SUCCESS, 1
+get_group_recommendation: SUCCESS, 4173
+get_group_recommendation: FAILURE
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+group_watch: FAILURE
+user_watch: FAILURE
+rate_movie: FAILURE
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+353
+2894
+8129
+5113
+923
+487
+3321
+5483
+3658
+418
+678
+7580
+944
+6132
+2099
+6027
+5171
+2907
+3531
+4838
+6761
+5280
+1282
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+remove_user: SUCCESS
+user_watch: SUCCESS
+add_user: FAILURE
+group_watch: FAILURE
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+user_watch: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 121
+add_user: SUCCESS
+group_watch: FAILURE
+add_movie: SUCCESS
+remove_group: SUCCESS
+get_num_views: SUCCESS, 1
+group_watch: FAILURE
+add_user_to_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+get_num_views: SUCCESS, 0
+remove_movie: SUCCESS
+rate_movie: INVALID_INPUT
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+4173
+2588
+888
+7863
+2844
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+964
+1881
+4229
+1222
+9271
+1065
+5454
+3499
+5640
+1650
+1228
+3124
+get_all_movies_count: SUCCESS, 32
+group_watch: SUCCESS
+remove_user: SUCCESS
+remove_movie: SUCCESS
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+6195
+996
+6309
+807
+2902
+7039
+1130
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+2480
+5655
+2716
+9258
+5045
+8793
+508
+2140
+2575
+7808
+3666
+4764
+7576
+2451
+7264
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+4173
+5337
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+7039
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+2992
+5119
+5483
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+7488
+2730
+7568
+9664
+510
+5655
+6826
+2716
+418
+3434
+9258
+678
+7580
+964
+5045
+8555
+8793
+508
+944
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+1289
+388
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+add_group: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+636
+2706
+1828
+5156
+5925
+6719
+7930
+9768
+1303
+7488
+2730
+9664
+510
+6826
+3434
+8555
+5431
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+remove_user: SUCCESS
+user_watch: SUCCESS
+add_group: SUCCESS
+user_watch: SUCCESS
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 27
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+4173
+5337
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+7039
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+2409
+5156
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+2992
+5119
+5483
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+7488
+2730
+7568
+9664
+510
+5655
+6826
+2716
+418
+3434
+9258
+678
+7580
+964
+5045
+8555
+8793
+508
+944
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+1289
+388
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+get_all_movies: SUCCESS
+4173
+5337
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+7039
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+2409
+5156
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+2992
+5119
+5483
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+7488
+2730
+7568
+9664
+510
+5655
+6826
+2716
+418
+3434
+9258
+678
+7580
+964
+5045
+8555
+8793
+508
+944
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+1289
+388
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+get_all_movies_count: SUCCESS, 31
+remove_user: SUCCESS
+add_user_to_group: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+4173
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+964
+1881
+4229
+1222
+9271
+1065
+5454
+3499
+5640
+1650
+1228
+3124
+remove_movie: FAILURE
+rate_movie: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: FAILURE
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+add_group: SUCCESS
+remove_group: SUCCESS
+rate_movie: INVALID_INPUT
+get_all_movies_count: SUCCESS, 33
+remove_user: SUCCESS
+add_movie: INVALID_INPUT
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 33
+get_all_movies: SUCCESS
+4173
+5337
+508
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+7039
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+2409
+5156
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1852
+2992
+5119
+5483
+7536
+7830
+3658
+9768
+8625
+1303
+2480
+7488
+2730
+7568
+9664
+510
+5655
+6826
+2716
+418
+3434
+9258
+678
+7580
+8819
+964
+5045
+8555
+8793
+944
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+1289
+388
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+add_user_to_group: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+636
+2706
+1828
+5156
+5925
+6719
+7930
+9768
+1303
+7488
+2730
+9664
+510
+6826
+3434
+8555
+5431
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+remove_movie: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+rate_movie: FAILURE
+add_user: SUCCESS
+get_all_movies: SUCCESS
+508
+6195
+996
+6309
+807
+2902
+7039
+1130
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+2480
+5655
+2716
+9258
+5045
+8793
+2140
+2575
+7808
+3666
+4764
+7576
+2451
+7264
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+add_user_to_group: FAILURE
+add_user_to_group: SUCCESS
+group_watch: FAILURE
+add_user: SUCCESS
+add_user_to_group: FAILURE
+add_user_to_group: SUCCESS
+add_user_to_group: FAILURE
+user_watch: FAILURE
+add_user: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+353
+2894
+8129
+5113
+923
+487
+3321
+5483
+3658
+418
+678
+7580
+8819
+944
+6132
+2099
+6027
+5171
+2907
+4838
+1289
+6761
+5280
+9680
+1282
+user_watch: FAILURE
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+353
+2894
+8129
+5113
+923
+487
+3321
+5483
+3658
+418
+678
+7580
+8819
+944
+6132
+2099
+6027
+5171
+2907
+4838
+1289
+6761
+5280
+9680
+1282
+user_watch: SUCCESS
+add_user: SUCCESS
+remove_group: SUCCESS
+group_watch: SUCCESS
+get_all_movies: SUCCESS
+4173
+5337
+508
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+7039
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+2409
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+3658
+1303
+9768
+8625
+2480
+7488
+2730
+7568
+9664
+510
+5655
+6826
+2716
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8555
+8793
+944
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+1289
+388
+2834
+2451
+6761
+5280
+9680
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+353
+2894
+8129
+5113
+923
+487
+3321
+5483
+3658
+418
+678
+7580
+8819
+944
+6132
+2099
+6027
+5171
+2907
+4838
+1289
+6761
+5280
+9680
+1282
+group_watch: FAILURE
+add_group: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+636
+2706
+1828
+5156
+5925
+6719
+7930
+4844
+1303
+9768
+7488
+2730
+9664
+510
+6826
+3434
+8555
+5431
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+get_all_movies: SUCCESS
+508
+6195
+996
+6309
+807
+2902
+7039
+1130
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+2480
+5655
+2716
+9258
+5045
+8793
+2140
+2575
+7808
+3666
+4764
+7576
+2451
+7264
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+3828
+9162
+636
+2706
+1828
+5156
+5925
+6719
+7930
+4844
+1303
+9768
+7488
+2730
+9664
+510
+6826
+3434
+8555
+5431
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+get_all_movies_count: SUCCESS, 31
+add_user: SUCCESS
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+353
+2894
+8129
+5113
+923
+487
+3321
+5483
+3658
+418
+678
+7580
+8819
+944
+6132
+2099
+6027
+5171
+2907
+4838
+1289
+6761
+5280
+9680
+1282
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 32
+remove_user: SUCCESS
+remove_group: SUCCESS
+add_user_to_group: FAILURE
+get_all_movies_count: SUCCESS, 31
+get_all_movies: SUCCESS
+4173
+5337
+508
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+7039
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+2409
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+3658
+1303
+9768
+8625
+2480
+7488
+2730
+7568
+9664
+510
+5655
+6826
+2716
+9186
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8555
+8793
+944
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+1289
+388
+2834
+2451
+6761
+5280
+9680
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+add_user: SUCCESS
+user_watch: FAILURE
+get_all_movies_count: SUCCESS, 31
+get_all_movies: SUCCESS
+3828
+9162
+636
+2706
+1828
+5156
+5925
+6719
+7930
+4844
+1303
+9768
+7488
+2730
+9664
+510
+6826
+3434
+8555
+5431
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+add_user: SUCCESS
+add_movie: SUCCESS
+add_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+4173
+5337
+508
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+7039
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+2409
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+3658
+1303
+9768
+8625
+2480
+7488
+2730
+7568
+9664
+510
+5655
+6826
+2716
+9186
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8555
+8793
+944
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+1289
+388
+2834
+2451
+6761
+5280
+9680
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+group_watch: FAILURE
+remove_group: SUCCESS
+remove_movie: FAILURE
+add_group: SUCCESS
+remove_user: SUCCESS
+get_group_recommendation: SUCCESS, 3828
+remove_user: SUCCESS
+remove_movie: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+4173
+5337
+508
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+7039
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+2409
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+3658
+1303
+9768
+8625
+2480
+7488
+2730
+7568
+9664
+5655
+6826
+2716
+9186
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8555
+8793
+944
+6132
+2099
+5431
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+1289
+388
+2834
+2451
+6761
+5280
+9680
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+add_user: SUCCESS
+get_all_movies: SUCCESS
+3828
+9162
+636
+2706
+1828
+5156
+5925
+6719
+7930
+1165
+4844
+1303
+9768
+7488
+2730
+9664
+6826
+3434
+8555
+5431
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+user_watch: FAILURE
+get_group_recommendation: SUCCESS, 4173
+user_watch: FAILURE
+remove_movie: SUCCESS
+get_group_recommendation: FAILURE
+get_group_recommendation: FAILURE
+group_watch: FAILURE
+get_all_movies: SUCCESS
+508
+6195
+996
+6309
+807
+2902
+7039
+1130
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+2480
+5655
+2716
+9186
+9258
+5045
+8793
+2140
+2575
+7808
+3666
+4764
+7576
+2451
+7264
+get_num_views: SUCCESS, 0
+remove_movie: SUCCESS
+rate_movie: SUCCESS
+get_all_movies_count: SUCCESS, 30
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+353
+2894
+8129
+5113
+923
+487
+3321
+5483
+3658
+418
+678
+7580
+8819
+944
+6132
+2099
+6027
+5171
+2907
+4838
+1289
+6761
+5280
+1282
+get_num_views: SUCCESS, 0
+remove_user: SUCCESS
+rate_movie: FAILURE
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+4173
+5337
+508
+4582
+1769
+3828
+5431
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+807
+2902
+636
+2706
+888
+353
+2894
+7863
+1130
+8129
+1828
+2844
+5156
+2409
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+3658
+1303
+9768
+8625
+2480
+7488
+2730
+7568
+9664
+5655
+6826
+2716
+9186
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8555
+8793
+944
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+5171
+6279
+8113
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+5454
+2051
+8493
+3499
+1289
+388
+890
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+group_watch: FAILURE
+group_watch: FAILURE
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: SUCCESS
+add_user: SUCCESS
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+group_watch: FAILURE
+add_group: SUCCESS
+add_movie: SUCCESS
+remove_movie: SUCCESS
+user_watch: FAILURE
+get_num_views: FAILURE
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+rate_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+remove_movie: FAILURE
+add_user_to_group: FAILURE
+get_all_movies: SUCCESS
+3828
+5431
+9162
+636
+2706
+1828
+5156
+5925
+6719
+7930
+1165
+4844
+1303
+9768
+7488
+2730
+9664
+6826
+3434
+8555
+1254
+6279
+8113
+3898
+2051
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+remove_movie: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+5113
+923
+487
+3321
+5483
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+2907
+4838
+1289
+6761
+5280
+1282
+get_all_movies_count: SUCCESS, 28
+rate_movie: SUCCESS
+group_watch: FAILURE
+group_watch: FAILURE
+add_group: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+5113
+923
+487
+3321
+5483
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+2907
+4838
+1289
+6761
+5280
+1282
+add_movie: SUCCESS
+add_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+508
+6195
+996
+6309
+807
+2902
+1130
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+2480
+5655
+2716
+9186
+9258
+5045
+8793
+2140
+2575
+7808
+3666
+4764
+7576
+2313
+890
+2451
+7264
+user_watch: FAILURE
+get_num_views: SUCCESS, 0
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+4173
+5337
+508
+2051
+4582
+1769
+3828
+5431
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+2902
+636
+2706
+888
+353
+2894
+7863
+1130
+1828
+2844
+5156
+2409
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+1303
+9768
+8625
+2480
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+2716
+9186
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8555
+8793
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+3575
+5454
+2313
+8493
+3499
+1289
+388
+890
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+add_user: SUCCESS
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+5113
+923
+487
+3321
+5483
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+1289
+6761
+5280
+1282
+rate_movie: SUCCESS
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+508
+6195
+996
+6309
+807
+2902
+1130
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+2480
+5655
+2716
+9186
+9258
+5045
+8793
+2140
+2575
+7808
+3666
+4764
+7576
+2313
+890
+2451
+7264
+get_all_movies: SUCCESS
+4173
+5337
+508
+2051
+4582
+1769
+3828
+5431
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+2902
+636
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+5156
+2409
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+1303
+9768
+8625
+2480
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+2716
+9186
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8555
+8793
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+3575
+5454
+2313
+8493
+3499
+388
+890
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+get_num_views: SUCCESS, 1
+group_watch: FAILURE
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+5337
+508
+2051
+4582
+1769
+3828
+5431
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+2902
+636
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+5156
+2409
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+1303
+9768
+8625
+2480
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+2716
+9186
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8793
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+3575
+5454
+2313
+8493
+3499
+388
+890
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+get_all_movies: SUCCESS
+4173
+5337
+508
+2051
+4582
+1769
+3828
+5431
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+2902
+636
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+5156
+2409
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+1303
+9768
+8625
+2480
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+2716
+9186
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8793
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+3575
+5454
+2313
+8493
+3499
+388
+890
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+remove_user: SUCCESS
+add_user: SUCCESS
+group_watch: FAILURE
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+5113
+923
+487
+3321
+5483
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+6761
+5280
+1282
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+remove_group: SUCCESS
+user_watch: FAILURE
+remove_group: SUCCESS
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+remove_movie: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+4173
+5337
+508
+2051
+4582
+1769
+3828
+5431
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+2902
+636
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+5156
+2409
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+5113
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+7930
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+1303
+9768
+8625
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+2716
+9186
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8793
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+3575
+5454
+2313
+4911
+8493
+3499
+388
+890
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+add_group: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+group_watch: FAILURE
+add_user_to_group: SUCCESS
+remove_movie: SUCCESS
+get_group_recommendation: FAILURE
+remove_group: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 35
+add_group: SUCCESS
+add_user: SUCCESS
+rate_movie: FAILURE
+get_all_movies_count: SUCCESS, 33
+add_user: SUCCESS
+remove_group: SUCCESS
+group_watch: FAILURE
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+5113
+923
+487
+3321
+5483
+7949
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+6761
+5280
+1282
+add_user: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+5113
+923
+487
+3321
+5483
+7949
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+6761
+5280
+1282
+get_num_views: SUCCESS, 0
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+4173
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+7867
+4279
+964
+1881
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+5640
+1650
+1228
+3124
+remove_group: FAILURE
+group_watch: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+2051
+3828
+5431
+9162
+636
+2706
+1828
+5156
+5925
+6719
+7930
+1165
+4844
+1303
+9768
+8125
+7488
+2730
+9664
+6826
+3434
+1254
+4056
+6279
+8113
+3898
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+9387
+get_num_views: SUCCESS, 0
+user_watch: FAILURE
+group_watch: FAILURE
+group_watch: FAILURE
+add_group: SUCCESS
+user_watch: FAILURE
+remove_user: SUCCESS
+get_group_recommendation: SUCCESS, 4173
+add_group: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: FAILURE
+user_watch: FAILURE
+user_watch: FAILURE
+get_all_movies_count: SUCCESS, 33
+remove_movie: SUCCESS
+add_group: SUCCESS
+remove_user: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 35
+get_all_movies_count: SUCCESS, 35
+remove_group: SUCCESS
+rate_movie: FAILURE
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+remove_user: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+remove_movie: SUCCESS
+remove_user: SUCCESS
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+rate_movie: INVALID_INPUT
+remove_user: SUCCESS
+rate_movie: SUCCESS
+add_user_to_group: SUCCESS
+remove_user: SUCCESS
+remove_movie: SUCCESS
+remove_group: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+4173
+5337
+508
+2051
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+2902
+636
+2313
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+2409
+5156
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7949
+1303
+9768
+8625
+8125
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+2716
+418
+4279
+3434
+9258
+678
+7580
+8819
+964
+5045
+8793
+4317
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+3575
+5454
+4911
+8493
+3499
+388
+890
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+9387
+add_movie: SUCCESS
+add_user: SUCCESS
+user_watch: SUCCESS
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+add_user: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+add_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 34
+get_all_movies_count: SUCCESS, 31
+remove_group: SUCCESS
+remove_user: SUCCESS
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+923
+487
+3321
+5483
+7949
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+6761
+5280
+1282
+get_all_movies_count: SUCCESS, 31
+add_group: SUCCESS
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+add_group: SUCCESS
+rate_movie: INVALID_INPUT
+add_movie: SUCCESS
+rate_movie: INVALID_INPUT
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+group_watch: FAILURE
+group_watch: FAILURE
+add_group: SUCCESS
+add_group: SUCCESS
+remove_movie: SUCCESS
+get_all_movies_count: SUCCESS, 34
+get_group_recommendation: FAILURE
+remove_group: SUCCESS
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+7867
+4279
+6946
+964
+4317
+1881
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+5640
+1650
+1228
+3124
+add_user: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 33
+get_all_movies_count: SUCCESS, 32
+get_group_recommendation: FAILURE
+user_watch: FAILURE
+remove_user: SUCCESS
+get_group_recommendation: SUCCESS, 4173
+add_user: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+5337
+508
+2051
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+2902
+636
+2313
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+2409
+2963
+5156
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7949
+1303
+9768
+8625
+6011
+8125
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+948
+2716
+418
+4279
+3434
+9258
+678
+7580
+7738
+8819
+6946
+964
+5045
+8793
+4317
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+3575
+5454
+4911
+8493
+3499
+388
+890
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+4052
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+rate_movie: FAILURE
+add_movie: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+923
+487
+3321
+5483
+7949
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+6761
+5280
+1282
+4052
+remove_user: SUCCESS
+remove_group: SUCCESS
+add_user_to_group: FAILURE
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+923
+487
+3321
+5483
+7949
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+6761
+5280
+1282
+4052
+remove_user: SUCCESS
+remove_user: SUCCESS
+get_num_views: SUCCESS, 0
+rate_movie: INVALID_INPUT
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 131
+rate_movie: FAILURE
+user_watch: FAILURE
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+get_all_movies_count: SUCCESS, 36
+user_watch: SUCCESS
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+rate_movie: INVALID_INPUT
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 29
+get_all_movies_count: SUCCESS, 36
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+2051
+3828
+9162
+636
+2706
+1828
+5156
+5925
+6719
+1165
+4844
+1303
+9768
+8125
+7488
+2730
+9664
+6826
+948
+3434
+2265
+1254
+4056
+6279
+8113
+3898
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+remove_movie: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+2051
+3828
+9162
+636
+2706
+1828
+5156
+5925
+6719
+1165
+4844
+1303
+9768
+8125
+7488
+2730
+9664
+6826
+948
+3434
+2265
+1254
+4056
+6279
+8113
+3898
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+user_watch: SUCCESS
+add_user: SUCCESS
+user_watch: FAILURE
+remove_user: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+remove_user: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+923
+487
+3321
+5483
+7949
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+6761
+5280
+1282
+4052
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+rate_movie: INVALID_INPUT
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+2051
+3828
+9162
+636
+2706
+1828
+5156
+5925
+6719
+1165
+4844
+1303
+9768
+8125
+7488
+2730
+9664
+6826
+948
+3434
+2265
+1254
+4056
+6279
+8113
+3898
+8493
+388
+2834
+406
+590
+2202
+8692
+5989
+remove_user: SUCCESS
+rate_movie: INVALID_INPUT
+remove_group: FAILURE
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: SUCCESS
+group_watch: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+2051
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+636
+2313
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+2409
+2963
+5156
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7949
+1303
+9768
+8625
+6011
+8125
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+7936
+948
+2716
+418
+4279
+3434
+9258
+678
+2265
+7580
+7738
+8819
+9470
+6946
+964
+5045
+8793
+4317
+8555
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+3575
+5454
+4911
+8493
+3499
+388
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+4052
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies_count: SUCCESS, 37
+user_watch: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+2051
+4582
+1769
+3828
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+636
+2313
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+2409
+2963
+5156
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7949
+1303
+9768
+8625
+6011
+8125
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+7936
+948
+2716
+418
+4279
+3434
+9258
+678
+2265
+7580
+7738
+8819
+9470
+2818
+6946
+964
+5045
+8793
+4317
+8555
+6132
+2099
+2140
+2575
+6027
+7808
+1881
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3898
+2907
+4229
+1222
+9271
+4764
+4838
+7576
+1065
+3575
+5454
+4911
+8493
+3499
+388
+2834
+2451
+6761
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+4052
+add_movie: SUCCESS
+add_movie: SUCCESS
+user_watch: SUCCESS
+remove_group: SUCCESS
+add_movie: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+4173
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+7867
+4279
+6946
+964
+4317
+1881
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+5640
+1650
+1228
+3124
+user_watch: SUCCESS
+group_watch: FAILURE
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+add_user: SUCCESS
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+868
+923
+487
+3321
+5483
+7949
+7936
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+6761
+5280
+1282
+4052
+add_movie: INVALID_INPUT
+add_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+rate_movie: SUCCESS
+remove_group: SUCCESS
+get_all_movies_count: SUCCESS, 31
+remove_group: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_user: FAILURE
+add_group: SUCCESS
+group_watch: FAILURE
+remove_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+890
+508
+6195
+996
+6309
+807
+2313
+1130
+2963
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+6011
+3581
+5655
+2716
+9258
+7738
+9470
+8165
+5045
+8793
+8555
+2140
+2575
+7808
+3666
+3395
+4764
+7576
+4911
+2451
+7264
+remove_user: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+add_user_to_group: SUCCESS
+group_watch: FAILURE
+add_user: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+get_group_recommendation: SUCCESS, 4173
+rate_movie: FAILURE
+user_watch: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+5337
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+868
+923
+487
+3321
+5483
+7949
+7936
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+6761
+5280
+1282
+4052
+add_group: SUCCESS
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+2051
+4582
+1769
+3828
+1881
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+636
+2313
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+2409
+2963
+5156
+7123
+8483
+5342
+868
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7949
+1303
+9768
+8625
+6011
+8125
+3581
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+7936
+948
+2716
+418
+4279
+3434
+8829
+9258
+678
+2265
+7580
+7738
+8819
+9470
+8165
+2818
+6946
+964
+5045
+8793
+4317
+8555
+6132
+2099
+2140
+2575
+6027
+7808
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3898
+3395
+2907
+4229
+1222
+9271
+4764
+4838
+5829
+7576
+1065
+3575
+5454
+4911
+8493
+3499
+388
+2834
+6761
+2451
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+8692
+3124
+7264
+5989
+4052
+5081
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 41
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+rate_movie: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+5337
+868
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+923
+487
+3321
+5483
+7949
+7936
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+6761
+5280
+1282
+4052
+rate_movie: FAILURE
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+user_watch: FAILURE
+add_movie: SUCCESS
+remove_group: SUCCESS
+remove_group: SUCCESS
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+remove_group: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: FAILURE
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+890
+508
+6195
+996
+6309
+807
+2313
+1130
+2963
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+6011
+3581
+5655
+2716
+9258
+7738
+9470
+8165
+5045
+8793
+8555
+2140
+2575
+7808
+3666
+3395
+4764
+5829
+7576
+4911
+2451
+7264
+remove_user: SUCCESS
+add_user_to_group: SUCCESS
+get_group_recommendation: FAILURE
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+rate_movie: SUCCESS
+user_watch: FAILURE
+rate_movie: INVALID_INPUT
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+5337
+868
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+923
+487
+3321
+5483
+7949
+7936
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+3175
+6761
+5280
+1282
+4052
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 41
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+868
+2051
+4582
+1769
+3828
+1881
+8692
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+636
+2313
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+2409
+2963
+5156
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7949
+1303
+9768
+8625
+6011
+8125
+3581
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+7936
+948
+2716
+418
+4279
+3434
+8829
+9258
+678
+2265
+7580
+7738
+8819
+9470
+8165
+2818
+6946
+964
+5045
+8793
+4317
+8555
+6132
+2099
+2140
+2575
+6027
+7808
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3395
+2907
+4229
+1222
+9271
+4764
+4838
+5829
+7576
+1065
+3575
+5454
+4911
+8493
+3499
+388
+2834
+3175
+6761
+2451
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+3124
+7264
+5989
+4052
+5081
+get_num_views: SUCCESS, 0
+get_num_views: SUCCESS, 0
+add_user_to_group: SUCCESS
+remove_group: SUCCESS
+rate_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+add_user_to_group: FAILURE
+get_all_movies: SUCCESS
+4173
+1881
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+7867
+4279
+6946
+964
+4317
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+5640
+1650
+1228
+3124
+remove_user: SUCCESS
+add_movie: INVALID_INPUT
+group_watch: FAILURE
+get_group_recommendation: FAILURE
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 36
+get_all_movies: SUCCESS
+5337
+868
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+923
+487
+3321
+5483
+7949
+7936
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+3175
+6761
+5280
+1282
+4052
+add_user: SUCCESS
+get_all_movies: SUCCESS
+5337
+868
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+923
+487
+3321
+5483
+7949
+7936
+418
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+3175
+6761
+5280
+1282
+4052
+user_watch: FAILURE
+rate_movie: INVALID_INPUT
+remove_group: SUCCESS
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+1881
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+7867
+4279
+6946
+964
+4317
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+5640
+1650
+1228
+3124
+add_user: SUCCESS
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+868
+2051
+4582
+1769
+3828
+1881
+8692
+6544
+8955
+6195
+996
+9162
+2588
+2681
+6309
+8129
+807
+636
+2313
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+2409
+2963
+5156
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7949
+1303
+9768
+8625
+6011
+8125
+3581
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+7936
+948
+2716
+4279
+3434
+8829
+9258
+678
+2265
+7580
+7738
+8819
+9470
+8165
+2818
+6946
+964
+5045
+8793
+4317
+8555
+6132
+2099
+2140
+2575
+6027
+7808
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3395
+2907
+4229
+1222
+9271
+4764
+4838
+5829
+7576
+1065
+3575
+5454
+4911
+8493
+3499
+388
+2834
+3175
+6761
+2451
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+3124
+7264
+5989
+4052
+5081
+get_all_movies: SUCCESS
+4173
+1881
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+7867
+4279
+6946
+964
+4317
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+5640
+1650
+1228
+3124
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 140
+add_movie: SUCCESS
+remove_group: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+remove_movie: FAILURE
+add_user: SUCCESS
+remove_movie: SUCCESS
+remove_group: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+890
+508
+6195
+6309
+807
+2313
+1130
+2963
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+6011
+3581
+5655
+2716
+9258
+7738
+9470
+8165
+5045
+8793
+8555
+2140
+2575
+7808
+3666
+3395
+4764
+5829
+7576
+4911
+1354
+2451
+7264
+add_user: SUCCESS
+add_movie: SUCCESS
+rate_movie: FAILURE
+add_user: SUCCESS
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+868
+2051
+4582
+1769
+3828
+1881
+8692
+6544
+8955
+6195
+9162
+2588
+2681
+6309
+8129
+807
+636
+2313
+2706
+888
+353
+2894
+7863
+2844
+1130
+1828
+2409
+2963
+5156
+7123
+8483
+5342
+4572
+8003
+5925
+4020
+9892
+1938
+7137
+1868
+923
+2404
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7949
+1303
+9768
+8625
+6011
+8125
+3581
+7488
+2730
+7568
+7867
+9664
+5655
+6826
+7936
+948
+2716
+4279
+3434
+8829
+9258
+678
+2265
+7580
+7738
+8819
+9470
+8165
+2818
+6946
+964
+5045
+8793
+4317
+8555
+6132
+2099
+2140
+2575
+6027
+7808
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+3395
+2907
+4229
+1222
+9271
+4764
+4838
+5829
+7576
+1065
+3575
+5454
+4911
+8493
+3499
+1354
+388
+7683
+2834
+3175
+6761
+2451
+5280
+5640
+406
+1650
+590
+1228
+1282
+2202
+3124
+5042
+7264
+5989
+4052
+5081
+get_all_movies: SUCCESS
+4173
+1881
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+1852
+5119
+7536
+7568
+7867
+4279
+6946
+964
+4317
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+5640
+1650
+1228
+3124
+add_group: SUCCESS
+add_movie: INVALID_INPUT
+add_group: SUCCESS
+get_num_views: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+5337
+868
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+923
+487
+3321
+5483
+7949
+7936
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+2907
+4838
+7683
+3175
+6761
+5280
+1282
+4052
+add_movie: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+4173
+1881
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+5929
+1852
+5119
+7536
+7568
+7867
+4279
+6946
+964
+4317
+2042
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+5640
+1650
+1228
+3124
+rate_movie: FAILURE
+add_group: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+add_user_to_group: FAILURE
+add_user: SUCCESS
+add_user_to_group: FAILURE
+get_all_movies_count: SUCCESS, 34
+user_watch: FAILURE
+get_all_movies: SUCCESS
+4173
+1881
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+5929
+1852
+5119
+7536
+7568
+7867
+4279
+6946
+964
+4317
+2042
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+5640
+1650
+1228
+3124
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+1881
+2588
+888
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+5929
+1852
+5119
+7536
+7568
+7867
+4279
+6946
+964
+4317
+2042
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+5640
+1650
+1228
+3124
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+group_watch: FAILURE
+add_movie: INVALID_INPUT
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 146
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+remove_group: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+remove_user: FAILURE
+remove_movie: SUCCESS
+remove_user: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+group_watch: FAILURE
+add_movie: INVALID_INPUT
+add_movie: SUCCESS
+rate_movie: FAILURE
+get_all_movies_count: SUCCESS, 35
+get_group_recommendation: FAILURE
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: SUCCESS
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+remove_user: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+rate_movie: INVALID_INPUT
+remove_movie: SUCCESS
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+remove_user: SUCCESS
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_user_to_group: FAILURE
+remove_user: SUCCESS
+add_group: FAILURE
+get_num_views: SUCCESS, 0
+user_watch: FAILURE
+add_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+remove_movie: SUCCESS
+remove_user: SUCCESS
+group_watch: FAILURE
+remove_group: SUCCESS
+get_group_recommendation: FAILURE
+rate_movie: INVALID_INPUT
+remove_group: FAILURE
+add_user: SUCCESS
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+user_watch: SUCCESS
+remove_group: SUCCESS
+remove_movie: FAILURE
+rate_movie: INVALID_INPUT
+add_user: SUCCESS
+add_user: FAILURE
+add_user_to_group: FAILURE
+add_movie: SUCCESS
+user_watch: SUCCESS
+get_group_recommendation: FAILURE
+rate_movie: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+remove_movie: SUCCESS
+group_watch: FAILURE
+rate_movie: SUCCESS
+get_all_movies_count: SUCCESS, 154
+remove_group: SUCCESS
+get_all_movies: SUCCESS
+4173
+1881
+2588
+7863
+2844
+2409
+8483
+5342
+4020
+9892
+7137
+5929
+1852
+5119
+7536
+7382
+7568
+7867
+4279
+6946
+964
+4317
+2042
+4229
+1222
+9271
+1065
+3575
+5454
+3499
+1650
+1228
+3124
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+add_movie: SUCCESS
+group_watch: FAILURE
+add_movie: SUCCESS
+add_movie: SUCCESS
+user_watch: SUCCESS
+add_movie: SUCCESS
+get_num_views: SUCCESS, 0
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+2051
+3828
+9162
+636
+2706
+1828
+5156
+5925
+7154
+6719
+1165
+4844
+1303
+9768
+2190
+7488
+2730
+9664
+6826
+948
+3434
+8829
+2265
+2818
+1254
+4056
+6279
+8113
+8681
+1195
+7187
+8493
+388
+2834
+406
+590
+2202
+5042
+5989
+5081
+get_group_recommendation: FAILURE
+add_user_to_group: FAILURE
+add_user_to_group: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+5337
+868
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+1744
+923
+487
+3321
+5483
+7949
+7936
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+8798
+757
+2907
+4838
+7683
+3175
+6761
+5280
+1282
+3517
+4369
+4052
+5408
+6694
+rate_movie: SUCCESS
+remove_movie: FAILURE
+get_group_recommendation: FAILURE
+user_watch: SUCCESS
+add_group: SUCCESS
+user_watch: FAILURE
+add_movie: INVALID_INPUT
+group_watch: FAILURE
+group_watch: FAILURE
+get_all_movies: SUCCESS
+5337
+868
+4582
+1769
+6544
+8955
+2681
+8129
+353
+2894
+1744
+923
+487
+3321
+5483
+7949
+7936
+678
+7580
+8819
+6132
+2099
+6027
+5171
+1431
+8798
+757
+2907
+4838
+7683
+3175
+6761
+5280
+1282
+3517
+4369
+4052
+5408
+6694
+group_watch: SUCCESS
+add_user_to_group: SUCCESS
+user_watch: SUCCESS
+get_all_movies_count: SUCCESS, 39
+add_movie: SUCCESS
+add_user: SUCCESS
+get_all_movies_count: SUCCESS, 33
+get_num_views: SUCCESS, 0
+add_user_to_group: SUCCESS
+get_all_movies_count: SUCCESS, 40
+user_watch: FAILURE
+get_num_views: FAILURE
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+890
+508
+7576
+6195
+6309
+807
+2313
+1130
+621
+2963
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+6011
+3581
+9128
+5655
+2716
+9258
+7738
+9470
+8165
+5045
+8793
+8555
+2140
+2575
+7808
+3666
+3395
+9393
+4764
+5829
+7407
+4911
+1354
+2451
+50
+7264
+6099
+get_all_movies_count: SUCCESS, 34
+user_watch: FAILURE
+get_all_movies_count: SUCCESS, 34
+rate_movie: FAILURE
+add_movie: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+1881
+2588
+7863
+3499
+2844
+2409
+8483
+5342
+4020
+9892
+6952
+7137
+5929
+1852
+5119
+7536
+7382
+7568
+7867
+4279
+6946
+964
+4317
+2042
+4229
+1222
+9271
+4660
+3575
+1065
+5454
+1650
+1228
+3124
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+868
+2051
+4582
+1769
+3828
+1881
+7576
+6544
+8955
+6195
+9162
+2588
+2681
+6309
+8129
+807
+636
+2313
+2706
+353
+2894
+7863
+3499
+2844
+1130
+1828
+2409
+621
+2963
+5156
+7123
+8483
+5342
+1744
+4572
+8003
+5925
+4020
+9892
+1938
+6952
+7137
+1868
+923
+5929
+2404
+7154
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7382
+7949
+1303
+9768
+8625
+6011
+2190
+3581
+7488
+9128
+2730
+7568
+7867
+3073
+9664
+5655
+6826
+7936
+948
+2716
+4279
+3434
+8829
+9258
+678
+2265
+7580
+7738
+8819
+9470
+8165
+2818
+6946
+964
+5045
+8793
+4317
+8555
+6132
+2099
+4769
+2140
+2575
+6027
+7808
+1254
+4056
+5171
+6279
+8113
+1431
+8681
+3666
+1195
+3395
+8798
+9393
+1933
+2042
+757
+2907
+4229
+7187
+1222
+9271
+4764
+4838
+5829
+4660
+3575
+7407
+1065
+5454
+4911
+8493
+1354
+388
+2834
+7683
+3175
+6761
+2451
+5280
+406
+1650
+590
+1228
+1282
+2202
+50
+3124
+3517
+4369
+5042
+7264
+5989
+4052
+5408
+6099
+6694
+5081
+add_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+890
+508
+7576
+6195
+6309
+807
+2313
+1130
+621
+2963
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+6011
+3581
+9128
+5655
+2716
+9258
+7738
+9470
+8165
+5045
+8793
+8555
+2140
+2575
+7808
+3666
+3395
+9393
+4764
+5829
+7407
+4911
+1354
+2451
+50
+7264
+6099
+group_watch: FAILURE
+add_user_to_group: SUCCESS
+group_watch: SUCCESS
+group_watch: FAILURE
+add_user_to_group: SUCCESS
+remove_movie: SUCCESS
+remove_movie: SUCCESS
+add_group: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+add_group: SUCCESS
+user_watch: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+user_watch: SUCCESS
+rate_movie: SUCCESS
+get_num_views: SUCCESS, 2
+get_group_recommendation: FAILURE
+remove_group: SUCCESS
+remove_group: SUCCESS
+user_watch: FAILURE
+add_group: SUCCESS
+get_all_movies: SUCCESS
+4173
+1881
+2588
+7863
+3499
+2844
+2409
+8483
+5342
+4020
+9892
+6952
+7137
+5929
+1852
+5119
+7536
+7382
+7568
+7867
+4279
+6946
+964
+4317
+8778
+1933
+2042
+4229
+1222
+9271
+4660
+3575
+1065
+5454
+1650
+1228
+user_watch: FAILURE
+remove_movie: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+remove_group: SUCCESS
+add_movie: INVALID_INPUT
+user_watch: SUCCESS
+get_all_movies: SUCCESS
+4173
+1881
+2588
+7863
+3499
+2844
+2409
+8483
+5342
+4020
+9892
+6952
+7137
+5929
+1852
+5119
+7536
+7382
+7568
+7867
+4279
+6946
+964
+4317
+8778
+1933
+2042
+4229
+1222
+9271
+4660
+3575
+1065
+5454
+1650
+1228
+add_user: SUCCESS
+remove_group: SUCCESS
+rate_movie: FAILURE
+get_group_recommendation: FAILURE
+add_group: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
+remove_user: FAILURE
+rate_movie: FAILURE
+add_group: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+868
+2051
+4582
+1769
+3828
+1881
+7576
+6544
+8955
+6195
+2588
+2681
+6309
+807
+636
+2313
+2706
+353
+2894
+7863
+3499
+2844
+1130
+1828
+2409
+621
+2963
+5156
+7123
+8483
+5342
+1744
+4572
+8003
+5925
+4020
+9892
+1938
+6952
+7137
+1868
+923
+5929
+2404
+7154
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7382
+7949
+1303
+9768
+8625
+6011
+2190
+3581
+7488
+9128
+2730
+7568
+7867
+3073
+9664
+5655
+6826
+948
+7936
+2716
+4279
+3434
+8829
+9258
+678
+2265
+7580
+7738
+8819
+9470
+8165
+2818
+6946
+964
+5045
+8793
+4317
+8555
+6132
+2099
+4769
+2140
+2575
+6027
+7808
+1254
+4056
+5171
+6279
+8113
+1431
+8681
+3666
+1195
+3395
+8798
+8778
+9393
+1933
+2042
+757
+2907
+4229
+7187
+1222
+9271
+4764
+4838
+5829
+4660
+3575
+7407
+1065
+5454
+4911
+8493
+1354
+388
+2834
+7683
+3175
+6761
+2451
+5280
+1650
+406
+590
+1228
+1282
+2202
+50
+3517
+4369
+5042
+1674
+7264
+5989
+4052
+5408
+6099
+6694
+5081
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+remove_movie: SUCCESS
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+get_all_movies: SUCCESS
+2051
+3828
+636
+2706
+1828
+5156
+5925
+7154
+6719
+1165
+4844
+1303
+9768
+2190
+7488
+2730
+3073
+9664
+6826
+948
+3434
+8829
+2265
+2818
+1254
+4056
+6279
+8113
+8681
+1195
+7187
+8493
+388
+2834
+406
+590
+2202
+5042
+1674
+5989
+5081
+get_group_recommendation: FAILURE
+add_user_to_group: FAILURE
+get_group_recommendation: FAILURE
+remove_group: SUCCESS
+add_user: SUCCESS
+remove_user: FAILURE
+get_group_recommendation: SUCCESS, 4173
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: INVALID_INPUT
+rate_movie: INVALID_INPUT
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+remove_group: SUCCESS
+remove_movie: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+add_user_to_group: FAILURE
+add_user: SUCCESS
+get_all_movies: SUCCESS
+890
+508
+7576
+6195
+6309
+807
+2313
+1130
+621
+2963
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+6011
+3581
+9128
+5655
+2716
+9258
+7738
+9121
+9470
+8165
+5045
+8793
+8555
+2140
+2575
+7808
+3666
+3395
+9393
+4764
+5829
+7407
+1354
+2451
+50
+7264
+6099
+remove_movie: SUCCESS
+get_all_movies: SUCCESS
+890
+508
+7576
+6195
+6309
+807
+2313
+1130
+621
+2963
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+6011
+3581
+9128
+5655
+2716
+9258
+7738
+9121
+9470
+8165
+5045
+8793
+8555
+2140
+2575
+7808
+3666
+3395
+9393
+4764
+5829
+7407
+1354
+2451
+50
+7264
+6099
+get_group_recommendation: FAILURE
+rate_movie: FAILURE
+get_all_movies: SUCCESS
+2051
+3828
+636
+2706
+1828
+5156
+5925
+7154
+6719
+1165
+4844
+1303
+9768
+2190
+7488
+2730
+3073
+9664
+6826
+948
+3434
+8829
+2265
+2818
+1254
+4056
+6279
+8113
+8681
+1195
+7187
+8493
+388
+2834
+406
+590
+2202
+5042
+1674
+5989
+5081
+remove_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+2051
+3828
+636
+2706
+1828
+5156
+5925
+7154
+6719
+1165
+4844
+1303
+9768
+2190
+7488
+2730
+3073
+9664
+6826
+948
+3434
+8829
+2265
+2818
+1254
+4056
+6279
+8113
+8681
+1195
+7187
+8493
+388
+2834
+406
+590
+2202
+5042
+1674
+5989
+5081
+rate_movie: INVALID_INPUT
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+868
+2051
+4582
+1769
+3828
+1881
+7576
+6544
+8955
+6195
+2588
+2681
+6309
+807
+636
+2313
+2706
+353
+2894
+7863
+3499
+2844
+1130
+1828
+2409
+621
+2963
+5156
+7123
+8483
+5342
+1744
+4572
+8003
+5925
+4020
+9892
+1938
+6952
+7137
+1868
+923
+5929
+2404
+7154
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7382
+7949
+1303
+9768
+8625
+6011
+2190
+3581
+7488
+9128
+2730
+7568
+7867
+3073
+9664
+5655
+6826
+948
+2716
+4279
+3434
+8829
+9258
+678
+2265
+7580
+7738
+3474
+8819
+9121
+9470
+8165
+2818
+6946
+964
+5045
+8793
+4317
+8555
+2099
+4769
+2140
+2575
+6027
+7808
+1254
+4056
+5171
+6279
+8113
+1431
+8681
+3666
+1195
+3395
+8798
+8778
+9393
+1933
+2042
+757
+2907
+4229
+7187
+1222
+9271
+4764
+4838
+5829
+4660
+3575
+7407
+1065
+5454
+8493
+1354
+388
+2834
+7683
+3175
+6761
+2451
+5280
+1650
+406
+590
+1228
+1282
+2202
+50
+3517
+4369
+5042
+1674
+7264
+5989
+4052
+5408
+6099
+6694
+5081
+get_num_views: SUCCESS, 1
+add_movie: SUCCESS
+remove_movie: SUCCESS
+user_watch: FAILURE
+add_movie: INVALID_INPUT
+remove_movie: FAILURE
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+add_movie: SUCCESS
+rate_movie: FAILURE
+add_movie: SUCCESS
+add_movie: SUCCESS
+add_movie: INVALID_INPUT
+add_user: SUCCESS
+add_user_to_group: FAILURE
+add_movie: INVALID_INPUT
+get_num_views: SUCCESS, 0
+remove_group: SUCCESS
+add_user: SUCCESS
+group_watch: FAILURE
+add_user_to_group: FAILURE
+remove_group: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+868
+2051
+4582
+1769
+3828
+1881
+7576
+6544
+8955
+6195
+2588
+2681
+6309
+807
+636
+2313
+2706
+353
+2894
+7863
+3499
+2844
+1130
+1828
+2409
+621
+2963
+5156
+7123
+8483
+5342
+1744
+4572
+8003
+5925
+7929
+4020
+9892
+1938
+6952
+7137
+1868
+923
+5929
+2404
+7154
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7382
+7949
+1303
+9768
+8625
+6011
+2190
+3581
+7488
+9128
+2730
+7568
+7867
+3073
+9664
+5655
+6826
+948
+2548
+2716
+4279
+3434
+8829
+9258
+678
+2265
+7580
+7738
+3474
+8819
+9121
+9470
+8165
+2818
+6946
+964
+5045
+8793
+4317
+8555
+2099
+4769
+2140
+2575
+6027
+7808
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+1195
+3395
+8798
+8778
+4086
+9393
+1933
+2042
+757
+2907
+4229
+7187
+1222
+9271
+4764
+4838
+5829
+4660
+3575
+7407
+1065
+5454
+7266
+8493
+1354
+388
+2834
+7683
+3175
+6761
+2451
+5280
+1650
+406
+590
+1228
+1282
+2202
+50
+3517
+4369
+5042
+1674
+7264
+5989
+4052
+5408
+6099
+6694
+5081
+get_all_movies_count: SUCCESS, 165
+get_group_recommendation: FAILURE
+get_all_movies_count: SUCCESS, 165
+get_all_movies: SUCCESS
+4173
+890
+5337
+508
+868
+2051
+4582
+1769
+3828
+1881
+7576
+6544
+8955
+6195
+2588
+2681
+6309
+807
+636
+2313
+2706
+353
+2894
+7863
+3499
+2844
+1130
+1828
+2409
+621
+2963
+5156
+7123
+8483
+5342
+1744
+4572
+8003
+5925
+7929
+4020
+9892
+1938
+6952
+7137
+1868
+923
+5929
+2404
+7154
+6719
+487
+3321
+4181
+1165
+4844
+1852
+2992
+5119
+5483
+7536
+7830
+7382
+7949
+1303
+9768
+8625
+6011
+2190
+3581
+7488
+9128
+2730
+7568
+7867
+3073
+9664
+5655
+6826
+948
+2548
+2716
+4279
+3434
+8829
+9258
+678
+2265
+7580
+7738
+3474
+8819
+9121
+9470
+8165
+2818
+6946
+964
+5045
+8793
+4317
+8555
+2099
+4769
+2140
+2575
+6027
+7808
+1254
+4056
+5171
+6279
+8113
+1431
+3666
+1195
+3395
+8798
+8778
+4086
+9393
+1933
+2042
+757
+2907
+4229
+7187
+1222
+9271
+4764
+4838
+5829
+4660
+3575
+7407
+1065
+5454
+7266
+8493
+1354
+388
+2834
+7683
+3175
+6761
+2451
+5280
+1650
+406
+590
+1228
+1282
+2202
+50
+3517
+4369
+5042
+1674
+7264
+5989
+4052
+5408
+6099
+6694
+5081
+add_movie: INVALID_INPUT
+get_group_recommendation: FAILURE
+get_group_recommendation: FAILURE
+remove_user: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+add_group: SUCCESS
+get_group_recommendation: FAILURE
+get_all_movies: SUCCESS
+5337
+868
+4582
+1769
+6544
+8955
+2681
+353
+2894
+1744
+923
+487
+3321
+5483
+7949
+7404
+678
+7580
+8819
+2099
+4769
+6027
+5171
+1431
+8798
+757
+2907
+4838
+7683
+3175
+6761
+5280
+1282
+3517
+4369
+4052
+5408
+6694
+add_movie: FAILURE
+get_num_views: SUCCESS, 0
+remove_group: SUCCESS
+add_user: SUCCESS
+remove_movie: FAILURE
+remove_group: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+get_all_movies: SUCCESS
+2051
+3828
+636
+2706
+1828
+5156
+5925
+7929
+7154
+6719
+1165
+4844
+1303
+9768
+2190
+7488
+2730
+3073
+9664
+6826
+948
+2548
+3434
+8829
+2265
+2818
+1254
+4056
+6279
+8113
+1195
+7187
+8493
+388
+2834
+406
+590
+2202
+5042
+1674
+5989
+5081
+add_user: SUCCESS
+group_watch: FAILURE
+remove_user: SUCCESS
+remove_group: SUCCESS
+remove_user: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+get_num_views: SUCCESS, 0
+get_all_movies: SUCCESS
+5337
+868
+4582
+1769
+6544
+8955
+2681
+353
+2894
+1744
+923
+487
+3321
+5483
+7949
+7404
+678
+7580
+8819
+2099
+4769
+6027
+5171
+1431
+8798
+757
+2907
+4838
+7683
+3175
+6761
+5280
+1282
+3517
+4369
+4052
+5408
+6694
+get_group_recommendation: SUCCESS, 2051
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+2051
+3828
+636
+2706
+1828
+5156
+5925
+7929
+7154
+6719
+1165
+4844
+1303
+9768
+2190
+7488
+2730
+3073
+9664
+6826
+948
+2548
+3434
+8829
+2265
+2818
+1254
+4056
+6279
+8113
+1195
+7187
+1535
+8493
+388
+2834
+406
+590
+2202
+5042
+1674
+5989
+5081
+add_group: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+get_all_movies: SUCCESS
+890
+508
+7576
+6195
+6309
+807
+2313
+1130
+621
+2963
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+6011
+3581
+9128
+5655
+2716
+9258
+7738
+3474
+9121
+9470
+8165
+5045
+8793
+8555
+2140
+2575
+7808
+3666
+3395
+4086
+9393
+4764
+5829
+7407
+7266
+1354
+2451
+50
+7264
+6099
+add_user_to_group: SUCCESS
+get_group_recommendation: FAILURE
+add_movie: SUCCESS
+get_group_recommendation: FAILURE
+remove_group: SUCCESS
+add_user_to_group: SUCCESS
+add_user: SUCCESS
+add_movie: INVALID_INPUT
+get_group_recommendation: FAILURE
+add_user: SUCCESS
+user_watch: FAILURE
+remove_user: SUCCESS
+remove_user: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+get_all_movies: SUCCESS
+890
+508
+7576
+6195
+6309
+807
+2313
+1130
+621
+2963
+7123
+4572
+8003
+1938
+1868
+2404
+4181
+2992
+7830
+8625
+6011
+3581
+9128
+5655
+2716
+9258
+7738
+3474
+9121
+9470
+8165
+5045
+8793
+8555
+2140
+2575
+7808
+3666
+3395
+4086
+9393
+4764
+5829
+7407
+7266
+1354
+2451
+50
+7264
+6099
+get_all_movies_count: SUCCESS, 44
+get_all_movies: SUCCESS
+2051
+3828
+636
+2706
+1828
+5156
+5925
+7929
+7154
+6719
+1165
+4844
+1303
+9768
+2190
+7488
+2730
+6937
+3073
+9664
+6826
+948
+2548
+3434
+8829
+2265
+2818
+1254
+4056
+6279
+8113
+1195
+7187
+1535
+8493
+388
+2834
+406
+590
+2202
+5042
+1674
+5989
+5081
+get_all_movies_count: SUCCESS, 38
+remove_group: FAILURE
+get_num_views: SUCCESS, 0
+add_movie: SUCCESS
+remove_movie: SUCCESS
+get_group_recommendation: FAILURE
+remove_movie: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_movie: SUCCESS
+get_num_views: SUCCESS, 0
+get_group_recommendation: SUCCESS, 890
+remove_user: SUCCESS
+add_user: SUCCESS
+add_group: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+group_watch: FAILURE
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+add_user: SUCCESS
+group_watch: FAILURE
+add_user: SUCCESS
+add_user: SUCCESS
+add_user: SUCCESS
