@@ -9,7 +9,7 @@ How to use:
 * Run tester.sh by: ./tester.sh
 
 # Notes
-No unit tests available.
+No unit tests available.\n
 The tests do not check handling of allocation errors.
 
 # Credits
