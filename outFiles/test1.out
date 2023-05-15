@@ -1,0 +1,61 @@
+add_user: SUCCESS
+user_watch: FAILURE
+add_movie: SUCCESS
+add_movie: SUCCESS
+remove_movie: SUCCESS
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+add_user: SUCCESS
+user_watch: FAILURE
+group_watch: FAILURE
+remove_user: SUCCESS
+get_group_recommendation: FAILURE
+get_num_views: SUCCESS, 0
+add_group: SUCCESS
+rate_movie: FAILURE
+user_watch: FAILURE
+add_movie: FAILURE
+remove_group: SUCCESS
+user_watch: FAILURE
+add_group: SUCCESS
+user_watch: FAILURE
+add_movie: SUCCESS
+remove_group: FAILURE
+get_num_views: SUCCESS, 0
+add_user: SUCCESS
+add_movie: SUCCESS
+add_group: SUCCESS
+add_user_to_group: SUCCESS
+rate_movie: SUCCESS
+get_all_movies: SUCCESS
+9145
+add_group: SUCCESS
+add_user_to_group: FAILURE
+remove_user: SUCCESS
+get_num_views: SUCCESS, 0
+group_watch: FAILURE
+get_all_movies_count: SUCCESS, 0
+group_watch: FAILURE
+remove_group: SUCCESS
+add_user_to_group: FAILURE
+add_user_to_group: FAILURE
+add_group: SUCCESS
+remove_movie: SUCCESS
+get_all_movies_count: SUCCESS, 0
+add_movie: SUCCESS
+add_user: SUCCESS
+rate_movie: SUCCESS
+add_user: SUCCESS
+add_movie: SUCCESS
+add_movie: INVALID_INPUT
+group_watch: FAILURE
+remove_group: SUCCESS
+add_group: SUCCESS
+group_watch: FAILURE
+add_user: SUCCESS
+add_group: SUCCESS
+get_all_movies_count: SUCCESS, 4
+get_all_movies_count: SUCCESS, 0
+remove_user: SUCCESS
+remove_user: SUCCESS
+add_user_to_group: SUCCESS
