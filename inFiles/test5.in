@@ -1,0 +1,100 @@
+add_movie 5518 3 94 True
+add_group 7376
+remove_group 7376
+rate_movie 7111 5518 136
+remove_group 7376
+get_group_recommendation 7564
+user_watch 7000 5518
+add_movie 366 2 11 True
+remove_group 8978
+group_watch 8448 366
+user_watch 1584 366
+group_watch 512 5518
+add_user_to_group 2471 9690
+group_watch 2515 366
+add_group 7526
+add_group 8305
+get_all_movies 1
+group_watch 8305 5518
+get_group_recommendation 8305
+remove_movie 5518
+remove_group 7526
+remove_user 3807
+get_all_movies_count 3
+remove_movie 366
+get_all_movies 3
+get_num_views 3164 3
+add_user 6287 False
+add_user 4332 True
+add_user 9194 False
+add_group 8613
+rate_movie 6287 366 67
+add_movie 2665 2 49 False
+add_group 4694
+remove_movie 2665
+add_group 6283
+remove_movie 2665
+user_watch 6287 366
+remove_group 6283
+user_watch 6287 366
+add_movie 4704 3 28 False
+group_watch 8305 4975
+remove_group 8613
+remove_movie 366
+remove_group 4694
+get_group_recommendation 8305
+remove_group 8305
+add_group 3131
+user_watch 4332 366
+remove_group 8305
+add_user 3721 False
+remove_group 3131
+remove_user 6287
+remove_group 4509
+add_movie 7005 2 61 True
+get_all_movies 3
+add_user 4849 True
+get_all_movies_count 3
+group_watch 3570 4704
+remove_group 5082
+remove_user 9194
+remove_user 4332
+get_all_movies_count 1
+remove_movie 4704
+get_num_views 3721 3
+add_user 8763 True
+user_watch 4849 7005
+user_watch 3721 7005
+get_group_recommendation 4639
+add_movie 4442 1 1 True
+add_user 1243 False
+get_num_views 1243 3
+rate_movie 8763 366 68
+add_movie 4980 4 40 True
+add_movie 1055 0 70 True
+add_user 4839 True
+remove_user 8763
+remove_user 4839
+group_watch 7804 1055
+add_user 9197 False
+add_movie 1786 0 81 False
+user_watch 9197 4980
+remove_movie 366
+rate_movie 4849 1786 93
+add_user_to_group 3721 4039
+add_movie 4614 1 52 True
+add_user 1811 True
+group_watch 8382 4980
+add_user 9655 True
+add_user 9698 True
+add_group 8077
+remove_group 8077
+remove_group 2591
+get_all_movies 0
+remove_movie 4614
+remove_movie 1055
+get_all_movies 3
+rate_movie 1243 1786 46
+get_all_movies 4
+user_watch 1243 7005
+add_user 5880 True
