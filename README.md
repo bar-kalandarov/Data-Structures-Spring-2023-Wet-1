@@ -8,5 +8,9 @@ How to use:
 * Change the number of tests if needed, default is 100 (there are 500 tests)
 * Run tester.sh by: ./tester.sh
 
+# Notes
+No unit tests available.
+The tests do not check handling of allocation errors.
+
 # Credits
 Credit to Omer Ziv (https://github.com/omrzv) for the tester.sh file.
