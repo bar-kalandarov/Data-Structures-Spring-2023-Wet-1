@@ -1,0 +1,3940 @@
+group_watch 2812 9580
+add_user 8067 True
+add_movie 7069 3 33 False
+add_movie 9845 3 14 True
+add_user 7795 False
+add_user 2272 True
+add_user 5153 False
+remove_user 5153
+add_group 357
+get_num_views 2272 0
+add_user 1299 False
+add_group 9024
+get_all_movies 0
+add_group 2384
+add_group 6076
+add_group 286
+get_all_movies 0
+remove_user 5153
+group_watch 6076 7069
+get_all_movies 4
+add_user 6465 False
+get_all_movies 0
+user_watch 2272 9845
+get_all_movies_count 4
+get_all_movies 0
+remove_movie 7069
+get_all_movies_count 4
+user_watch 7795 9845
+get_all_movies 2
+remove_group 286
+rate_movie 6465 9845 45
+add_user 6049 True
+group_watch 357 9845
+add_user 223 True
+get_all_movies_count 2
+remove_group 357
+add_user 293 False
+add_movie 4455 2 82 False
+get_group_recommendation 9024
+add_movie 492 3 77 True
+remove_group 2384
+rate_movie 7795 9845 8
+remove_movie 4455
+get_all_movies 3
+add_user 5460 True
+get_num_views 5460 1
+remove_movie 492
+get_all_movies 4
+remove_group 6076
+get_all_movies 4
+remove_user 5691
+remove_user 8067
+add_group 7703
+get_num_views 5460 0
+add_user 9861 True
+get_group_recommendation 7703
+add_group 6054
+remove_group 7703
+add_user 1299 False
+remove_group 9604
+get_num_views 5460 4
+user_watch 1299 9845
+add_user 1001 True
+get_all_movies 2
+remove_movie 9845
+add_user 8969 True
+add_group 6155
+rate_movie 9861 9845 106
+add_movie 6997 4 55 True
+add_group 5431
+get_all_movies_count 1
+add_movie 729 0 90 False
+remove_movie 729
+remove_movie 9845
+rate_movie 293 6997 121
+add_group 1984
+remove_movie 729
+remove_movie 6997
+add_user 4647 False
+remove_group 6054
+user_watch 8969 2099
+add_user_to_group 731 9024
+user_watch 1001 7094
+add_user_to_group 4647 6155
+add_movie 12 0 14 True
+remove_group 5431
+add_user 5371 True
+get_all_movies 0
+add_user_to_group 293 1984
+add_movie 9101 0 62 False
+get_all_movies 4
+get_all_movies_count 2
+remove_group 9024
+get_all_movies 3
+add_movie 2951 3 85 False
+get_all_movies 3
+add_user 254 False
+remove_group 6155
+add_user 8303 True
+get_all_movies 0
+rate_movie 4647 9041 47
+get_all_movies 3
+get_all_movies 2
+get_group_recommendation 1984
+get_all_movies_count 4
+add_movie 8010 3 5 False
+remove_group 1984
+add_group 5997
+group_watch 5997 9101
+add_movie 6979 3 50 False
+add_movie 6373 4 77 False
+remove_group 5997
+get_num_views 6465 2
+add_group 1711
+get_all_movies 2
+add_user_to_group 223 1711
+add_movie 9040 3 33 False
+add_movie 9142 4 68 True
+add_user 7999 True
+get_all_movies 2
+get_group_recommendation 1711
+add_movie 2695 3 27 False
+get_group_recommendation 1711
+add_user 5355 True
+user_watch 1001 6979
+add_group 2154
+group_watch 2154 2695
+group_watch 2154 9101
+remove_movie 9040
+add_user 2674 True
+get_all_movies 3
+add_group 3229
+get_all_movies 2
+get_group_recommendation 2154
+remove_group 3229
+remove_movie 6979
+get_group_recommendation 1711
+add_group 968
+add_group 4602
+add_movie 9101 0 94 True
+remove_movie 2695
+add_user 8787 False
+get_all_movies 0
+get_all_movies_count 1
+get_group_recommendation 2154
+add_user 8096 False
+add_group 2776
+remove_group 968
+get_group_recommendation 5748
+add_movie 5141 1 100 False
+add_user 1349 True
+get_num_views 254 3
+rate_movie 9861 9101 54
+remove_group 1711
+add_user 930 False
+add_group 4654
+user_watch 1001 12
+add_group 5367
+remove_movie 9142
+add_user_to_group 6465 4371
+remove_movie 8010
+add_group 268
+add_user 9181 False
+add_group 9669
+add_group 6354
+remove_movie 12
+add_movie 4100 1 58 False
+remove_group 4654
+get_all_movies_count 1
+add_group 9505
+get_all_movies 4
+add_user 5935 False
+group_watch 5367 5141
+add_user 1278 True
+add_user_to_group 8969 5367
+rate_movie 254 6373 -2
+user_watch 5371 9101
+rate_movie 1278 4100 79
+get_group_recommendation 9624
+add_movie 8343 2 72 True
+add_group 2776
+rate_movie 8787 8343 81
+get_all_movies 3
+rate_movie 223 2951 99
+add_movie 8108 0 75 False
+group_watch 4602 8343
+add_movie 9101 4 0 False
+add_user 2809 False
+add_group 585
+remove_group 2776
+remove_user 223
+remove_user 5935
+rate_movie 293 8108 94
+get_all_movies 3
+group_watch 4602 5141
+add_user_to_group 2809 585
+get_all_movies 3
+add_movie 1008 2 86 True
+get_group_recommendation 9669
+add_group 2019
+group_watch 585 8108
+rate_movie 5726 4100 89
+add_group 9251
+group_watch 6354 8343
+get_all_movies_count 0
+add_group 729
+add_movie 7095 3 19 True
+add_user 2861 False
+add_group 8979
+add_group 4292
+add_user 4912 False
+get_all_movies 3
+group_watch 2154 9101
+user_watch 2272 6373
+get_num_views 7795 3
+remove_group 5367
+get_all_movies_count 2
+user_watch 2861 4100
+get_all_movies 2
+get_all_movies 2
+add_movie 149 1 90 False
+remove_user 1349
+add_user 5683 True
+add_user_to_group 6465 729
+get_all_movies_count 4
+remove_movie 7095
+get_num_views 4647 1
+add_group 1105
+group_watch 1105 1008
+remove_group 6354
+remove_group 8979
+get_all_movies 2
+add_user_to_group 1299 2154
+add_group 7303
+group_watch 268 9101
+remove_group 7303
+group_watch 1105 149
+add_group 8995
+add_user 5773 False
+remove_group 9251
+add_group 2943
+get_num_views 5355 1
+user_watch 2674 9101
+user_watch 6465 7095
+remove_user 930
+remove_group 9669
+get_all_movies_count 0
+user_watch 2861 8108
+add_movie 3723 4 90 False
+add_movie 4771 3 91 True
+add_group 2072
+user_watch 2861 9101
+remove_movie 1008
+add_user_to_group 1278 2072
+add_movie 2557 2 55 True
+get_all_movies 4
+add_movie 2910 0 19 False
+get_all_movies_count 3
+get_all_movies_count 1
+add_user 956 False
+get_all_movies_count 4
+add_user_to_group 5683 4602
+get_num_views 5460 1
+get_group_recommendation 585
+add_movie 9851 0 48 True
+user_watch 5460 2557
+get_num_views 4912 3
+add_user_to_group 9181 1105
+get_group_recommendation 2072
+remove_movie 3723
+get_all_movies_count 2
+add_movie 7816 2 24 True
+get_all_movies 4
+add_user_to_group 5460 2154
+remove_movie 7816
+get_num_views 7795 4
+add_group 5369
+add_user_to_group 254 2072
+add_group 8995
+add_user 6459 True
+add_group 1118
+add_user 6701 True
+add_user 7676 False
+remove_movie 8108
+remove_user 6465
+rate_movie 2809 149 150
+remove_movie 4100
+add_group 2043
+remove_group 4292
+remove_movie 4771
+add_group 3951
+add_group 2040
+get_num_views 7795 0
+add_user_to_group 8787 4602
+add_movie 6502 3 41 True
+get_group_recommendation 585
+user_watch 6459 2951
+get_all_movies_count 1
+get_all_movies 2
+get_num_views 956 4
+group_watch 2943 2910
+add_user 5632 True
+add_user 9655 True
+user_watch 5632 6502
+add_user_to_group 1001 1118
+get_group_recommendation 8995
+get_num_views 293 2
+user_watch 1278 8343
+user_watch 1001 5141
+user_watch 8787 6502
+get_group_recommendation 4602
+group_watch 2043 3537
+get_num_views 9181 3
+add_movie 8716 1 86 False
+add_user 2157 False
+get_all_movies_count 0
+add_user_to_group 2272 1105
+get_all_movies_count 4
+get_all_movies_count 3
+group_watch 2019 2951
+rate_movie 4647 6373 29
+add_movie 1819 3 55 True
+add_user 9461 True
+get_all_movies 3
+remove_user 9861
+get_group_recommendation 1105
+add_movie 864 4 75 True
+add_movie 1082 3 55 True
+add_group 2158
+get_group_recommendation 2072
+add_group 6739
+get_num_views 6701 1
+get_all_movies 1
+add_group 8287
+add_movie 1082 4 16 True
+get_num_views 8096 0
+add_user 4294 False
+user_watch 1278 8716
+group_watch 8995 9101
+get_all_movies_count 0
+add_movie 843 1 -4 True
+remove_user 5683
+remove_group 585
+add_movie 6974 3 70 True
+remove_group 729
+get_all_movies_count 3
+remove_user 5683
+get_group_recommendation 1118
+add_movie 6649 2 98 False
+get_all_movies 3
+get_all_movies_count 0
+add_user 3964 False
+remove_movie 7095
+get_group_recommendation 5369
+get_all_movies_count 0
+get_all_movies_count 0
+add_user 5770 False
+remove_movie 9101
+add_user_to_group 4647 8287
+get_all_movies 0
+get_all_movies 0
+add_group 8351
+remove_movie 6649
+group_watch 8287 2557
+add_group 4395
+add_group 7056
+add_movie 3633 2 51 True
+remove_movie 2557
+remove_group 8995
+rate_movie 2272 3633 95
+get_all_movies_count 2
+get_num_views 7676 1
+rate_movie 956 8716 140
+add_user 5037 False
+get_num_views 8303 0
+get_group_recommendation 1105
+add_movie 5498 1 74 False
+add_user 538 False
+remove_group 268
+add_group 6431
+remove_user 1001
+get_all_movies 3
+remove_group 8995
+get_all_movies_count 0
+add_movie 3133 4 52 False
+add_group 9279
+get_all_movies 2
+add_user 4931 True
+group_watch 4395 2951
+remove_user 5632
+add_movie 3778 4 45 False
+add_user 5867 True
+group_watch 1105 149
+add_user_to_group 5371 8287
+add_group 1634
+get_all_movies 3
+add_user 3048 True
+get_group_recommendation 1118
+get_num_views 5355 4
+remove_group 2040
+get_num_views 8787 1
+get_num_views 2272 0
+remove_group 1634
+add_movie 2944 4 91 False
+rate_movie 5037 149 146
+add_user 3270 True
+get_group_recommendation 2154
+add_group 2915
+user_watch 5773 1082
+get_all_movies 1
+add_movie 5333 4 74 False
+add_user 3547 True
+remove_group 5369
+get_group_recommendation 2072
+add_user 426 False
+get_all_movies_count 3
+get_all_movies 0
+group_watch 1105 2951
+get_all_movies_count 0
+get_group_recommendation 6739
+get_all_movies 0
+get_group_recommendation 1118
+add_user 7337 False
+user_watch 1299 6502
+group_watch 1105 3778
+add_movie 4623 4 89 False
+add_group 1467
+rate_movie 6701 2944 116
+user_watch 3270 6502
+remove_group 2154
+group_watch 2019 864
+remove_movie 3133
+add_group 3495
+add_group 1135
+rate_movie 6049 1819 9
+remove_group 7056
+rate_movie 426 149 123
+add_group 1197
+rate_movie 1278 864 130
+add_movie 9469 1 72 True
+user_watch 8787 843
+add_user 3396 True
+add_group 7160
+add_user 4590 True
+get_group_recommendation 2943
+add_movie 3633 1 9 False
+add_user_to_group 5867 1118
+add_user 3773 True
+get_group_recommendation 3951
+get_all_movies 0
+add_user 8592 True
+get_all_movies 2
+remove_movie 9851
+add_user_to_group 5770 7160
+add_user_to_group 9181 2072
+add_movie 9333 0 86 False
+remove_user 8592
+rate_movie 5037 2910 36
+remove_movie 5333
+add_user 6359 False
+add_group 8106
+get_num_views 3396 2
+add_movie 6119 4 58 False
+remove_movie 6373
+add_group 3386
+rate_movie 7676 149 105
+get_all_movies 3
+get_all_movies 0
+get_num_views 3396 4
+add_group 7919
+get_all_movies 1
+get_all_movies 4
+group_watch 9279 5498
+remove_user 5867
+user_watch 1299 6502
+add_movie 4789 0 -3 False
+rate_movie 8096 1082 145
+get_all_movies_count 0
+rate_movie 9655 2910 142
+remove_user 3773
+user_watch 6701 843
+group_watch 3951 1819
+add_movie 9099 1 45 True
+remove_user 509
+remove_group 3951
+get_group_recommendation 7160
+remove_movie 5141
+add_movie 4538 0 64 False
+add_user 143 True
+add_user 8663 True
+remove_user 7795
+add_group 8426
+get_num_views 8969 2
+add_user_to_group 7795 6739
+user_watch 8663 1819
+get_all_movies_count 1
+remove_group 3386
+add_user 4248 False
+add_user 7053 True
+add_group 6942
+add_movie 7170 4 -4 False
+get_group_recommendation 6942
+remove_group 4395
+remove_user 426
+add_user 7009 False
+rate_movie 4912 5498 116
+rate_movie 538 1819 84
+remove_group 1467
+get_all_movies 3
+remove_group 6362
+add_user 5211 False
+group_watch 7160 2951
+get_all_movies_count 3
+get_group_recommendation 3495
+user_watch 1278 6502
+get_num_views 7337 0
+add_user_to_group 3270 6739
+add_user_to_group 956 2019
+add_group 7935
+user_watch 254 4789
+get_all_movies 2
+group_watch 1105 8730
+get_all_movies 2
+add_user 9116 True
+get_all_movies 1
+rate_movie 293 2944 29
+remove_user 4647
+rate_movie 8096 1819 58
+rate_movie 3048 4789 96
+add_movie 4441 2 49 True
+remove_group 1105
+remove_group 8287
+add_user_to_group 5355 3495
+rate_movie 143 864 137
+get_num_views 4912 4
+remove_group 2915
+remove_movie 9099
+add_user_to_group 9461 2019
+remove_user 4215
+add_user 2438 False
+get_all_movies 4
+add_movie 5069 2 48 True
+add_movie 80 0 -4 True
+group_watch 4602 864
+remove_movie 5141
+get_group_recommendation 9505
+add_movie 6544 0 37 False
+group_watch 7935 2951
+get_all_movies 3
+get_num_views 7009 1
+user_watch 2272 6119
+remove_group 2072
+add_user 5589 False
+add_group 310
+get_num_views 3964 0
+add_group 5527
+add_movie 3487 1 72 True
+add_user -1 True
+add_group 2875
+remove_user 8969
+add_group 3424
+get_all_movies 1
+rate_movie 2674 4538 94
+add_movie 8167 2 83 False
+add_user 8916 True
+add_user_to_group 7009 8351
+add_movie 5835 0 20 False
+get_all_movies 1
+get_all_movies_count 4
+user_watch 5773 80
+add_user_to_group 8787 6942
+rate_movie 5589 4789 28
+get_group_recommendation 2875
+get_group_recommendation 2019
+get_all_movies 1
+get_group_recommendation 9505
+add_user 6455 False
+get_group_recommendation 8426
+add_user 4713 False
+user_watch 6049 8343
+get_all_movies 4
+get_all_movies_count 4
+get_all_movies_count 2
+get_group_recommendation 8106
+get_all_movies_count 0
+rate_movie 2861 80 17
+user_watch 8303 8343
+add_movie 1426 4 25 False
+get_all_movies 4
+group_watch 8351 8343
+add_group 7973
+add_user 8085 True
+remove_user 7337
+remove_user 7676
+get_all_movies_count 4
+user_watch 6459 1426
+group_watch 6942 8167
+rate_movie 5371 9333 30
+add_user 8021 False
+add_user 9096 True
+add_user 8109 True
+add_movie 2266 3 48 True
+add_user 5421 True
+add_movie 7237 4 61 True
+add_user 2691 True
+get_all_movies_count 3
+remove_user 2861
+rate_movie 293 3633 147
+get_all_movies 4
+get_num_views 2438 1
+remove_user 2674
+group_watch 6431 5498
+add_movie 6575 0 9 True
+add_movie 8889 2 77 False
+remove_movie 6575
+rate_movie 3964 6974 54
+rate_movie 2272 1082 17
+get_all_movies_count 2
+add_group 6503
+add_movie 4244 1 35 False
+remove_user 8303
+get_group_recommendation 8106
+remove_user 6359
+add_group 9202
+add_user 7108 False
+get_group_recommendation 3495
+user_watch 6701 80
+add_movie 8243 3 81 True
+rate_movie 4912 6974 102
+get_all_movies_count 4
+add_user 2997 False
+add_movie 5871 0 89 True
+get_all_movies 3
+get_group_recommendation 6431
+add_movie 1963 4 34 True
+get_all_movies_count 2
+add_movie 4756 3 86 True
+add_group 8329
+add_group 6439
+get_group_recommendation 6431
+add_user 9809 False
+get_all_movies 2
+remove_user 6049
+get_num_views 3048 2
+get_group_recommendation 1118
+add_user_to_group 5770 8329
+get_all_movies 3
+add_movie 2533 4 71 True
+remove_movie 2944
+rate_movie 9655 864 58
+add_group 6006
+add_movie 5144 4 72 True
+remove_movie 7237
+remove_movie 4623
+user_watch 2861 8716
+get_all_movies_count 1
+user_watch 1278 2910
+user_watch 8916 5871
+add_group 6481
+group_watch 310 3487
+add_user 1155 False
+group_watch 6481 4789
+rate_movie 8303 9469 22
+add_user 7832 False
+get_all_movies_count 0
+group_watch 8329 9469
+add_group 3403
+remove_user 7108
+remove_user 3396
+rate_movie 7832 1819 134
+get_num_views 7676 2
+get_all_movies 2
+add_user 7215 False
+add_group 5848
+get_num_views 3547 3
+remove_user 2272
+rate_movie 5371 1819 19
+get_all_movies 4
+remove_movie 864
+remove_movie 1082
+get_all_movies 2
+remove_user 9116
+group_watch 8351 5493
+get_all_movies 1
+get_group_recommendation 4602
+rate_movie 538 5144 16
+get_group_recommendation 2943
+remove_movie 4538
+add_movie 3407 4 8 False
+get_num_views 2581 3
+get_all_movies 1
+remove_movie 5069
+remove_user 8787
+add_movie 5305 2 36 True
+add_movie 9425 0 16 False
+get_all_movies 0
+get_all_movies_count 1
+add_group 6226
+add_user 4703 False
+add_user 2793 True
+remove_user 9096
+get_group_recommendation 2043
+add_user 7992 False
+remove_user 5371
+add_group 9345
+add_group 6919
+rate_movie 3048 8167 138
+get_group_recommendation 7160
+remove_user 5589
+remove_movie 1963
+add_group 4054
+remove_movie 3407
+get_all_movies 0
+add_user 8066 False
+add_user 7422 False
+remove_movie 2910
+remove_user 5421
+add_group 4233
+remove_user 2157
+get_all_movies_count 0
+remove_user 9096
+add_user 5216 False
+add_user_to_group 9461 8426
+add_group 5111
+remove_movie 5144
+add_user 8506 True
+remove_user 2997
+add_movie 5039 1 8 False
+get_group_recommendation 2943
+rate_movie 2793 7170 53
+group_watch 1135 4244
+remove_group 2043
+group_watch 8329 6974
+get_all_movies_count 1
+add_group 3935
+add_group 3994
+rate_movie 8066 80 109
+remove_movie 9795
+add_group 9816
+get_all_movies 3
+get_all_movies 2
+user_watch 2809 6974
+add_user 1452 True
+add_user 6397 False
+add_user 9341 False
+remove_user 5211
+add_group 8967
+rate_movie 8663 4441 34
+get_all_movies_count 0
+get_all_movies 2
+add_user 2999 True
+user_watch -1 1426
+remove_group 2943
+remove_group 6942
+get_num_views 9096 2
+add_user_to_group 3270 9505
+remove_group 8329
+add_user 1023 False
+user_watch 7992 2951
+remove_user 5037
+get_all_movies_count 3
+add_group 494
+add_group 513
+add_user_to_group 7992 9345
+add_user_to_group 8506 4233
+get_all_movies 1
+get_all_movies 2
+get_all_movies 2
+add_user 8570 False
+add_user 6611 False
+add_user_to_group 7676 6006
+add_movie 4333 2 60 False
+remove_movie 4756
+remove_user 4931
+add_user 827 False
+user_watch 4703 8889
+rate_movie 8916 3487 91
+remove_movie 7170
+add_user_to_group 4912 1118
+add_user_to_group 1155 7935
+get_all_movies_count 1
+get_group_recommendation 6739
+get_all_movies 0
+add_user_to_group 2691 2875
+group_watch 2875 5835
+get_all_movies 3
+remove_movie 80
+add_movie 1283 2 48 True
+add_group 7996
+get_num_views 1023 0
+remove_group 8967
+remove_movie 1819
+add_group 6461
+get_all_movies 2
+get_all_movies 0
+add_group 8091
+add_group 8851
+add_user 2739 True
+remove_movie 2951
+get_group_recommendation 2875
+user_watch 9116 8343
+remove_group 6919
+add_movie 4349 3 52 True
+get_all_movies 2
+add_user 5954 True
+remove_user 7422
+get_group_recommendation 7160
+add_group 5239
+add_user 843 True
+get_all_movies_count 0
+add_user 197 False
+add_movie 5608 2 76 True
+get_group_recommendation 5239
+add_user_to_group 7422 4054
+add_user 9635 False
+remove_group 4602
+get_num_views 3547 4
+add_movie 7166 3 10 False
+add_user 8253 False
+group_watch 6503 7166
+add_movie 2845 1 40 False
+remove_group 6226
+add_group 4232
+remove_group 6919
+add_user 4665 True
+remove_movie 6502
+rate_movie 7062 8889 95
+add_group 870
+add_group 2959
+group_watch 2959 8167
+get_all_movies 1
+user_watch 3270 1320
+add_movie 7823 4 19 False
+add_movie 4215 1 87 True
+get_all_movies 1
+remove_user -1
+remove_group 9279
+get_all_movies_count 4
+user_watch 4912 9469
+remove_movie 6974
+remove_group 8426
+get_group_recommendation 1135
+get_all_movies 1
+rate_movie 4590 6544 107
+remove_group 8106
+remove_group 5527
+add_group 6156
+remove_group 3424
+add_group 6887
+rate_movie 6455 1283 1
+remove_group 4054
+add_user 7112 True
+get_group_recommendation 5239
+add_user_to_group 2809 5848
+group_watch 9279 8243
+remove_group 5848
+rate_movie 6611 5039 139
+add_movie 3637 1 5 False
+add_user_to_group 827 9505
+remove_group 3935
+add_user 750 True
+get_group_recommendation 7160
+rate_movie 4590 2533 78
+add_group 733
+add_group 2726
+get_group_recommendation 6461
+get_group_recommendation 7919
+add_user 9494 True
+rate_movie 9635 5835 59
+get_all_movies 2
+remove_group 870
+add_user_to_group 2861 6887
+user_watch 2691 8167
+remove_group 5527
+get_num_views 9635 0
+user_watch 2793 3633
+add_movie 2909 3 82 False
+group_watch 8351 5871
+add_group 9485
+get_num_views 8096 2
+group_watch 2726 1426
+get_all_movies_count 4
+add_movie 8783 4 -4 True
+add_user 1643 False
+get_all_movies 1
+add_user 884 False
+add_movie 2702 0 55 True
+get_all_movies 0
+add_movie 2560 3 53 True
+get_all_movies_count 4
+add_movie 350 1 53 False
+get_all_movies 0
+add_group 7304
+group_watch 4232 2845
+user_watch 9809 7823
+user_watch 2157 3637
+group_watch 9345 5498
+add_group 6894
+get_all_movies 1
+add_movie 4299 3 38 False
+remove_movie 5871
+remove_movie 3778
+remove_group 6226
+group_watch 3495 5305
+remove_movie 6042
+add_user_to_group 4248 2019
+group_watch 6894 8783
+add_movie 9179 4 64 True
+group_watch 6894 8343
+add_group 5088
+user_watch 4294 3633
+rate_movie 956 4789 115
+get_group_recommendation 6461
+add_movie 4707 4 100 True
+remove_group 4232
+remove_movie 8783
+add_user 1664 False
+get_num_views 8570 4
+add_user_to_group 5460 6503
+get_group_recommendation 4233
+add_group 31
+user_watch 7422 2702
+get_all_movies 4
+get_all_movies_count 4
+user_watch 6455 5039
+add_user 6000 False
+add_user 837 False
+get_all_movies 0
+get_all_movies 0
+get_num_views 7832 1
+add_user_to_group 7009 513
+get_group_recommendation 2959
+get_all_movies 2
+user_watch 3270 2266
+add_group 1109
+add_group 4376
+get_all_movies 4
+add_group 1558
+remove_movie 4707
+group_watch 6156 4215
+remove_user 6455
+group_watch 7996 2909
+get_all_movies 1
+add_movie 2639 4 13 True
+remove_group 6431
+group_watch 2875 5498
+add_movie 8629 1 34 True
+group_watch 8351 2560
+add_movie 8971 0 62 True
+add_user_to_group 8109 9485
+remove_user 143
+rate_movie 8506 4215 84
+get_all_movies 4
+add_user_to_group 7795 1197
+add_user_to_group 1643 5088
+get_num_views 8570 0
+add_movie 4680 4 6 True
+add_group 1282
+remove_group 2726
+get_all_movies_count 2
+add_group 4149
+remove_movie 9179
+get_all_movies 2
+remove_movie 7166
+remove_user 4713
+get_num_views 9809 4
+add_user 8892 True
+rate_movie 1299 9179 102
+get_all_movies 2
+add_movie 2516 1 89 True
+group_watch 7935 9333
+remove_group 3495
+add_movie 9519 2 67 False
+remove_movie 4349
+remove_movie 4707
+get_group_recommendation 9485
+add_user_to_group 8570 2158
+add_user_to_group 7795 8351
+add_group 8701
+get_num_views 1155 0
+add_group 2102
+remove_movie 9519
+get_all_movies 3
+rate_movie 254 3633 41
+group_watch 310 3487
+get_group_recommendation 6887
+add_user 4297 True
+add_user 2860 False
+add_user 3857 True
+get_group_recommendation 4149
+get_num_views 9461 3
+remove_movie 2516
+get_all_movies 0
+get_group_recommendation 9345
+add_user_to_group 9635 1109
+get_all_movies 0
+add_movie 9425 3 70 False
+get_all_movies 0
+remove_user 7215
+get_all_movies_count 1
+add_movie 1829 2 73 False
+remove_movie 1829
+add_movie 3625 2 82 False
+rate_movie 4665 149 -3
+get_all_movies 3
+add_movie 5843 3 41 True
+get_all_movies 2
+add_movie 849 2 19 False
+add_user_to_group 8066 9485
+remove_group 3994
+add_group 1400
+group_watch 4376 3487
+get_all_movies 1
+rate_movie 5954 4789 108
+add_user_to_group 4590 2043
+user_watch 4294 2909
+user_watch 9809 9179
+rate_movie 5954 5835 20
+add_movie 8710 4 35 False
+add_movie 7723 1 40 False
+get_all_movies_count 0
+remove_user 4294
+add_group 3488
+get_all_movies 1
+add_user_to_group 1278 3994
+get_group_recommendation 6887
+remove_user 5867
+group_watch 7304 4789
+add_group 6754
+rate_movie 1278 2538 -1
+get_all_movies 3
+rate_movie 7795 8971 84
+remove_user 2691
+add_user 7299 True
+get_group_recommendation 2102
+add_group 8647
+add_movie 2876 1 27 True
+add_group 9514
+add_group 1217
+add_user_to_group 4665 8851
+add_movie 8247 3 22 False
+get_group_recommendation 9514
+add_user_to_group 827 8967
+get_group_recommendation 1118
+get_num_views 7299 4
+add_movie 1061 3 12 False
+add_movie 5832 0 34 True
+add_movie 5366 2 16 False
+add_group 9193
+get_group_recommendation 1558
+rate_movie 9116 5305 32
+rate_movie 2793 4789 101
+get_all_movies_count 3
+add_group 427
+add_user 9833 True
+rate_movie 3547 8243 -1
+get_group_recommendation 3488
+get_all_movies_count 1
+get_num_views 7053 3
+remove_user 956
+remove_user 9181
+remove_group 4149
+get_all_movies 2
+get_all_movies 1
+add_group 6908
+add_movie 1443 4 80 True
+add_group 7270
+add_user_to_group 7795 2158
+get_all_movies_count 2
+add_user 2697 True
+rate_movie 7009 2876 15
+add_user_to_group 7053 310
+add_user 9726 False
+add_user 2280 True
+add_movie 6530 0 66 False
+get_all_movies 0
+remove_group 1197
+add_movie 3212 3 9 True
+get_all_movies 2
+add_group 7435
+get_num_views 2739 2
+add_group 4850
+add_group 3621
+add_user_to_group 8109 9279
+remove_user 197
+add_movie 3617 4 -3 True
+add_group 9788
+get_all_movies_count 3
+add_movie 8903 0 39 False
+add_group 5861
+get_all_movies 3
+get_all_movies 0
+get_num_views 7999 3
+get_num_views 2999 2
+add_movie 7420 1 17 True
+add_movie 5591 0 58 True
+add_user 7241 False
+add_movie 2509 3 35 False
+group_watch 9514 3637
+get_all_movies 1
+rate_movie 4590 4299 89
+get_group_recommendation 1400
+add_movie 7748 4 0 True
+get_all_movies 1
+add_user 4131 False
+add_user_to_group 4248 6156
+get_all_movies 2
+user_watch 2809 3637
+get_group_recommendation 3403
+user_watch 4297 5608
+add_movie 4636 4 21 False
+get_group_recommendation 494
+add_group 8243
+get_all_movies_count 1
+get_group_recommendation 6908
+add_group 7085
+add_user_to_group 3270 8243
+add_user_to_group 6701 4850
+add_group 4423
+remove_user 6397
+rate_movie 4703 8167 102
+get_all_movies_count 0
+get_all_movies 3
+remove_movie 8903
+rate_movie 4131 8710 148
+remove_group 9202
+get_group_recommendation 513
+user_watch 2793 8710
+remove_user 750
+user_watch 1643 7748
+rate_movie 3857 2509 46
+add_group 2570
+get_all_movies_count 2
+add_movie 1349 3 15 False
+add_group 4799
+add_user 2584 True
+add_group 6784
+get_num_views 8066 4
+add_movie 6079 4 23 True
+get_all_movies 3
+get_all_movies 3
+get_group_recommendation 1217
+add_user_to_group 9635 6894
+get_num_views 6611 0
+add_user 3711 False
+add_user 8183 False
+add_group 4162
+get_all_movies 1
+add_movie 5450 4 52 True
+get_group_recommendation 4423
+remove_user 426
+user_watch 9341 3487
+rate_movie 3711 7420 128
+user_watch 4665 1283
+remove_group 8647
+add_user_to_group 8066 9193
+rate_movie 5770 8247 59
+get_num_views 6701 0
+add_group 7982
+remove_group 8091
+rate_movie 5773 3637 115
+get_num_views 8663 1
+add_user_to_group 843 8243
+add_movie 9349 0 -3 False
+remove_user 1299
+add_group 4533
+add_group 8597
+remove_group 9345
+add_movie 3852 2 35 False
+add_user_to_group 7795 9296
+get_num_views 8303 3
+rate_movie 9809 1349 49
+add_group 8637
+add_user 9539 False
+add_group 6775
+get_all_movies_count 4
+add_group 766
+get_all_movies 0
+add_movie 3082 0 77 False
+add_user 9158 True
+add_user 3177 True
+add_movie 718 4 81 True
+add_user_to_group 843 1217
+get_group_recommendation 4162
+add_user 7423 True
+add_group 782
+add_group 4349
+add_group 5764
+add_movie 3956 1 -5 True
+rate_movie 8096 8716 79
+get_all_movies_count 3
+add_group 8053
+add_group 5667
+get_group_recommendation 5764
+add_movie 957 2 46 True
+add_user_to_group 3547 4850
+get_all_movies_count 0
+add_user 9863 True
+get_num_views 5900 4
+remove_user 1023
+add_group 1780
+add_user 4608 True
+group_watch 2959 8710
+get_num_views 293 4
+get_all_movies_count 4
+get_all_movies 2
+get_all_movies 1
+get_all_movies_count 3
+add_user 8085 False
+group_watch 2019 4215
+remove_user 9096
+get_all_movies 2
+get_all_movies_count 3
+add_movie 5185 2 91 True
+get_group_recommendation 4376
+remove_user 6459
+add_user_to_group 7999 7085
+get_num_views 8085 0
+user_watch 4248 8710
+add_user_to_group 884 3994
+get_all_movies 3
+rate_movie 7795 8343 63
+add_user 6416 False
+add_user 6228 False
+add_user_to_group 843 7996
+get_all_movies 4
+rate_movie 3704 3625 55
+get_num_views 2391 3
+rate_movie 8109 8247 148
+add_user 6381 True
+get_num_views 8892 4
+add_user_to_group 2584 6439
+remove_user 9833
+remove_movie 7748
+remove_user 9863
+get_all_movies 0
+remove_movie 8971
+add_user 2385 False
+remove_user 2999
+group_watch 7935 4333
+get_all_movies_count 1
+get_all_movies_count 1
+remove_group 8351
+user_watch 6228 5498
+group_watch 494 5608
+remove_user 2280
+add_user 3240 False
+get_num_views 8570 1
+get_group_recommendation 7085
+remove_user 3857
+add_movie 7436 3 3 True
+rate_movie 2860 3082 2
+get_num_views 254 4
+user_watch 9341 4244
+get_all_movies_count 0
+add_movie 3148 1 61 False
+remove_group 6739
+add_group 2043
+get_all_movies 0
+get_all_movies 0
+get_all_movies_count 3
+group_watch 7160 7723
+add_user 3668 False
+add_user_to_group 2584 4799
+add_user_to_group 3240 6775
+add_user_to_group 8096 2158
+add_group 9572
+add_movie 8548 1 81 False
+get_all_movies 3
+get_all_movies 0
+remove_movie 9333
+add_group 1410
+remove_movie 4333
+remove_user 8570
+add_group 8257
+rate_movie 8916 350 0
+group_watch 4850 8243
+remove_group 5848
+add_user_to_group 7832 3403
+add_movie 9703 1 99 False
+add_user_to_group 8253 8257
+add_user_to_group 9539 1109
+add_group 9907
+add_group 876
+add_user 3442 False
+rate_movie 7423 5498 119
+get_all_movies 1
+add_user 451 False
+remove_user 538
+get_all_movies_count 0
+get_all_movies 4
+get_all_movies 3
+get_num_views 5126 1
+add_movie 9072 0 18 False
+remove_movie 2509
+add_user_to_group 9096 6775
+remove_group 5667
+add_user 9755 True
+group_watch 2102 4680
+remove_group 9788
+get_num_views 3048 4
+add_user 4290 True
+add_movie 7284 1 74 True
+get_all_movies 1
+add_movie 6245 2 49 False
+add_group 9074
+add_user 8758 False
+user_watch 884 4789
+get_num_views 7676 0
+add_movie 8448 4 89 True
+add_user 9772 False
+add_group 6256
+group_watch 8597 5450
+remove_movie 7420
+get_num_views 7423 0
+add_group 8901
+add_group 5147
+get_all_movies 4
+remove_movie 4215
+add_group 7630
+rate_movie 1664 6245 29
+add_user 4801 False
+user_watch 6416 3956
+remove_group 8851
+get_all_movies_count 2
+add_user 2263 True
+get_all_movies 0
+remove_user 2860
+get_all_movies 0
+get_num_views 8183 2
+group_watch 513 9349
+get_all_movies_count 2
+user_watch 4912 4756
+remove_movie 1349
+rate_movie 9655 3487 63
+add_movie 7780 0 59 True
+get_group_recommendation 4349
+get_all_movies 1
+add_movie 3938 1 89 True
+user_watch 7422 350
+add_user 9722 False
+remove_group 7270
+get_all_movies 1
+remove_user 8109
+group_watch 1135 3625
+add_group 3140
+get_all_movies_count 4
+remove_movie 5608
+rate_movie 9158 9703 4
+remove_movie 4636
+group_watch 782 4938
+add_movie 8629 4 47 True
+add_movie 9064 1 59 False
+remove_user 7009
+rate_movie 8506 1061 10
+remove_user 837
+add_group 2802
+add_user_to_group 2228 1109
+group_watch 7630 8343
+remove_group 5088
+add_user_to_group 6701 8597
+add_user_to_group 4590 7630
+remove_movie 8716
+remove_group 31
+get_group_recommendation 9907
+get_all_movies 1
+add_group 5547
+get_all_movies 2
+add_movie 4095 0 3 True
+group_watch 1282 5305
+add_user_to_group 8085 9279
+group_watch 9514 149
+get_all_movies_count 2
+get_all_movies 2
+add_movie 6404 2 14 True
+user_watch 7832 4756
+add_movie 8472 4 20 True
+add_movie 1114 3 18 True
+add_movie 4631 1 15 False
+remove_group 4799
+remove_movie 3852
+add_group 9191
+get_all_movies 3
+add_group 9442
+remove_movie 8167
+get_num_views 8021 3
+user_watch 2793 4095
+add_user 8193 False
+group_watch 3621 9425
+get_num_views 1023 4
+add_user 2458 False
+add_group 2914
+get_all_movies 0
+get_num_views 8873 3
+remove_user 5037
+remove_user 4297
+get_all_movies 2
+add_movie 9382 4 100 True
+add_user 5297 False
+get_group_recommendation 9279
+user_watch 6228 350
+add_group 8414
+get_all_movies_count 3
+add_group 1961
+add_group 541
+add_group 9534
+remove_movie 1283
+add_group 1100
+get_group_recommendation 3937
+add_movie 757 1 7 False
+remove_user 9833
+group_watch 5239 957
+remove_movie 9425
+get_all_movies_count 1
+add_group 5437
+remove_user 6000
+add_group 3160
+add_movie 9638 2 41 True
+get_all_movies 1
+get_num_views 5297 2
+rate_movie 9833 3625 114
+add_user_to_group 5770 8901
+remove_group 6481
+get_num_views 7299 4
+user_watch 2458 2909
+get_num_views 7676 1
+add_user 7867 False
+add_user 7638 True
+add_group 8643
+get_all_movies 4
+get_all_movies 3
+user_watch 9096 4095
+get_all_movies 3
+add_user 623 True
+add_group 8878
+add_movie 9558 4 39 True
+user_watch 4290 5039
+add_movie 3886 0 31 True
+group_watch 8597 9064
+rate_movie 9833 9558 50
+remove_group 7996
+get_all_movies_count 0
+add_movie 3187 1 25 False
+remove_movie 8243
+get_all_movies_count 0
+get_all_movies_count 4
+rate_movie 6701 4680 33
+get_all_movies_count 4
+get_num_views 254 1
+add_user 8737 False
+get_num_views 9461 0
+remove_group 2019
+get_all_movies 2
+add_user 1766 False
+add_movie 9484 0 24 True
+rate_movie 6416 6544 -2
+add_user 5003 True
+remove_user 451
+get_all_movies 2
+remove_user 8066
+add_movie 6211 3 34 False
+add_movie 5789 2 90 True
+get_group_recommendation 7435
+add_group 7458
+rate_movie 3177 6404 28
+add_movie 7419 4 -5 True
+group_watch 4850 5843
+rate_movie 5773 7284 112
+get_group_recommendation 4376
+add_group 4492
+add_group 3430
+add_user_to_group 4131 3488
+add_group 7832
+remove_user 8892
+remove_group 9193
+rate_movie 7310 6119 89
+add_movie 784 2 28 True
+add_user 4220 True
+get_all_movies_count 1
+remove_group 4162
+remove_user 4290
+user_watch 9116 6544
+add_user 7616 True
+add_movie 4932 3 19 False
+get_num_views 8096 1
+add_movie 8193 4 72 False
+get_all_movies 1
+add_movie 5811 0 34 False
+add_user 7875 False
+get_group_recommendation 9485
+get_all_movies 4
+add_movie 3881 1 49 False
+get_num_views 254 4
+remove_user 5003
+remove_movie 7284
+get_num_views 3442 3
+group_watch 5764 6404
+get_num_views 5589 0
+add_user 4783 True
+add_group 2914
+remove_user 5773
+add_group 2832
+get_num_views 4220 2
+add_group 6210
+add_user_to_group 6000 513
+remove_group 1100
+get_group_recommendation 9191
+get_all_movies_count 4
+get_all_movies 0
+group_watch 4850 3637
+add_movie 2004 1 7 False
+group_watch 9816 1061
+rate_movie 9461 6119 112
+group_watch 8967 9519
+rate_movie 1664 8247 116
+add_movie 6387 2 46 False
+rate_movie 827 5366 129
+add_group 9614
+remove_movie 1061
+add_movie 4788 2 62 True
+user_watch 6228 3625
+get_num_views 7112 0
+rate_movie 3964 849 41
+add_movie 8674 2 95 True
+add_group 3602
+add_group 9364
+add_user 5216 True
+add_group 1575
+remove_group 2959
+user_watch 9863 2876
+remove_movie 6404
+add_movie 2852 1 24 False
+get_group_recommendation 541
+group_watch 782 849
+get_num_views 7999 4
+remove_movie 5450
+remove_group 6775
+rate_movie 2157 4756 70
+add_movie 3890 1 27 False
+remove_group 9907
+add_group 8477
+group_watch 9534 5366
+get_all_movies_count 1
+rate_movie 7999 718 10
+remove_user 5297
+remove_user 7616
+add_user 3218 True
+add_user 4274 False
+add_group 1538
+get_all_movies 2
+get_num_views 8193 1
+remove_user 3442
+group_watch 5437 6079
+remove_movie 3617
+remove_movie 9638
+add_user 6471 False
+get_group_recommendation 5764
+rate_movie 6000 8674 35
+remove_movie 2639
+add_user 4770 False
+remove_movie 2560
+add_user 9096 True
+add_group 1109
+remove_group 2102
+add_user 2886 True
+remove_user 4608
+add_user 8708 True
+rate_movie 5216 3082 102
+get_group_recommendation 6156
+get_group_recommendation 1961
+group_watch 8053 3886
+get_num_views 7832 3
+get_group_recommendation 6461
+group_watch 782 7419
+remove_group 5861
+get_num_views 3964 2
+remove_group 513
+get_all_movies_count 2
+add_user 9380 True
+add_group 2782
+remove_movie 5185
+add_user_to_group 827 5547
+get_all_movies 0
+add_user_to_group 7992 1109
+get_num_views 1452 2
+add_user_to_group 4912 4850
+group_watch 1961 4299
+remove_user 9772
+add_movie 3936 0 61 True
+get_num_views 8109 0
+add_group 8302
+get_all_movies_count 3
+add_movie 2058 1 67 True
+add_user_to_group 7299 9514
+get_num_views 6471 1
+remove_movie 2266
+get_num_views 3048 0
+remove_group 3140
+remove_movie 9469
+get_all_movies 4
+user_watch 4703 2058
+get_all_movies 4
+add_group 622
+rate_movie 884 843 9
+remove_user 5770
+remove_group 6503
+remove_movie 5789
+rate_movie 4665 9179 23
+remove_group 766
+add_group 4852
+rate_movie 7875 6211 47
+add_group 9895
+add_group 9988
+get_group_recommendation 541
+add_movie 1030 1 86 False
+add_movie 1257 4 34 True
+get_group_recommendation 1400
+rate_movie 5460 5039 17
+get_num_views 8183 0
+remove_movie 9349
+get_all_movies 0
+add_movie 3771 2 18 True
+remove_group 9485
+add_user 4331 False
+group_watch 9572 5498
+get_num_views 3442 0
+add_user 9156 True
+group_watch 7832 4932
+add_movie 144 2 42 True
+get_group_recommendation 1410
+add_movie 2180 2 58 True
+remove_user 2458
+user_watch 7676 1030
+remove_user 884
+add_movie 3122 3 49 False
+add_user 2627 False
+rate_movie 9096 9072 125
+get_all_movies 1
+get_group_recommendation 6908
+get_all_movies 0
+get_all_movies_count 1
+add_user_to_group 9461 7304
+group_watch 2158 3886
+remove_user 2809
+get_all_movies_count 3
+remove_user 9494
+add_movie 9899 4 -2 True
+get_num_views 6471 3
+get_num_views 8708 1
+remove_movie 4215
+get_all_movies 0
+add_user 9700 False
+get_num_views 2861 0
+get_num_views 9655 1
+user_watch 9655 849
+get_group_recommendation 8053
+add_user 5632 False
+add_group 1042
+add_group 9021
+rate_movie 4783 3771 31
+add_user_to_group 8096 9074
+rate_movie 8253 1443 63
+get_all_movies 1
+add_group 4348
+add_movie 3608 4 66 True
+user_watch 7867 4299
+remove_movie 5039
+remove_movie 784
+get_group_recommendation 7918
+add_user 6276 True
+get_num_views 7795 4
+remove_movie 9349
+add_user_to_group 9700 4533
+add_movie 4907 0 18 False
+remove_movie 2004
+get_group_recommendation 7832
+add_group 5748
+get_num_views 5589 3
+remove_group 8967
+remove_movie 2058
+remove_movie 6079
+get_group_recommendation 2158
+get_all_movies 0
+add_movie 1413 4 59 False
+remove_user 8916
+add_user 5656 True
+rate_movie 827 6119 132
+get_group_recommendation 6259
+get_num_views 7422 0
+get_all_movies 4
+remove_movie 849
+add_group 9220
+get_all_movies_count 2
+remove_group 2102
+group_watch 6754 6211
+get_all_movies 2
+get_num_views 2584 3
+get_all_movies_count 4
+get_all_movies_count 1
+get_all_movies 0
+user_watch 9755 3212
+get_all_movies 3
+remove_group 2832
+add_user 5445 True
+get_all_movies 2
+add_movie 9523 0 34 True
+rate_movie 2438 3187 30
+add_group 4027
+get_all_movies_count 1
+get_num_views 1278 1
+get_all_movies_count 3
+get_all_movies 4
+add_group 9865
+add_group 386
+rate_movie 7875 8472 47
+add_user 2444 True
+add_movie 1512 1 51 True
+get_all_movies 2
+add_group 6246
+rate_movie 570 4907 39
+add_user 4641 False
+add_movie 6164 1 64 True
+add_user 3322 False
+get_all_movies 3
+add_movie 7174 3 40 True
+add_movie 4849 0 72 False
+add_user 2149 False
+get_all_movies_count 0
+add_group 2618
+add_group 4186
+add_group 9897
+get_all_movies_count 2
+get_all_movies 0
+get_all_movies 2
+add_movie 6867 4 -4 True
+rate_movie 4274 2845 8
+add_movie 8936 2 86 False
+add_group 3783
+add_user_to_group 843 8901
+remove_user 6701
+add_user 8909 False
+get_num_views 3442 2
+remove_group 4233
+get_all_movies_count 3
+get_num_views 2697 2
+add_group 9608
+add_user 9042 False
+rate_movie 6000 1030 148
+remove_group 3602
+remove_movie 8889
+add_user 4933 True
+add_user 841 True
+group_watch 7458 3881
+group_watch 9572 3122
+remove_movie 9072
+add_user 2176 True
+remove_user 9700
+add_user 7389 True
+add_user_to_group 3711 9364
+user_watch 5954 9382
+add_movie 6053 3 3 False
+get_all_movies_count 1
+get_all_movies 4
+remove_movie 8889
+get_all_movies_count 0
+add_group 8221
+get_all_movies 4
+group_watch 7982 5811
+add_movie 7590 4 10 False
+get_all_movies_count 1
+add_user_to_group 3964 9191
+add_group 427
+add_movie 5850 3 90 True
+get_all_movies 0
+remove_user 2438
+group_watch 6256 5591
+get_all_movies 4
+add_user 8838 True
+get_all_movies_count 3
+get_num_views 5216 2
+get_num_views 3048 1
+add_movie 9754 4 88 False
+get_num_views 9863 3
+remove_movie 1268
+add_user 4089 False
+add_movie 9258 1 47 False
+add_group 9177
+get_all_movies_count 0
+get_group_recommendation 1217
+get_group_recommendation 3160
+user_watch 8253 3881
+rate_movie 9096 4756 30
+add_user_to_group 9158 9364
+add_user 1330 False
+get_all_movies_count 0
+add_movie 8861 0 76 False
+remove_user 8909
+get_num_views 3177 0
+get_all_movies 0
+get_all_movies 0
+rate_movie 623 3956 31
+get_all_movies 1
+add_group 3462
+get_num_views 3442 3
+user_watch 956 5811
+get_all_movies_count 1
+get_group_recommendation 5147
+group_watch 8643 757
+get_all_movies 1
+remove_movie 5832
+rate_movie 7832 1443 71
+remove_movie 7780
+add_user_to_group 6471 8257
+add_user_to_group 1023 7919
+add_group 2823
+add_group 7926
+add_user_to_group 2793 1410
+add_user 9263 True
+remove_user 2149
+remove_movie 2180
+get_all_movies 4
+add_group 6729
+add_movie 4072 1 19 False
+add_movie 1616 1 2 False
+get_num_views 7875 0
+add_user_to_group 7992 2570
+group_watch 3160 1257
+get_all_movies 1
+add_group 3329
+add_group 4279
+get_group_recommendation 9505
+add_group 9523
+rate_movie 9809 8343 142
+add_group 3894
+add_user_to_group 7053 7085
+remove_user 9156
+add_movie 3214 1 31 True
+add_user_to_group 8085 7982
+remove_group 9897
+get_all_movies 4
+get_all_movies_count 4
+get_all_movies_count 2
+add_group 1616
+add_user 9857 True
+add_movie 8304 0 15 True
+add_movie 8710 1 98 False
+user_watch 3668 4441
+add_movie 3190 1 53 False
+user_watch 1023 3633
+add_movie 7402 1 46 True
+add_group 8331
+get_all_movies 1
+add_group 3551
+add_user_to_group 9809 4376
+remove_user 841
+remove_movie 2845
+add_user_to_group 9809 8701
+add_user_to_group 623 7919
+rate_movie 6611 3214 73
+remove_movie 144
+remove_user 4131
+get_all_movies 1
+add_movie 2848 4 28 True
+rate_movie 4783 7402 15
+get_all_movies 0
+add_group 3191
+add_group 1783
+remove_user 2627
+add_user_to_group 8109 8257
+remove_movie 5811
+remove_group 1135
+add_user 7450 True
+get_all_movies 0
+get_group_recommendation 8637
+get_group_recommendation 6753
+add_user 3581 False
+rate_movie 3046 4299 104
+group_watch 5748 9064
+rate_movie 9539 4631 112
+user_watch 7389 9179
+get_all_movies_count 1
+get_all_movies_count 3
+get_all_movies_count 3
+get_all_movies 0
+add_movie 7940 4 72 False
+get_num_views 8085 2
+get_all_movies_count 3
+add_group 3339
+get_all_movies 3
+remove_movie 8193
+add_group 3287
+get_all_movies_count 1
+remove_movie 3187
+get_group_recommendation 6439
+group_watch 5547 9558
+get_all_movies_count 1
+rate_movie 7638 849 57
+add_movie 3451 2 65 False
+add_movie 4420 0 65 False
+get_group_recommendation 6754
+add_user_to_group 4089 3160
+get_group_recommendation 9865
+remove_user 2444
+get_all_movies 0
+get_all_movies 1
+get_all_movies 4
+remove_group 8257
+add_movie 746 1 100 True
+add_user 9260 True
+add_user 5149 True
+add_user 1456 True
+add_movie 8440 1 53 False
+add_movie 9683 1 67 True
+add_user 8255 True
+get_all_movies_count 0
+rate_movie 6000 8936 105
+remove_movie 3122
+add_movie 4010 3 26 True
+get_all_movies_count 0
+user_watch 7992 4631
+add_group 6179
+remove_user 4665
+rate_movie 7112 3214 -1
+get_num_views 9096 1
+rate_movie 4220 6530 25
+group_watch 2875 7174
+get_num_views 2860 1
+get_all_movies_count 4
+remove_user 4248
+remove_movie 8861
+add_group 3224
+add_movie 8662 3 12 True
+remove_user 4703
+rate_movie 1155 4680 103
+add_movie 398 2 6 True
+remove_user 9755
+remove_movie 3212
+add_user 2640 True
+get_all_movies 2
+get_all_movies 2
+add_group 6723
+get_all_movies 3
+remove_user 9116
+add_group 2736
+add_movie 9525 3 53 True
+remove_group 7160
+get_all_movies 4
+remove_movie 7940
+remove_group 782
+get_group_recommendation 4027
+get_num_views 2648 3
+add_movie 6132 4 -1 True
+user_watch 7867 6119
+remove_group 1538
+add_user_to_group 5656 8477
+add_user 7131 False
+add_movie 8706 1 30 False
+remove_group 3224
+user_watch 1330 3451
+remove_group 5748
+get_group_recommendation 8257
+user_watch 843 9683
+get_all_movies 0
+get_all_movies 1
+remove_movie 9179
+rate_movie 8253 1257 22
+add_user -7 True
+remove_movie 7780
+rate_movie 8183 350 80
+user_watch 7112 4756
+rate_movie 9833 4932 136
+get_all_movies_count 0
+user_watch 538 8710
+add_movie 5254 0 48 True
+remove_user 9158
+add_user_to_group 4933 4972
+get_all_movies 0
+remove_user 9380
+get_num_views 4783 4
+remove_user 8066
+add_user_to_group 2861 8597
+get_num_views 7299 4
+remove_group 6729
+add_movie 4158 0 13 True
+get_num_views 1664 1
+get_group_recommendation 7033
+get_num_views 1023 4
+add_movie 6292 3 100 True
+group_watch 8314 7402
+add_user 5061 True
+add_user 7041 False
+add_movie 7955 0 59 False
+add_user_to_group 9263 8901
+remove_user 6381
+add_user_to_group 4220 2570
+add_movie 5673 4 75 True
+remove_user 5632
+add_group 8890
+group_watch 4027 1512
+remove_movie 7419
+user_watch 2385 6387
+add_group 7222
+rate_movie 5656 350 28
+add_user_to_group 9833 4492
+add_user 88 False
+remove_group 2736
+get_group_recommendation 3430
+get_all_movies 3
+get_num_views 1330 1
+user_watch 4641 2702
+add_movie 3843 4 36 True
+remove_movie 1443
+add_group 2910
+remove_user 9539
+get_all_movies 2
+get_group_recommendation 6894
+add_user_to_group 5445 2158
+add_user 4391 False
+rate_movie 2176 4756 94
+get_num_views 7795 0
+remove_group 9505
+add_user 8602 True
+add_user 4205 True
+remove_user 6000
+add_user 5781 False
+add_group 5269
+add_user_to_group 3322 8643
+remove_movie 3633
+rate_movie 1664 2702 51
+rate_movie 5061 149 114
+get_group_recommendation 9021
+get_num_views 3322 0
+get_all_movies_count 3
+get_num_views 2886 0
+get_all_movies 3
+get_all_movies 3
+remove_user 3581
+get_all_movies_count 2
+add_user_to_group 3442 7458
+get_all_movies 4
+remove_group 8053
+add_movie 4752 1 6 True
+get_group_recommendation 9021
+remove_movie 3771
+add_group 6504
+add_user_to_group 5445 9865
+remove_movie 3637
+add_user 9260 True
+remove_group 5764
+get_group_recommendation 9523
+rate_movie 7131 4420 84
+get_all_movies_count 1
+get_all_movies 4
+get_group_recommendation 386
+add_movie 5596 2 98 False
+remove_movie 9258
+get_all_movies_count 2
+user_watch 9158 7723
+add_user_to_group 8506 9816
+add_movie 9872 2 71 False
+add_user 7294 True
+get_group_recommendation 5861
+remove_group 1575
+remove_group 1575
+remove_group 622
+add_group 8383
+get_all_movies 1
+add_movie 7368 1 100 True
+rate_movie 9857 9425 19
+remove_movie 1512
+add_movie 1040 1 -5 False
+remove_user 3359
+remove_movie 3886
+get_group_recommendation 386
+add_group 8661
+remove_user 6416
+get_all_movies 0
+remove_group 6006
+get_num_views 8758 0
+add_user_to_group 2697 8221
+add_group 1608
+add_movie 8949 1 36 True
+get_all_movies 0
+rate_movie 8183 9425 105
+add_user_to_group 2691 1109
+get_all_movies_count 4
+get_group_recommendation 6504
+user_watch 6276 8472
+add_user_to_group 7638 9279
+add_group 676
+add_group 1663
+group_watch 9988 9754
+get_all_movies 1
+add_movie 4248 4 -2 True
+add_movie 2925 0 1 True
+get_group_recommendation 7919
+get_group_recommendation 1616
+get_all_movies 2
+get_all_movies_count 4
+add_user 7243 True
+add_group 1979
+add_group 2432
+get_num_views 8183 2
+remove_movie 9484
+remove_movie 6544
+remove_group 3462
+add_user 6974 False
+user_watch 2640 9683
+add_group 2126
+rate_movie 8066 1257 39
+add_movie 1083 2 79 False
+get_all_movies 2
+add_movie 3213 3 56 True
+add_movie 888 1 79 True
+rate_movie 5036 3082 84
+add_user_to_group 843 9220
+add_user 6353 False
+add_group 3624
+remove_movie 5254
+remove_user 2640
+remove_group 8383
+get_all_movies_count 1
+add_movie 7202 2 57 False
+add_group 7437
+get_all_movies 3
+remove_movie 8548
+add_group 6278
+remove_user 3547
+get_all_movies 4
+remove_movie 6211
+add_group 8147
+remove_movie 8204
+get_all_movies_count 2
+get_all_movies 0
+user_watch 3270 9258
+add_user 5681 True
+add_user 2269 True
+get_all_movies 0
+get_all_movies 3
+remove_group 4423
+get_num_views 7638 1
+get_group_recommendation 1558
+get_all_movies_count 0
+user_watch 7999 7823
+get_all_movies 1
+add_movie 6051 1 3 False
+add_group 2876
+add_user 5609 False
+group_watch 9988 6387
+add_user 4737 False
+get_all_movies_count 3
+remove_group 6754
+remove_movie 2509
+get_all_movies 1
+add_group 8257
+get_all_movies 3
+add_user 1132 False
+add_user 6767 False
+group_watch 9523 8936
+add_user 3677 True
+rate_movie 8183 6387 64
+add_group 5805
+remove_group 2570
+add_movie 5767 1 70 False
+add_movie 7990 0 35 True
+get_all_movies 0
+remove_movie 2925
+add_user 7131 False
+user_watch 3048 888
+add_movie 2560 3 7 False
+remove_movie 2852
+add_user 4933 False
+add_user_to_group 2809 5764
+add_movie 9085 0 52 True
+add_movie 8351 2 66 True
+group_watch 676 3886
+get_all_movies 2
+add_movie 5575 3 41 True
+add_movie 9337 4 12 True
+add_group 775
+get_group_recommendation 4376
+add_user 2575 True
+add_group 3118
+remove_user 2886
+add_user_to_group 2697 6006
+add_group 3782
+group_watch 3782 5591
+get_group_recommendation 4348
+group_watch 8414 350
+add_user 2017 False
+get_all_movies_count 0
+add_user 9256 False
+get_all_movies_count 0
+rate_movie 538 9872 135
+add_group 8692
+get_all_movies 3
+remove_user 5954
+add_group 2590
+add_user 4736 False
+get_all_movies 1
+add_user 8186 True
+get_all_movies 4
+remove_group 8643
+remove_movie 1083
+add_user_to_group 7131 3339
+get_group_recommendation 2432
+get_all_movies 1
+group_watch 7085 9337
+remove_group 7435
+group_watch 2043 4849
+get_group_recommendation 4533
+add_group 8537
+add_user_to_group 538 8901
+get_all_movies_count 0
+group_watch 1538 1257
+add_movie 4450 4 1 True
+remove_user 4274
+rate_movie 8193 2909 132
+get_all_movies 4
+user_watch 4912 3122
+add_group 135
+add_user_to_group 5216 1616
+add_group 1077
+remove_movie 9425
+add_user_to_group 3270 4612
+remove_group 9895
+get_all_movies 0
+remove_movie 4788
+remove_movie 4010
+remove_user 7112
+add_movie 9683 4 70 False
+add_user 3353 True
+add_user_to_group 8506 1608
+remove_movie 9703
+group_watch 1780 8936
+get_group_recommendation 5547
+add_movie 6369 3 32 True
+get_all_movies 1
+get_group_recommendation 2566
+get_all_movies_count 3
+get_group_recommendation 2126
+remove_group 6461
+add_movie 1398 1 81 True
+remove_user 9863
+add_user_to_group 2176 2914
+get_all_movies_count 0
+remove_movie 1616
+get_all_movies 1
+get_all_movies 3
+remove_group 7926
+add_movie 2014 2 99 True
+rate_movie 2860 3213 87
+add_user_to_group 7241 8661
+get_all_movies_count 4
+add_user 369 False
+get_all_movies 0
+add_movie 7815 2 30 False
+remove_movie 7202
+rate_movie 369 5596 9
+rate_movie 7832 8674 99
+get_all_movies 2
+remove_user 3218
+add_movie 4817 0 49 True
+add_group 3473
+add_movie 2799 2 35 True
+add_group 2700
+add_movie 2857 2 40 False
+remove_movie 6245
+remove_group 7437
+add_movie 9153 4 79 True
+get_all_movies 4
+get_all_movies 1
+add_user 787 False
+add_group 2730
+add_user 2059 False
+rate_movie 7992 7368 44
+remove_group 6278
+get_all_movies_count 4
+rate_movie 1278 9754 131
+user_watch 538 1030
+rate_movie 2263 888 1
+get_all_movies 2
+add_user 9711 False
+get_all_movies 1
+add_user 1443 True
+remove_group 2910
+group_watch 9988 7368
+remove_movie 3451
+remove_movie 5832
+remove_group 5764
+get_all_movies_count 0
+add_movie 5378 0 41 False
+add_user_to_group 3322 3624
+add_movie 8234 2 84 False
+rate_movie 3148 5686 31
+get_all_movies 2
+add_user_to_group 9260 5547
+add_user 5527 True
+user_watch 7241 3843
+get_all_movies 3
+add_movie 5149 2 77 True
+add_user 9706 True
+get_all_movies 1
+remove_movie 9425
+add_group 5327
+get_group_recommendation 1616
+add_user 2203 True
+remove_movie 3886
+add_group 6300
+remove_user 2809
+add_movie 1799 4 76 False
+remove_movie 7368
+get_all_movies 1
+remove_group 6908
+add_user 1267 False
+add_user 7868 False
+add_user_to_group 8066 386
+add_user 4983 True
+get_num_views 9635 4
+get_all_movies_count 4
+get_group_recommendation 6412
+remove_group 3488
+get_group_recommendation 2432
+add_group 545
+get_group_recommendation 733
+group_watch 1077 9754
+get_all_movies 2
+remove_group 3224
+get_num_views 2584 4
+add_user 2760 False
+get_all_movies 2
+get_all_movies_count 4
+get_num_views 7299 2
+add_user_to_group 2793 6278
+add_group 4213
+add_user_to_group 5681 6888
+group_watch 2914 5596
+add_user 4825 False
+user_watch 6767 9754
+add_group 5
+get_all_movies 0
+rate_movie 2176 1040 3
+get_all_movies 2
+add_group 5790
+get_all_movies 1
+add_user 4772 True
+get_all_movies 1
+add_group 4721
+add_group 1064
+add_user_to_group 6974 3473
+get_all_movies 1
+get_all_movies 2
+add_movie 277 1 15 False
+add_movie 5623 2 44 False
+user_watch 1330 1799
+add_user_to_group 1456 1109
+group_watch 9534 3842
+add_group 4373
+remove_movie 3625
+remove_group 5239
+add_group 6887
+get_num_views 8183 2
+add_user 7721 True
+add_user_to_group 7243 5861
+get_group_recommendation 8243
+get_all_movies 2
+get_all_movies 2
+get_all_movies 2
+add_movie 5712 4 96 True
+add_user 2189 True
+get_group_recommendation 3329
+get_all_movies_count 4
+add_movie 5930 0 51 True
+add_user_to_group 9722 1109
+remove_group 1042
+remove_user 1330
+add_user 6876 True
+get_all_movies_count 0
+add_group 9616
+get_num_views 6150 0
+group_watch 9614 149
+group_watch 6739 5149
+add_user 1381 False
+remove_movie 4158
+add_movie 8617 4 95 True
+remove_group 2126
+get_all_movies_count 1
+get_all_movies 2
+rate_movie 8838 8662 79
+add_user 553 True
+add_group 2647
+add_user_to_group 5609 6887
+add_group 4204
+add_user 5237 False
+add_movie 1647 1 79 True
+get_num_views 3547 0
+remove_movie 9683
+rate_movie 5149 2799 66
+add_movie 8845 3 80 False
+get_all_movies_count 2
+get_all_movies_count 0
+get_group_recommendation 9021
+add_movie 8734 2 87 True
+add_movie 3434 1 54 False
+get_all_movies 3
+add_movie 7234 4 1 True
+add_movie 5423 4 11 True
+get_all_movies 2
+get_all_movies 3
+get_all_movies_count 0
+add_user 5283 False
+add_movie 5815 4 91 True
+add_movie 5211 0 99 False
+get_num_views 1456 2
+get_group_recommendation 6894
+get_all_movies_count 4
+remove_user 3668
+get_group_recommendation 9364
+user_watch 3322 843
+get_num_views 9096 2
+add_user 7145 True
+get_all_movies 2
+get_all_movies 3
+rate_movie 9809 9899 133
+add_movie 4489 2 95 True
+add_movie 508 2 36 False
+group_watch 7222 4907
+add_group 6620
+get_all_movies_count 1
+get_num_views 3353 4
+group_watch 9816 2014
+get_all_movies 2
+get_all_movies_count 0
+group_watch 5147 6530
+add_user_to_group 7243 6504
+add_group 6148
+rate_movie 7053 3213 65
+get_all_movies_count 4
+get_all_movies 0
+user_watch 3048 8710
+get_group_recommendation 7935
+get_num_views 4737 4
+add_user 9698 False
+remove_movie 277
+add_group 2674
+remove_movie 6051
+get_all_movies 2
+group_watch 8597 6387
+add_user 3868 False
+rate_movie 1278 3487 4
+get_all_movies 0
+remove_movie 1030
+add_user 9484 False
+add_movie 2922 4 15 True
+user_watch 1728 3148
+add_movie 1641 3 100 True
+get_group_recommendation 8890
+get_all_movies 1
+get_group_recommendation 3994
+add_user 2714 False
+rate_movie 8663 8949 117
+add_user 2716 True
+get_all_movies 3
+get_all_movies_count 4
+get_all_movies 2
+user_watch 9726 5623
+add_movie 6067 1 0 False
+user_watch 4770 1560
+add_movie 4017 2 87 False
+get_all_movies_count 2
+get_all_movies 2
+add_movie 5782 1 34 True
+remove_movie 9558
+user_watch 7450 9899
+add_movie 3893 1 49 False
+add_movie 6118 1 6 True
+add_group 9304
+rate_movie 3353 5782 25
+get_all_movies 1
+group_watch 9191 5423
+group_watch 9074 6867
+add_movie 4653 1 19 True
+rate_movie 2176 888 84
+get_all_movies 4
+user_watch 3240 1114
+add_group 6684
+get_group_recommendation 2158
+remove_group 8701
+get_all_movies_count 1
+add_user 8675 True
+get_num_views 5061 1
+remove_group 5307
+remove_group 6784
+add_user 1811 True
+remove_group 8257
+add_user_to_group 3322 2432
+remove_group 5
+get_all_movies 2
+get_num_views 7422 4
+add_user 3962 False
+remove_movie 5850
+get_num_views 6471 2
+add_user 7332 True
+add_user_to_group 7676 1663
+remove_movie 7234
+add_user_to_group 4737 3894
+add_movie 9809 0 -3 False
+remove_movie 3213
+rate_movie 1766 7990 118
+get_all_movies_count 0
+add_group 5354
+remove_movie 5673
+get_num_views 4736 1
+group_watch 8692 4907
+add_user 9706 True
+add_user_to_group 7721 1961
+get_num_views 4772 1
+remove_group 4850
+add_user 5427 True
+remove_movie 1641
+add_group 997
+add_movie 3674 1 -5 False
+add_user 1426 False
+get_num_views 2793 0
+get_all_movies 1
+rate_movie 2716 2266 83
+remove_group 6210
+add_user_to_group 8708 3782
+group_watch 1616 4017
+remove_group 1558
+add_user_to_group 2697 4279
+user_watch 1452 5815
+add_user 4088 False
+rate_movie 7145 3082 147
+add_movie 5309 0 55 False
+get_num_views 4220 0
+add_movie 3439 4 68 True
+remove_user 8050
+add_group 1746
+remove_group 1608
+get_all_movies 0
+user_watch 9711 957
+get_all_movies 4
+remove_movie 2014
+user_watch 4331 9899
+user_watch 4770 5498
+get_all_movies_count 1
+add_group 5296
+add_movie 2389 2 26 False
+user_watch 7999 4932
+add_user 404 True
+add_movie 5103 0 -3 False
+get_all_movies 2
+add_group 221
+rate_movie 1664 6530 72
+add_movie 7163 3 83 True
+add_user 8794 False
+get_all_movies_count 2
+add_group 1197
+remove_user 369
+add_group 8505
+add_movie 6012 1 84 False
+remove_user 9263
+get_all_movies 2
+get_all_movies 0
+remove_user 7332
+get_all_movies 1
+add_group 3913
+remove_movie 3190
+user_watch 4983 8351
+add_user_to_group 1664 7304
+remove_movie 1647
+group_watch 733 8351
+add_movie 5389 0 37 False
+remove_group 494
+group_watch 3621 4072
+get_all_movies 4
+add_movie 2766 2 13 True
+rate_movie 2697 4752 62
+remove_group 3473
+add_movie 7976 4 67 True
+add_user_to_group 2385 8415
+group_watch 8661 8617
+get_all_movies_count 1
+get_all_movies_count 2
+user_watch 1132 9337
+get_group_recommendation 5296
+user_watch 4590 4441
+group_watch 3913 7723
+get_all_movies_count 3
+get_all_movies 4
+get_all_movies 1
+remove_movie 9523
+get_group_recommendation 427
+remove_group 6723
+group_watch 2158 5767
+user_watch 553 4244
+add_movie 5971 4 56 False
+add_group 6618
+get_all_movies 2
+add_group 4945
+add_group 5437
+add_user 9180 False
+remove_user 2203
+rate_movie 3240 9872 147
+add_user 8193 False
+rate_movie 4736 5930 98
+remove_movie 149
+add_movie 2895 0 -4 False
+add_movie 324 4 25 False
+get_all_movies 2
+add_movie 3068 2 14 False
+get_all_movies_count 1
+add_movie 6421 3 61 False
+add_movie 5201 2 14 True
+get_all_movies_count 0
+rate_movie 1452 6012 50
+get_group_recommendation 7982
+get_num_views 9726 1
+add_group 4687
+remove_movie 5309
+remove_group 6504
+remove_movie 5596
+get_all_movies 1
+get_group_recommendation 2647
+get_group_recommendation 1780
+add_movie 5909 4 63 False
+remove_movie 3148
+add_group 1999
+add_user_to_group 2157 1746
+add_group 3847
+remove_group 7304
+remove_movie 3122
+get_all_movies 0
+rate_movie 7112 757 53
+remove_user 2860
+remove_movie 1439
+add_user_to_group 7935 3551
+remove_user 7638
+add_group 7952
+get_num_views 2017 0
+add_movie 6663 4 63 False
+add_group 6522
+add_movie 4027 1 2 False
+remove_movie 8304
+add_movie 6844 4 8 True
+remove_user 2189
+add_group 3337
+remove_group 2700
+add_group 8023
+remove_user 3547
+get_num_views 1132 1
+get_group_recommendation 5327
+get_all_movies 2
+get_all_movies 3
+add_user 3064 True
+add_user 1452 True
+remove_group 3782
+rate_movie 5681 8448 97
+add_user 8567 False
+remove_user 404
+add_user 4487 False
+rate_movie 8708 2895 72
+add_group 1465
+get_all_movies 4
+get_all_movies_count 1
+group_watch 8505 2848
+add_user 3984 False
+remove_user 2385
+get_all_movies 1
+add_group 365
+get_group_recommendation 7630
+add_group 2724
+get_all_movies_count 2
+add_user_to_group 7423 4027
+add_group 1413
+remove_movie 3439
+add_user 1251 True
+add_user 5778 True
+get_all_movies_count 3
+rate_movie 3964 5623 1
+rate_movie 7676 5623 82
+get_all_movies 3
+add_user 3757 True
+get_all_movies 4
+add_group 8358
+remove_user 2739
+get_group_recommendation 4348
+remove_user 4825
+get_all_movies_count 0
+remove_movie 5423
+get_num_views 7053 4
+rate_movie 7422 8617 49
+get_all_movies 3
+rate_movie 8794 2876 53
+add_group 3513
+add_movie 671 2 75 False
+remove_movie 8234
+get_all_movies 3
+get_all_movies 3
+rate_movie 5355 9519 138
+group_watch 5354 8044
+add_movie 883 0 1 False
+add_movie 3445 0 16 False
+group_watch 3994 671
+get_group_recommendation 3551
+group_watch 3913 8674
+remove_group 4027
+add_user_to_group 4220 1077
+add_movie 6927 0 41 True
+user_watch 9698 9064
+add_user 5380 False
+get_group_recommendation 9614
+add_movie 3057 4 8 True
+add_user 5441 False
+add_group 214
+user_watch 4933 8440
+remove_movie 746
+get_all_movies 0
+group_watch 6156 9754
+remove_user 3962
+get_group_recommendation 9895
+add_user 9120 True
+add_user_to_group 8675 2876
+remove_movie 7823
+remove_group 2432
+user_watch 5283 3068
+get_all_movies_count 1
+get_all_movies_count 0
+add_group 951
+add_user 2736 False
+get_all_movies 3
+remove_group 9191
+add_user 8017 False
+add_user 7438 True
+add_user 6854 False
+remove_movie 2266
+get_all_movies 2
+get_all_movies 4
+rate_movie 9158 4450 125
+get_group_recommendation 6439
+get_all_movies 0
+add_movie 7802 3 52 False
+get_all_movies 0
+remove_user 827
+add_group 3360
+get_group_recommendation 9865
+rate_movie 9120 3190 15
+group_watch 6278 1413
+remove_group 2914
+get_num_views 9857 3
+user_watch 7992 1398
+get_all_movies_count 2
+remove_movie 9425
+add_user 3353 True
+user_watch 8838 4907
+add_user 6285 False
+add_movie 2625 1 35 False
+remove_user 2861
+get_all_movies_count 3
+get_group_recommendation 4027
+get_group_recommendation 4721
+user_watch 7832 5366
+add_user 1113 True
+add_movie 1021 0 90 True
+add_user 2458 False
+get_all_movies_count 2
+remove_user 9461
+get_all_movies 0
+get_all_movies 0
+get_all_movies_count 4
+user_watch 4088 8734
+get_all_movies_count 2
+add_movie 1939 3 23 True
+add_user_to_group 1113 8023
+rate_movie 8675 9064 76
+add_user_to_group 3240 9865
+add_user 3038 False
+get_all_movies 1
+get_all_movies 2
+get_all_movies 0
+add_group 3931
+add_user 3192 False
+group_watch 4213 9523
+rate_movie 3442 1040 48
+add_user 8855 True
+add_user_to_group 3442 7973
+add_user 4481 True
+add_group 2917
+add_group 1981
+add_user_to_group 6854 3360
+remove_movie 8706
+get_group_recommendation 3329
+add_movie 1541 1 61 True
+rate_movie 8794 1541 37
+get_group_recommendation 2782
+get_all_movies_count 2
+rate_movie 8506 4849 116
+user_watch 1278 8440
+add_group 545
+get_num_views 8017 3
+get_all_movies 4
+add_group 9181
+remove_user 4772
+add_group 6942
+get_all_movies 1
+add_user_to_group 4487 221
+add_movie 2586 2 58 False
+group_watch 2700 7815
+add_group 9518
+rate_movie 8193 5930 106
+rate_movie 5778 6369 102
+add_user 8074 False
+group_watch 9514 8710
+get_all_movies 0
+add_group 7202
+group_watch 201 9085
+get_all_movies 2
+remove_user 7422
+remove_group 1109
+add_user_to_group 5441 1118
+remove_user 9180
+add_movie 1847 4 54 False
+remove_group 8827
+group_watch 1077 4420
+add_group 3838
+remove_movie 2586
+user_watch 3442 8949
+add_user 5411 False
+add_movie 626 4 8 False
+add_group 8368
+add_user_to_group 5441 9988
+get_group_recommendation 310
+remove_user 8074
+add_user 4592 False
+add_user_to_group 2176 1616
+add_user 8085 False
+get_all_movies 3
+get_num_views 4933 1
+group_watch 1981 4441
+user_watch 4641 3890
+add_user_to_group 7795 775
+remove_movie 3082
+get_all_movies 1
+group_watch 4204 5389
+group_watch 3360 883
+add_user 5589 False
+rate_movie 6285 2876 52
+add_movie 1472 3 82 True
+add_user 5427 False
+get_all_movies_count 0
+get_all_movies 4
+remove_user 5460
+rate_movie 7243 6387 86
+add_movie 9479 3 87 False
+add_group 9740
+add_group 3027
+get_all_movies_count 0
+group_watch 9816 2766
+group_watch 6620 7940
+add_user 5552 False
+get_all_movies 0
+get_all_movies 4
+add_group 5992
+remove_user 2760
+add_group 1263
+remove_user 6228
+add_movie 2760 4 36 True
+get_all_movies_count 3
+add_user 4 False
+add_user 8790 False
+user_watch 7795 6119
+remove_movie 1040
+add_movie 1735 4 28 True
+get_num_views 9711 1
+add_user_to_group 3868 5805
+add_user_to_group 4205 9988
+get_group_recommendation 7935
+remove_group 2730
+group_watch 1558 8949
+add_movie 9226 4 44 False
+rate_movie 6353 6067 116
+add_user 9717 True
+get_all_movies_count 1
+add_group 8852
+add_group 1264
+get_group_recommendation 1465
+remove_movie 8734
+add_group 3215
+add_user 3612 True
+add_movie 9729 3 82 False
+add_group 7680
+remove_user 9833
+get_all_movies_count 4
+group_watch 7819 1257
+add_user 6983 True
+remove_user 538
+rate_movie 3353 7990 101
+group_watch 6179 1847
+get_group_recommendation 2700
+add_user 1161 False
+remove_movie 1939
+remove_user 5380
+add_group 7533
+get_group_recommendation 2674
+remove_movie 3938
+group_watch 1465 5389
+add_user_to_group 7299 9616
+add_user 6237 True
+user_watch 3064 5481
+add_user_to_group 2059 3160
+get_all_movies 3
+user_watch 6767 3936
+group_watch 4149 6292
+get_num_views 4592 2
+add_user_to_group 6767 9816
+add_group 6212
+get_group_recommendation 1616
+get_group_recommendation 5547
+group_watch 6256 6369
+add_user_to_group 8096 4492
+add_group 2425
+get_all_movies 3
+rate_movie 7867 4248 33
+group_watch 4492 5591
+add_group 8686
+add_group 2460
+add_user 3977 True
+get_group_recommendation 7458
+add_group 2380
+add_user_to_group 8758 2724
+add_movie 4256 0 46 True
+user_watch 9726 5149
+get_all_movies 3
+add_user 4845 True
+add_movie 8559 0 48 False
+remove_movie 5103
+add_group 4238
+add_group 8674
+add_user 5290 False
+get_all_movies_count 1
+user_watch 5380 1413
+get_all_movies 1
+get_group_recommendation 3337
+remove_movie 3434
+get_num_views 3221 4
+get_group_recommendation 3913
+get_all_movies_count 1
+get_all_movies 2
+add_movie 1306 0 72 True
+get_all_movies_count 3
+get_all_movies_count 2
+remove_user 7131
+add_movie 17 2 71 False
+add_user 9259 False
+add_group 4883
+get_all_movies 4
+add_user 8110 True
+get_group_recommendation 3931
+get_all_movies 0
+get_all_movies_count 2
+get_num_views 7875 4
+group_watch 1410 2922
+add_movie 5769 2 41 True
+remove_user 4592
+remove_user 3322
+add_user 982 False
+add_user 6210 False
+add_group 1238
+add_group 5631
+remove_group 5269
+add_group 2883
+get_all_movies 4
+group_watch 1746 7174
+add_movie 8013 4 48 False
+get_all_movies_count 2
+get_all_movies 2
+add_user 4718 False
+add_movie 3095 0 23 True
+remove_movie 2848
+add_user 8677 True
+remove_group 8890
+group_watch 1197 5211
+add_user 9380 False
+add_user 9156 False
+rate_movie 8567 8247 -1
+add_movie 9624 4 -1 True
+add_group 2157
+get_group_recommendation 1282
+get_num_views 2269 2
+add_user 9042 True
+get_group_recommendation 3360
+add_user 3997 False
+remove_user 3977
+remove_user 8021
+remove_user 1251
+get_num_views 4481 2
+add_user 4765 False
+add_movie 5725 1 53 False
+get_all_movies 1
+get_num_views 3177 3
+group_watch 3931 4752
+add_group 3223
+add_user 4629 False
+add_group 9710
+remove_user 1113
+add_user 3743 False
+get_group_recommendation 7222
+user_watch 7992 4907
+add_movie 2720 1 50 False
+add_user 7719 True
+add_movie 3592 2 88 True
+add_user_to_group 7112 3894
+group_watch 2158 4072
+get_all_movies_count 0
+user_watch 2691 5211
+remove_user 4641
+remove_movie 1257
+user_watch 4765 6387
+get_num_views 8663 4
+rate_movie 5355 4299 54
+add_group 2270
+remove_group 3329
+remove_movie 7802
+get_num_views 7999 2
+get_group_recommendation 4376
+group_watch 2802 8629
+get_all_movies 1
+get_all_movies 1
+get_num_views 2269 0
+get_all_movies 2
+remove_movie 4817
+remove_movie 5623
+remove_user 9120
+remove_group 1981
+get_all_movies 0
+add_group 5969
+add_user 2858 True
+rate_movie 5380 5970 61
+add_movie 6907 1 81 True
+get_all_movies_count 3
+add_user 4831 True
+group_watch 9572 6119
+remove_movie 398
+remove_movie 2922
+add_user 9463 False
+get_num_views 5759 3
+get_all_movies 2
+get_all_movies 2
+add_movie 7871 2 89 True
+remove_group 1558
+add_group 2292
+get_all_movies 1
+add_group 8608
+rate_movie 9717 2895 71
+get_all_movies 1
+get_group_recommendation 9304
+add_user 8987 False
+get_all_movies_count 4
+add_group 441
+add_group 536
+group_watch 6246 5725
+get_all_movies 0
+add_user 9736 False
+get_num_views 5781 3
+add_movie 6548 1 63 False
+remove_user 8987
+get_all_movies 4
+get_group_recommendation 1217
+add_group 3476
+rate_movie 6353 8662 10
+add_movie 754 3 66 True
+get_all_movies 1
+user_watch 6876 1847
+add_group 1058
+user_watch 6237 9258
+add_user 3289 True
+remove_user 5290
+remove_group 9364
+rate_movie 6692 3095 26
+add_user_to_group 7867 3191
+remove_movie 1021
+add_user 3140 False
+rate_movie 843 3487 70
+rate_movie 9096 2799 84
+remove_user 1426
+add_group 264
+add_user_to_group 9706 8637
+add_group 4010
+get_num_views 8916 2
+add_user 5152 True
+add_user 7306 False
+user_watch 9711 6867
+add_user_to_group 9736 1400
+user_watch 7450 5843
+user_watch 4487 6663
+get_group_recommendation 2292
+remove_user 9042
+add_user 9908 False
+rate_movie 5237 6369 117
+remove_group 8608
+add_movie 7462 1 11 False
+add_user_to_group 4082 3160
+get_all_movies 1
+rate_movie 8737 6867 84
+add_movie 7555 4 0 True
+add_movie 7949 2 32 False
+user_watch 7306 324
+add_group 48
+get_num_views 2017 1
+get_all_movies_count 2
+group_watch 386 746
+remove_user 7545
+rate_movie 8567 2876 96
+get_all_movies 4
+remove_movie 9729
+add_group 7359
+add_group 5519
+remove_group 1400
+remove_user 4391
+get_num_views 8567 2
+add_group 8972
+add_user 4779 True
+get_num_views 8838 2
+add_user_to_group 5681 4349
+rate_movie 4845 5712 30
+add_user_to_group 5427 6246
+get_group_recommendation 6618
+remove_user 9726
+get_all_movies 2
+add_movie 9476 0 -1 False
+add_user 9665 False
+add_user_to_group 6353 7919
+get_num_views 7423 0
+add_user 1063 True
+rate_movie 4088 1939 136
+remove_movie 4256
+get_all_movies 4
+rate_movie 4801 3843 -1
+group_watch 9523 1413
+add_movie 3751 0 51 True
+get_all_movies 4
+get_all_movies 2
+group_watch 9816 6844
+remove_movie 9337
+add_user 4910 False
+remove_user 5283
+get_num_views 5656 3
+get_all_movies_count 0
+get_all_movies_count 2
+get_all_movies_count 2
+add_user 4294 False
+remove_user 2858
+get_all_movies_count 3
+group_watch 8023 3881
+remove_user 1381
+group_watch 997 5149
+get_num_views 4779 0
+get_all_movies 4
+add_user 5665 False
+add_movie 5709 0 12 False
+remove_user 9341
+remove_group 8686
+get_num_views 3743 3
+user_watch 7423 4653
+remove_movie 1735
+rate_movie 1643 8247 140
+get_num_views 6285 0
+get_group_recommendation 3118
+user_watch 3048 9624
+remove_movie 5909
+user_watch 3177 8710
+remove_user 9722
+add_user 2723 False
+get_num_views 1811 1
+add_user 542 True
+remove_user 5781
+add_group 111
+get_all_movies_count 4
+add_user 762 True
+user_watch 1664 1413
+add_movie 3774 1 40 False
+get_all_movies 3
+remove_movie 3936
+add_user 3548 False
+remove_user 9717
+group_watch 6300 849
+group_watch 8331 9085
+remove_user 3581
+rate_movie 4910 754 26
+add_group 5835
+add_movie 6496 0 56 False
+remove_group 7919
+add_movie 7877 0 69 False
+add_movie 4458 3 47 False
+group_watch 5327 957
+user_watch 9857 7436
+add_group 9993
+get_all_movies 4
+get_all_movies_count 0
+get_all_movies_count 0
+group_watch 3339 2533
+rate_movie 2691 3490 69
+add_group 2115
+get_group_recommendation 3847
+group_watch 5147 9920
+user_watch 9463 7955
+get_group_recommendation 4279
+user_watch 4779 671
+get_all_movies 2
+get_all_movies_count 0
+add_group 1186
+add_user_to_group 2714 3847
+user_watch 3192 5366
+get_all_movies_count 0
+get_all_movies_count 4
+add_movie 8139 4 54 False
+group_watch 2674 7815
+get_all_movies_count 1
+rate_movie 5170 9899 21
+user_watch 7875 4441
+add_user_to_group 5149 7202
+user_watch 1132 1413
+add_movie 1071 0 80 True
+add_movie 2161 2 88 False
+remove_group 6684
+add_movie 6132 0 29 True
+add_user 1031 False
+get_num_views 2269 4
+add_movie 1075 4 49 True
+add_user 8467 False
+rate_movie 254 3095 52
+get_all_movies 3
+add_user 3588 False
+get_all_movies 4
+remove_user 5216
+remove_movie 4680
+remove_movie 9809
+get_num_views 3964 1
+get_all_movies 1
+get_all_movies 1
+add_user 3852 False
+remove_user 8186
+rate_movie 1278 3592 119
+add_user 5592 True
+rate_movie 1023 9064 33
+add_group 9241
+add_movie 6603 3 70 False
+add_user 3905 False
+add_user 4435 True
+get_num_views 8303 2
+get_group_recommendation 4376
+get_num_views 5552 4
+user_watch 7145 8139
+add_user 5201 False
+add_group 6193
+get_num_views 4629 0
+group_watch 8221 1075
+rate_movie 3353 8936 71
+add_movie 5479 2 0 False
+get_all_movies_count 0
+user_watch 4481 4072
+user_watch 2627 888
+add_user 2442 True
+get_num_views 6983 1
+remove_movie 3674
+user_watch 9484 9519
+rate_movie 5061 6496 12
+get_num_views 6285 2
+get_all_movies_count 0
+get_all_movies 4
+add_movie 2301 0 73 False
+get_group_recommendation 4186
+group_watch 4213 4756
+add_movie 8356 2 76 True
+get_all_movies_count 3
+add_group 4107
+add_user 7267 True
+group_watch 8597 843
+add_user 1067 True
+add_group 1033
+add_group 1722
+get_all_movies 2
+get_num_views 2575 1
+add_movie 4501 3 14 False
+rate_movie 9120 9754 61
+group_watch 2700 1398
+rate_movie 5460 7555 126
+get_all_movies 0
+remove_group 7680
+user_watch 5665 1413
+remove_user 5778
+get_all_movies 0
+remove_movie 9479
+remove_user 5237
+get_group_recommendation 2802
+get_num_views 2861 0
+add_movie 7775 0 20 False
+add_user 9917 False
+user_watch 7676 5503
+add_group 6099
+add_movie 9479 3 49 True
+add_group 44
+user_watch 5527 8662
+get_all_movies_count 1
+add_user 8963 False
+add_group 1078
+add_user 550 True
+group_watch 7952 5971
+add_movie 8464 3 13 False
+add_group 7066
+add_movie 5773 1 -4 True
+remove_user 1381
+add_user 4792 True
+remove_group 365
+add_movie 6604 0 -5 True
+get_all_movies 3
+add_group 2668
+add_user 8831 True
+add_user 8835 True
+group_watch 6439 6119
+get_all_movies 3
+group_watch 1118 7877
+remove_group 3337
+get_all_movies 2
+add_user_to_group 9665 1410
+get_all_movies_count 1
+get_all_movies 1
+get_num_views 3852 3
+remove_group 9241
+add_movie 2937 3 29 False
+remove_movie 3890
+add_group 1589
+add_group 4752
+get_all_movies 3
+get_num_views 7294 3
+add_movie 1671 3 95 False
+add_user 721 False
+user_watch 3289 8710
+remove_user 4220
+add_user 598 True
+add_group 5522
+add_movie 1350 4 61 False
+add_user 9865 True
+get_all_movies 1
+user_watch 7992 8617
+add_movie 7394 1 53 False
+user_watch 2442 2560
+get_group_recommendation 4348
+user_watch 7676 2857
+add_group 4387
+remove_group 6620
+group_watch 1722 9479
+add_group 6158
+get_all_movies 2
+get_all_movies_count 0
+rate_movie 3270 5389 -3
+add_movie 7228 1 51 False
+rate_movie 1643 5149 39
+add_movie 5438 1 0 True
+remove_group 7973
+get_num_views 9463 2
+add_user_to_group 6285 2158
+add_user 8745 True
+add_user 9303 True
+add_movie 4222 4 6 True
+get_num_views 1278 4
+remove_movie 4027
+add_user_to_group 8963 7913
+add_movie 8152 2 21 True
+get_group_recommendation 4852
+remove_group 1413
+add_user 1264 False
+get_group_recommendation 4752
+get_group_recommendation 7202
+group_watch 1780 4489
+user_watch 2860 8464
+get_all_movies 0
+remove_movie 2857
+remove_group 8537
+add_movie 5535 4 82 False
+get_all_movies 2
+add_group 3339
+get_num_views 8193 2
+get_all_movies_count 1
+add_group 2841
+rate_movie 550 4489 80
+get_group_recommendation 5631
+get_all_movies 4
+add_user 5214 True
+get_all_movies_count 3
+add_user 7908 False
+add_group 153
+get_num_views 7053 0
+remove_user 4983
+user_watch 1664 7815
+get_all_movies_count 2
+add_group 7448
+add_user_to_group 7992 48
+remove_user 7795
+add_user_to_group 8193 2724
+add_user_to_group 7992 4186
+add_user_to_group 1155 3403
+get_all_movies 3
+get_num_views 4770 0
+add_group 9312
+add_user 4576 False
+get_all_movies_count 3
+add_group 8770
+add_user 3252 False
+remove_group 1197
+add_user_to_group 5592 5992
+get_num_views 2584 1
+get_num_views 9042 4
+add_user_to_group 9736 9279
+remove_group 1783
+remove_movie 9809
+add_user_to_group 5411 7832
+add_group 7662
+get_group_recommendation 6618
+get_all_movies_count 4
+add_movie 5697 0 -1 True
+add_movie 5703 4 54 True
+add_movie 9861 0 69 False
+add_group 4549
+add_group 3011
+add_movie 4611 3 77 True
+get_all_movies 1
+remove_movie 9861
+add_user_to_group 4912 111
+add_user_to_group 6854 5183
+add_user 7884 True
+get_group_recommendation 3011
+get_all_movies 1
+rate_movie 8017 3843 12
+add_movie 7290 3 47 False
+add_user 8139 False
+add_group 4664
+rate_movie 4435 849 13
+add_movie 401 1 31 False
+get_group_recommendation 4387
+remove_movie 508
+remove_group 7952
+get_all_movies 4
+get_group_recommendation 2782
+group_watch 8302 6292
+get_all_movies_count 1
+add_movie 9092 0 54 False
+group_watch 6256 8936
+rate_movie 843 6907 68
+add_user 2197 False
+get_num_views 6353 4
+get_all_movies 2
+add_group 6253
+remove_movie 2760
+user_watch -7 1472
+add_user 7489 True
+get_all_movies 0
+remove_group 3160
+remove_group 1186
+add_group 1403
+get_num_views 9156 3
+remove_user 3984
+rate_movie 7832 9153 61
+get_all_movies 1
+add_group 5161
+add_user 19 False
+get_all_movies 3
+get_num_views 8758 1
+add_movie 8124 3 52 False
+add_group 3147
+add_movie 7626 2 70 True
+get_num_views 6854 4
+add_movie 6652 0 18 False
+remove_movie 5305
+add_group 3101
+remove_movie 1624
+add_group 2906
+get_all_movies_count 4
+add_group 9855
+add_group 2966
+add_movie 9382 2 56 False
+add_user 2516 True
+group_watch 5161 6663
+get_all_movies 3
+remove_movie 1426
+get_num_views 8109 2
+get_all_movies 2
+remove_group 536
+add_group 3239
+add_group 6456
+group_watch 789 9098
+add_user 4663 True
+add_user 906 False
+add_user_to_group 5061 2270
+remove_group 8537
+get_all_movies_count 2
+add_user 7141 True
+group_watch 6439 6118
+remove_movie 9861
+add_movie 1181 3 26 True
+add_user 852 False
+add_group 6895
+remove_movie 2560
+add_user_to_group 4845 5111
+remove_movie 9899
+rate_movie 4629 2799 43
+get_all_movies_count 0
+add_user_to_group 2736 8661
+user_watch 5681 4420
+remove_movie 8617
+get_all_movies_count 0
+group_watch 5522 6867
+remove_group 8972
+get_all_movies 0
+user_watch 7306 2909
+add_movie 4605 3 39 True
+get_num_views 3997 2
+add_group 6990
+rate_movie 9917 4095 3
+get_group_recommendation 221
+add_group 1509
+add_user 1273 True
+get_all_movies 1
+remove_movie 6132
+add_user_to_group 8855 3624
+get_all_movies 1
+get_all_movies 1
+rate_movie 8085 4611 33
+get_num_views 9256 2
+get_all_movies 3
+get_num_views 1456 0
+get_num_views 8193 2
+get_all_movies 1
+get_all_movies_count 1
+get_all_movies 2
+get_num_views 4296 1
+user_watch 623 3057
+get_group_recommendation 5354
+add_user 5710 False
+remove_movie 8356
+add_movie 5824 1 24 False
+add_movie 2354 0 88 True
+group_watch 2043 5438
+add_movie 231 0 44 True
+add_movie 3289 4 44 True
+user_watch 1811 3057
+add_group 7283
+group_watch 1264 6053
+remove_group 1078
+user_watch 8794 4458
+add_group 3866
+get_all_movies 4
+add_movie 8130 4 7 True
+add_movie 6280 3 -2 True
+get_group_recommendation 2115
+get_all_movies_count 3
+group_watch 5805 711
+add_user 3956 False
+add_user 7659 False
+get_all_movies 4
+remove_user 3677
+group_watch 5861 9519
+get_all_movies 4
+add_movie 496 0 48 True
+get_all_movies 3
+add_movie 5835 4 21 False
+add_group 4987
+add_movie 9371 1 78 True
+get_group_recommendation 5992
+add_user 470 True
+get_all_movies_count 1
+add_group 4863
+remove_user 3677
+remove_movie 888
+remove_group 9279
+get_all_movies 1
+add_user 3805 False
+remove_user 19
+remove_group 3621
+group_watch 2157 6496
+get_all_movies_count 1
+add_group 8852
+user_watch 1278 6067
+get_all_movies 0
+add_movie 3868 2 62 False
+get_all_movies_count 1
+remove_user 2263
+remove_movie 5201
+rate_movie 470 5782 37
+get_all_movies 1
+add_movie 3970 3 64 True
+get_all_movies_count 3
+add_user_to_group 2627 8368
+add_user_to_group 7875 5805
+get_num_views 3048 4
+user_watch 7721 2766
+add_movie 601 3 28 False
+add_group 3463
+add_user 8336 True
+rate_movie 2458 5697 92
+add_group 5362
+rate_movie 7294 7590 46
+add_user 837 False
+add_group 54
+get_all_movies 0
+add_user 3270 True
+get_num_views 4592 0
+get_num_views 6285 4
+remove_movie 1257
+add_movie 9448 3 71 True
+add_user 3056 True
+get_num_views 721 0
+user_watch 8303 6530
+get_num_views 3956 3
+remove_group 3403
+get_all_movies 1
+add_movie 1914 2 67 False
+group_watch 1465 3445
+add_movie 5570 4 42 True
+user_watch 8758 6663
+get_num_views 7423 4
+user_watch 7241 5930
+add_user_to_group 6276 3931
+remove_movie 2389
+add_user 3729 True
+get_all_movies 0
+add_user 7943 False
+add_movie 1671 3 5 False
+add_movie 6853 1 99 False
+add_user 3044 True
+get_group_recommendation 4533
+add_user_to_group 9120 1465
+add_user 5715 False
+remove_movie 6067
+add_user_to_group 1278 4186
+add_movie 6854 1 86 False
+get_num_views 6854 0
+get_all_movies 3
+group_watch 5362 9382
+add_user 6328 False
+add_group 1965
+get_num_views 8567 3
+add_user_to_group 5552 2917
+get_num_views 5681 4
+get_num_views 293 2
+user_watch 4331 5535
+remove_movie 8629
+remove_user 6854
+add_movie 8778 3 83 True
+get_group_recommendation 8505
+user_watch 1031 9226
+add_user 6945 False
+add_user_to_group 9857 6246
+add_user_to_group 598 1722
+add_group 8854
+add_group 8635
+add_movie 3567 1 14 True
+add_movie 4641 1 66 True
+add_user_to_group 5380 4376
+user_watch 5665 9092
+get_all_movies 1
+get_all_movies 0
+add_group 782
+add_group 2982
+add_user 3519 True
+add_user 1071 True
+get_all_movies 0
+rate_movie 1031 6369 34
+add_group 3500
+remove_movie 6496
+add_movie 5084 1 72 True
+user_watch 2442 3445
+get_all_movies 1
+get_num_views 3757 4
+add_user_to_group 7389 386
+add_user_to_group 9260 1589
+get_num_views 9303 2
+add_group 7091
+add_movie 5084 3 20 True
+remove_user 1063
+user_watch 5445 3487
+add_movie 9534 3 38 True
+get_group_recommendation 8302
+rate_movie 7145 9476 84
+remove_movie 7436
+add_movie 4095 3 11 False
+add_group 3191
+add_user 8970 True
+get_all_movies 1
+get_all_movies_count 1
+rate_movie 6876 6404 136
+add_group 5931
+get_all_movies 0
+add_user_to_group 6876 7533
+add_user 3628 True
+rate_movie 4 5535 143
+add_group 1614
+group_watch 135 3214
+add_user 2590 True
+get_all_movies 3
+get_group_recommendation 7202
+add_user 3367 False
+add_movie 2767 2 51 True
+add_group 7689
+group_watch 7832 4450
+add_user 4071 False
+remove_movie 7555
+add_user 1114 True
+add_user_to_group 9380 4186
+group_watch 5354 5535
+get_num_views 3064 4
+add_group 4366
+add_movie 5514 4 39 False
+group_watch 6618 8936
+add_user_to_group 7832 3287
+add_user 5897 True
+get_all_movies 0
+add_movie 1819 2 24 True
+get_num_views 5527 4
+get_all_movies_count 4
+group_watch 3287 9624
+user_watch 1278 2909
+user_watch 4737 5378
+remove_movie 6053
+rate_movie 4590 9519 126
+remove_group 8637
+add_user 3983 True
+remove_group 4349
+remove_user 3743
+group_watch 6739 4605
+rate_movie 8336 5930 8
+get_all_movies 2
+group_watch 6246 2702
+add_user 2494 False
+add_group 1210
+get_all_movies 1
+add_group 2048
+add_user_to_group 9736 111
+add_user_to_group 9857 5437
+get_all_movies 0
+add_group 152
+add_user_to_group 3677 8635
+user_watch 470 5366
+get_group_recommendation 8901
+add_group 9739
+rate_movie 1452 1114 34
+add_user 7297 True
+get_num_views 542 2
+get_all_movies 2
+user_watch 7145 6907
+add_user 6175 False
+add_group 7111
+get_all_movies 0
+get_group_recommendation 9177
+add_movie 8210 0 75 False
+remove_group 4373
+user_watch 3140 6907
+remove_group 5362
+get_all_movies 0
+add_movie 1109 1 16 False
+add_movie 5436 4 75 True
+add_user 4822 True
+add_user 911 True
+add_movie 4129 3 27 False
+add_user 2103 True
+add_user_to_group 8916 214
+add_movie 8674 1 57 True
+group_watch 3994 7990
+get_all_movies 0
+get_group_recommendation 5519
+remove_user -7
+get_all_movies 1
+add_movie 9782 2 95 True
+add_user 161 True
+add_group 8333
+remove_group 5147
+add_user 7450 True
+group_watch 6618 3592
+add_movie 6871 3 8 True
+user_watch 1381 9534
+user_watch 2494 6384
+get_all_movies 2
+get_all_movies 3
+user_watch 4487 5084
+get_all_movies 3
+add_user 9585 False
+user_watch 7719 7949
+get_all_movies 1
+user_watch 5290 2876
+group_watch 4027 9754
+get_group_recommendation 9993
+add_user_to_group 1664 386
+add_user_to_group 7616 8901
+get_all_movies 3
+group_watch 1264 8210
+add_user_to_group 1132 4348
+add_user_to_group 2176 9614
+add_user_to_group 1643 9572
+get_num_views 1067 4
+user_watch 5882 6927
+rate_movie 1155 3434 85
+remove_movie 6603
+get_all_movies 3
+add_movie 6128 3 15 False
+get_all_movies 0
+add_group 1742
+add_group 7688
+add_group 6194
+group_watch 1210 3893
+add_group 7489
+get_group_recommendation 1509
+get_num_views 8303 2
+add_group 7032
+remove_user 9260
+add_group 422
+get_all_movies 0
+user_watch 2697 2895
+remove_movie 2895
+add_movie 8223 3 67 False
+add_user_to_group 4765 9614
+remove_movie 1306
+remove_user 623
+remove_group 5969
+add_group 4895
+rate_movie 3548 6292 55
+rate_movie 7267 3893 104
+add_group 7547
+remove_user 4592
+get_all_movies_count 3
+remove_movie 9754
+get_all_movies 4
+add_user 3490 False
+get_all_movies 1
+get_all_movies 3
+get_all_movies 0
+add_movie 4664 1 8 True
+remove_group 6895
+remove_movie 5782
+remove_user 8467
+remove_group 2618
+add_movie 8651 1 14 False
+add_movie 2410 4 43 True
+rate_movie 5149 3970 102
+add_user_to_group 5380 8692
+get_all_movies 4
+user_watch 3064 141
+remove_group 1614
+remove_group 4107
+get_group_recommendation 4213
+remove_movie 1541
+add_group 9821
+remove_user 4590
+get_all_movies 1
+get_all_movies 4
+remove_user 9635
+get_all_movies_count 0
+add_movie 3037 1 87 False
+group_watch 5992 6012
+add_user 2575 True
+add_movie 1271 2 54 True
+group_watch 8852 1671
+get_all_movies 0
+get_group_recommendation 6894
+get_all_movies 1
+add_group 5349
+add_group 7434
+add_movie 7795 0 -4 True
+add_movie 3360 0 34 False
+group_watch 6522 7775
+add_movie 9025 4 100 True
+add_user_to_group 4071 1210
+add_group 3287
+get_all_movies 4
+add_movie 9882 1 -2 True
+add_group 9573
+get_num_views 2189 1
+add_user 1776 False
+get_all_movies 3
+group_watch 3913 7290
+add_movie 5851 0 -3 True
+rate_movie 800 883 9
+group_watch 1217 8448
+add_movie 639 0 86 True
+add_movie 4486 4 100 True
+group_watch 4664 3868
+group_watch 7982 1071
+get_group_recommendation 4186
+get_all_movies_count 1
+add_group 8183
+add_movie 8712 0 28 True
+remove_group 8183
+add_movie 6746 4 6 False
+get_num_views 982 4
+add_group 297
+get_num_views 3490 4
+remove_movie 3893
+group_watch 9710 3214
+add_user 5468 True
+get_group_recommendation 545
+remove_user 5681
+add_user 4890 True
+get_all_movies_count 4
+add_movie 2071 3 39 False
+user_watch 598 1109
+remove_movie 3434
+get_all_movies 2
+get_group_recommendation 6456
+get_all_movies 2
+add_movie 9580 0 98 True
+get_all_movies 0
+add_group 7180
+add_user 5283 True
+user_watch 9857 6369
+get_all_movies 2
+add_movie 4544 0 51 False
+get_group_recommendation 6300
+remove_group 8477
+get_all_movies 4
+add_group 4887
+rate_movie 9698 4641 93
+add_user 2491 True
+add_user 7625 False
+add_group 4280
+add_user_to_group 2575 6256
+add_movie 4136 0 21 True
+add_movie 2250 4 23 False
+group_watch 7202 4222
+add_user 2845 True
+add_movie 3459 2 29 False
+get_all_movies_count 2
+get_num_views 2575 0
+add_group 9550
+get_all_movies_count 2
+get_num_views 1031 0
+get_all_movies 1
+group_watch 9241 5591
+remove_movie 6853
+user_watch 7241 4641
+get_group_recommendation 9608
