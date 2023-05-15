@@ -1,7 +1,7 @@
 # Tests for Wet1
 How to use:
 * Clone / Download the files from the repository
-* Put the files in the folder with all your files, including maina1.cpp.
+* Put the files in the folder with all your files, including maina1.cpp (from the course's website).
 * Compile your files to create an executable. Can be done by: g++ -stc=c+11 -DNDEBUG -Wall *.cpp - o prog
 * Give tester.sh premission by: chmod u+x teter.sh
 * Change in tester.sh - the EXECUTABLE to your executable if needed
