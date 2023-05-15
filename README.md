@@ -7,3 +7,6 @@ How to use:
 * Change in tester.sh - the EXECUTABLE to your executable if needed
 * Change the number of tests if needed, default is 100 (there are 500 tests)
 * Run tester.sh by: ./tester.sh
+
+# Credits
+Credit to Omer Ziv (https://github.com/omrzv) for the tester.sh file.
